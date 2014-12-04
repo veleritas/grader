@@ -1,19 +1,49 @@
+# last updated 2014-12-03 toby
+
 from __future__ import division
 import re
 import six
+import os
+import sys
+import shutil
 
-diseases = dict() # a list of all the diseases associated with a certain geneMIM
-genes = dict() # a list of all the genes associated with a certain diseaseMIM (some diseases don't have MIMs)
-diseaseName = dict() # the name of each disease
-geneID = dict() # geneID[mim] is the geneID associated with mim
-CUI = dict() # CUI[mim] is the medgen concept unique identifier associated with mim
+#-------------------------------------------------------------------------------
+
+# genes[dMIM] = all the geneMIMs associated with a dMIM
+# some diseases have no MIMs
+genes = dict()
+
+
+
+
+# diseaseName[MIM] = name of the disease given by MIM
+diseaseName = dict()
+
+
+
+geneID = dict() # geneID[mim] = the geneID associated with mim
+
+
+
+CUI = dict() # CUI[mim] is the medgen concept unique identifier of mim
+CUItoMIM = dict() # CUItoMIM[CUI] = the MIM associated with this CUI
 
 
 
 ranking = [] # the ranking of genes in descending order
 
-def invert_dict(d):
-    return dict([(v, k) for k, v in d.iteritems()])
+
+
+debugdir = "/home/toby/grader/debug/"
+
+
+
+
+
+mimsofgid = dict()
+mimsofcui = dict()
+	
+#-------------------------------------------------------------------------------
 
 # print all genes associated with a disease
 def printGenes():
@@ -26,15 +56,7 @@ def printGenes():
 		out.write("\n")
 	out.close()
 
-# print all diseases associated with a gene
-def printDiseases():
-	out = open("diseases.txt", "w")
-	for mim in diseases:
-		out.write("gene id " + mim + "\n")
-		for val in diseases[mim]:
-			out.write("\t" + val + "\n")
-		out.write("\n")
-	out.close()
+	shutil.copy("genes.txt", debugdir)
 
 def printIDs():
 	# print the geneID of each MIM
@@ -43,90 +65,87 @@ def printIDs():
 		out.write("mim " + mim + " geneID " + geneID[mim] + "\n")
 	out.close()
 
+	shutil.copy("geneID.txt", debugdir)
+
 	# print the cui of each mim
 	out = open("cui.txt", "w")
 	for mim in CUI:
 		out.write("mim " + mim + " cui " + CUI[mim] + "\n")
 	out.close()
 
+	shutil.copy("cui.txt", debugdir)
+
+#-------------------------------------------------------------------------------
 
 def parseMorbidmap():
-	numnone = 0
+	badDiseases = []
 	with open("morbidmap") as morbidmap:
 		for line in morbidmap:
 			line = line.rstrip('\n')
 
 			disease, gene, geneMIM, locus = line.split("|")
 
-			# for each unique mim, have a list of all the diseases it is associated with
-			if not (geneMIM in diseases):
-				diseases[geneMIM] = []
-			diseases[geneMIM].append(disease)
-
-			# check if this disease has a MIM number
-			result = re.search(r'\d{6}', disease)
+			result = re.search(r'\d{6}', disease) # disease has MIM?
 			if result == None:
-				numnone += 1
+				badDiseases.append(disease)
 			else:
-				mim = result.group()
-				if not (mim in genes):
-					genes[mim] = []
-				genes[mim].append(geneMIM)
+				dmim = result.group()
+				if not (dmim in genes):
+					genes[dmim] = []
+					
+				genes[dmim].append(geneMIM)
 				
 				# get the name with no mim
 				result = re.search(r'.*, \d{6}', disease)
 				if result == None:
-					# some of the entries ~10 have bad formatting (they are missing the comma)
 					print "ERROR: bad formatting for the MIM number", mim
 				else:
 					name = result.group()
-					name = name[:-8] # removes the ", mim" at the end (thus only disease name)
+					name = name[:-8] # removes the ", mim" at the end
 					
-					
-					diseaseName[mim] = name # the name of this disease
-					# this will name it to the last instance of the disease
-					# omim has multiple names for the same thing, so not sure how to choose
+					# this gets overwritten a bunch!
+					diseaseName[dmim] = name
 
 
 
-# generate the geneIDs and CUIs associated with a MIM
 def parseMIM2gene():
-	# if it's a gene, should have geneID (but some don't)
-	# if it's a phenotype, then has C# and maybe geneID (could be CN#)
-	numNulls = 0
-	
-	#MIM number	GeneID	type	Source	MedGenCUI
+	nulls = [] # list of MIMs that are NULL
 	with open("mim2gene_medgen") as mimfile:
 		for line in mimfile:
 			line = line.rstrip('\n')
 			
-			result = re.search(r'^\d{6}', line)
-			if result:
-				mim = result.group()
-			else:
-				print "ERROR: this line had no MIM"
+			# mim, geneID, gene/pheno, <ignore>, CUI
+			vals = line.split('\t')
 			
-			result = re.search(r'gene', line)
-			if result:
-				temp = re.search(r'\t\d+', line)
-				if temp:
-					gid = temp.group()
-					gid = gid.strip('\t')
-					geneID[mim] = gid
+			assert len(vals) == 5, "mim2gene has too many columns"
+
+			if vals[2] == "gene":
+				if vals[1] != "-":
+					geneID[vals[0]] = vals[1] # one to one
+					
+					if not (vals[1] in mimsofgid):
+						mimsofgid[vals[1]] = []
+						
+					mimsofgid[vals[1]].append(vals[0])
 				else:
-					print "ERROR: can't find geneID for mim #", mim # some weird case
+					print "ERROR: no geneID for MIM #" + vals[0]
+			elif vals[2] == "phenotype":
+				if vals[4] != "-":
+					if not (vals[0] in CUI):
+						CUI[vals[0]] = []
+					
+					CUI[vals[0]].append(vals[4])
+				
+					if not (vals[4] in mimsofcui):
+						mimsofcui[vals[4]] = []
+					
+					if not (vals[0] in mimsofcui[vals[4]]):
+						mimsofcui[vals[4]].append(vals[0])
+				else:
+					print "ERROR: no MedGen Concept ID for", vals[0]
 			else:
-				result = re.search(r'phenotype', line)
-				if result:
-					temp = re.search(r'C\w{7}', line)					
-					if temp:
-						cui = temp.group()
-						CUI[mim] = cui
-					else:
-						print "ERROR: no MedGen Concept ID for phenotype", mim
-				else:
-					# the NULL field... not sure what to do here
-					numNulls += 1
+				nulls.append(vals[0])
+
 
 
 def loadGeneRanking():
@@ -138,13 +157,6 @@ def loadGeneRanking():
 			gid, score = line.split()
 			ranking.append([gid, float(score)])
 
-	# are the dicts built with strings or integers? can you use integers if the indexes are strings?
-
-def isstring(s):
-	if isinstance(s, six.string_types):
-		return True
-	else:
-		return False
 
 def judgeScore(bestdisease):
 	out = open("result.txt", "w")
@@ -213,19 +225,58 @@ def judgeScore(bestdisease):
 	out.close()
 	roc.close()
 
-
 def preprocess():
+	# where all the debug text files are stored
+	if not os.path.exists(debugdir):
+		os.makedirs(debugdir)
+
 	parseMorbidmap()
 	parseMIM2gene()
-	
-	loadGeneRanking()
-	
-	printGenes()
-	printDiseases()
-	printIDs()
 
+	printGenes()
+#	printIDs()
+
+
+
+	return
+
+
+
+
+
+	
+	
+	global CUItoMIM
+	CUItoMIM = invert_dict(CUI)
+	
+#	out = open("lol.txt", "w")	
+#	for cui in CUItoMIM:
+#		out.write(cui + " " + str(len(CUItoMIM[cui])) + "\n")
+#	out.close()
+	
+	out = open("lol2.txt", "w")	
+	for mim in CUI:
+		out.write(mim + " " + str(len(CUI[mim])) + "\n")
+	out.close()
+	
+	
+	print "gene id length", len(geneID)
+	lol = invert_dict(geneID)
+	lol2 = invert_dict_nonunique(geneID)
+	
+	print "lol length", len(lol)
+	print "lol2 length", len(lol2)
+	
+	
+	
+	
+	
+	print "len", len(CUItoMIM)
+	print len(CUI)
 
 def work():
+	loadGeneRanking()
+
 	# find the disease with the most genes involved
 	biggest = -1
 	bestdisease = ""
@@ -237,12 +288,32 @@ def work():
 
 	# should be mim 125853, insulin resistance
 	print "the disease with the most genes is", bestdisease
-
-
 	judgeScore(bestdisease)
+
+def grade(cui):
+	# takes one disease cui and outputs the TRP and FPR
+	
+	# check that this cui exists in morbidmap
+	if not (cui in CUItoMIM):
+		return False
+	
+	
+	
+	return True
+
 
 def main():
 	preprocess()
-	work()
+	return
+	
+	place = "/home/toby/grader/disgenet/testset.txt"
+	with open(place) as testset:
+		for line in testset:
+			line = line.rstrip('\n')
+			
+			if grade(line):
+				print "graded"
+			else:
+				print "ERROR unable to grade"
 
 main()
