@@ -1,5 +1,5 @@
 # first version 2014-12-02 toby
-# last updated  2014-12-03 toby
+# last updated  2014-12-04 toby
 
 # this program takes a list of CUIs
 # checks that they have the correct format
@@ -13,6 +13,12 @@ import sys
 import shutil
 
 import utilities
+
+def moveAndReplace(file, dest):
+	if os.path.exists(dest + file):
+		os.remove(dest + file)
+
+	shutil.move(file, dest)
 
 def makeQuery(CUI):
 	query="""
@@ -50,7 +56,7 @@ ORDER BY
 
 	# move it to the raw data directory
 	directory = "/home/toby/grader/disgenet/raw/"
-	shutil.move(CUI + ".txt", directory) 
+	moveAndReplace(CUI + ".txt", directory)
 
 def main():
 	# where to put the raw disgenet data
