@@ -1,0 +1,38 @@
+#!/usr/bin/expect
+# 2014-12-04 toby
+# this script automatically connects to gene and gets the file passed to it
+# it automatically puts the file into the current directory
+set timeout 20
+
+set file [lindex $argv 0]
+set email "tongli@scripps.edu"
+
+spawn ftp ftp.ncbi.nih.gov
+
+expect "Name"
+send "anonymous\r"
+expect "Password:"
+send "$email\r"
+
+expect "ftp>"
+send "ls\r"
+
+expect "ftp>"
+send "cd gene\r"
+
+expect "ftp>"
+send "ls\r"
+
+expect "ftp>"
+send "cd DATA\r"
+
+expect "ftp>"
+send "ls\r"
+
+expect "ftp>"
+send "get $file\r"
+
+expect "ftp>"
+send "exit\r"
+
+expect eof

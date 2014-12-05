@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# 2014-12-02 toby
+# first version 2014-12-02 toby
+# last updated  2014-12-04 toby
 # this program grabs a file from the omim server
 # and puts it into the grader directory
 
@@ -12,7 +13,12 @@ echo "Starting to update $file"
 
 if [ -e "$file" ]; then
 	echo "Successfully got $file"
-	mv $file ~/grader/data
+
+	newname=$file
+	newname+=".txt"
+
+	mv $file $newname
+	mv $newname ~/grader/data
 else
 	echo "Could not get $file from OMIM server"
 fi
