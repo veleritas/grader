@@ -1,4 +1,4 @@
-# last updated 2014-12-04 toby
+# last updated 2014-12-08 toby
 
 from __future__ import division
 import re
@@ -21,8 +21,6 @@ geneID = dict() # geneID[mim] = the geneID associated with mim
 CUI = dict() # CUI[mim] is the medgen concept unique identifier of mim
 CUItoMIM = dict() # CUItoMIM[CUI] = the MIM associated with this CUI
 
-ranking = [] # the ranking of genes in descending order
-
 debugdir = "/home/toby/grader/debug/"
 
 mimsofgid = dict() # mimsofgid[gid] = list of mims that gid is known by
@@ -34,8 +32,6 @@ def invert_dict(d):
     return dict([(v, k) for k, v in d.iteritems()])
     
 def moveAndReplace(file, dest):
-	# if file exists at destination, deletes file
-	# then moves file to destination
 	if os.path.exists(dest + file):
 		os.remove(dest + file)
 
@@ -45,33 +41,30 @@ def moveAndReplace(file, dest):
 
 # print all genes associated with a disease
 def printGenes():
-	out = open("genes.txt", "w")
-	for disease in genes:
-		out.write("disease id " + disease + "\n")
-		out.write("name of disease " + diseaseName[disease] + "\n")
-		for mim in genes[disease]:
-			out.write("\t" + mim + "\n")
-		out.write("\n")
-	out.close()
+	with open("genes.txt", "w") as out:
+		for disease in genes:
+			out.write("disease mim " + disease + "\n")
+			out.write("name of disease " + diseaseName[disease] + "\n")
+			for gmim in genes[disease]:
+				out.write("\t" + gmim + "\n")
+			out.write("\n")
 
 	moveAndReplace("genes.txt", debugdir)
 
 def printIDs():
 	# print the geneID of each MIM
-	out = open("geneID.txt", "w")
-	for mim in geneID:
-		out.write("mim " + mim + " geneID " + geneID[mim] + "\n")
-	out.close()
+	with open("geneID.txt", "w") as out:
+		for gmim in geneID:
+			out.write("gmim " + gmim + " geneID " + geneID[gmim] + "\n")
 
 	moveAndReplace("geneID.txt", debugdir)
 
 	# print the cui of each mim
-	out = open("cui.txt", "w")
-	for mim in CUI:
-		out.write("mim " + mim + "\n")
-		for cui in CUI[mim]:
-			out.write("\t" + cui + "\n")
-	out.close()
+	with open("cui.txt", "w") as out:
+		for mim in CUI:
+			out.write("mim " + mim + "\n")
+			out.write("\t" + CUI[mim] + "\n")
+
 
 	moveAndReplace("cui.txt", debugdir)
 
@@ -79,7 +72,6 @@ def printIDs():
 
 def parseMorbidmap():
 	badDiseases = []
-	
 	place = "/home/toby/grader/data/morbidmap.txt"
 	with open(place) as morbidmap:
 		for line in morbidmap:
@@ -126,10 +118,11 @@ def parseMIM2gene():
 					print "ERROR: no geneID for MIM #" + vals[0]
 			elif vals[2] == "phenotype":
 				if vals[4] != "-":
+					# should be one unique CUI for each disease MIM				
 					if not (vals[0] in CUI):
-						CUI[vals[0]] = []
-					
-					CUI[vals[0]].append(vals[4])
+						CUI[vals[0]] = vals[4]
+					else:
+						assert CUI[vals[0]] == vals[4], "different CUIs!"
 				
 					if not (vals[4] in mimsofcui):
 						mimsofcui[vals[4]] = []
@@ -145,58 +138,17 @@ def parseMIM2gene():
 
 def evaluate(cui, ranking, trueHits):
 	outloc = "/home/toby/grader/roc/"
-	
-	ans = open(outloc + cui + ".txt", "w") # the list for R to process
-	ans.write("FPR,TPR\n")
-	
-	gMIM = invert_dict(geneID) # gMIM[geneID] = the mim of geneID
-	
-	threshold = 1.0
-	precision = 0.001
-	lastTPR = -1.0
-	lastFPR = -1.0
-	
-	while threshold > 0:
-		TP = 0
-		TN = 0
-		FP = 0
-		FN = 0
-		
+	with open(outloc + cui + ".txt", "w") as ans:
+		ans.write("class,score\n")
+
+		gMIM = invert_dict(geneID)
 		for curgeneID, score in ranking:
-			if curgeneID in gMIM:
-				curgmim = gMIM[curgeneID]
-				
-				if curgmim in trueHits:
-					if score > threshold:
-						TP += 1
-					else:
-						FN += 1
-				else:
-					if score > threshold:
-						FP += 1
-					else:
-						TN += 1
-					
+			if (curgeneID in gMIM) and (gMIM[curgeneID] in trueHits):
+				ans.write("1,")
 			else:
-				# can't check if in morbidmap or not
-				if score > threshold:
-					FP += 1
-				else:
-					TN += 1
-					
-		TPR = TP / (TP + FN)
-		FPR = FP / (FP + TN)
-		
-		if (TPR != lastTPR) or (FPR != lastFPR):
-			ans.write(str(FPR) + "," + str(TPR) + "\n")
-			
-		lastTPR = TPR
-		lastFPR = FPR
-	
-		threshold -= precision
-		
-	ans.write("1,1\n")
-	ans.close()
+				ans.write("0,")
+
+			ans.write(score + "\n")
 
 #-------------------------------------------------------------------------------
 
@@ -205,36 +157,34 @@ def preprocess():
 	if not os.path.exists(debugdir):
 		os.makedirs(debugdir)
 
-
 	rocloc = "/home/toby/grader/roc/"
 	if not os.path.exists(rocloc):
 		os.makedirs(rocloc)
 
 	parseMorbidmap()
+
+	with open("alldmims.txt", "w") as out:
+		for dmim in genes:
+			out.write(dmim + "\n")
+
+
+
+
 	parseMIM2gene()
 
 	printGenes()
 	printIDs()
 
 def canGrade(cui):
-	with open("check.txt", "a") as out:
-		out.write("cui " + cui + "\n")
-
-		if not (cui in mimsofcui):
-			out.write("\tnot in mim2gene_medgen\n")
-			return False
-
-		out.write("dmims associated with cui:\n")
-		for dmim in mimsofcui[cui]:
-			out.write("\t" + dmim + "\n")
-
-		for dmim in mimsofcui[cui]:
-			if dmim in genes:
-				return True
-
-		# cui is indexed by mim2gene_medgen, but the mims are not in morbidmap
-		out.write("\tcan't find mims in morbidmap\n")
+	if not (cui in mimsofcui):
 		return False
+
+	for dmim in mimsofcui[cui]:
+		if dmim in genes:
+			return True
+
+	# cui is indexed by mim2gene_medgen, but the mims are not in morbidmap
+	return False
 
 def getGeneRanking(cui):
 	ranking = []
@@ -243,13 +193,11 @@ def getGeneRanking(cui):
 		for line in source:
 			line = line.rstrip('\n')
 			gid, score = line.split()
-			ranking.append([gid, float(score)])
+			ranking.append([gid, score])
 
 	return ranking
 
 def grade(cui):
-	# takes one disease cui and outputs the TRP and FPR
-
 	ranking = getGeneRanking(cui)
 #	combine all the genes associated with all the dmims together into one big list
 	trueHits = []
@@ -262,17 +210,14 @@ def grade(cui):
 def main():
 	preprocess()
 
-	if os.path.exists("/home/toby/grader/check.txt"):
-		os.remove("/home/toby/grader/check.txt")
+	place = "/home/toby/grader/data/input/"
+	for filename in os.listdir(place):
+		cui = filename[:-4]
 
-	place = "/home/toby/grader/disgenet/testset.txt"
-	with open(place) as testset:
-		for line in testset:
-			line = line.rstrip('\n')
-			
-			if canGrade(line):
-				grade(line)
-			else:
-				print "ERROR: cannot grade " + line
+		if canGrade(cui):
+			print "Graded", cui
+			grade(cui)
+		else:
+			print "ERROR: cannot grade " + cui
 
 main()
