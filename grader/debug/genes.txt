@@ -1,0 +1,9169 @@
+dmim 606072 is caused by:
+	601253
+dmim 606071 is caused by:
+	605427
+dmim 606070 is caused by:
+	164015
+dmim 300448 is caused by:
+	300032
+dmim 145750 is caused by:
+	606368
+	609252
+dmim 600363 is caused by:
+	608145
+dmim 611960 is caused by:
+	601525
+dmim 253200 is caused by:
+	611542
+dmim 613156 is caused by:
+	607439
+dmim 612269 is caused by:
+	137192
+dmim 131440 is caused by:
+	173410
+dmim 259730 is caused by:
+	611492
+dmim 608940 is caused by:
+	123695
+dmim 612260 is caused by:
+	602170
+dmim 612267 is caused by:
+	612163
+dmim 614157 is caused by:
+	603409
+dmim 270960 is caused by:
+	604759
+dmim 603649 is caused by:
+	606629
+dmim 613115 is caused by:
+	613114
+dmim 612463 is caused by:
+	139320
+dmim 231670 is caused by:
+	608801
+dmim 241850 is caused by:
+	602617
+dmim 313200 is caused by:
+	313700
+dmim 614609 is caused by:
+	603254
+dmim 614608 is caused by:
+	601607
+dmim 614607 is caused by:
+	603024
+dmim 278300 is caused by:
+	607633
+dmim 215100 is caused by:
+	601757
+dmim 180295 is caused by:
+	606241
+dmim 127700 is caused by:
+	608706
+dmim 611812 is caused by:
+	603490
+dmim 120433 is caused by:
+	606608
+dmim 120430 is caused by:
+	607108
+dmim 611819 is caused by:
+	608256
+dmim 215300 is caused by:
+	608177
+dmim 266280 is caused by:
+	603780
+dmim 120435 is caused by:
+	609309
+dmim 259600 is caused by:
+	120360
+dmim 616118 is caused by:
+	612570
+dmim 300257 is caused by:
+	309060
+dmim 616111 is caused by:
+	616097
+dmim 616113 is caused by:
+	612186
+dmim 180200 is caused by:
+	614041
+dmim 616115 is caused by:
+	606831
+dmim 616117 is caused by:
+	613932
+dmim 616116 is caused by:
+	600853
+dmim 300494 is caused by:
+	300336
+dmim 300495 is caused by:
+	300427
+dmim 300496 is caused by:
+	300005
+dmim 300497 is caused by:
+	300427
+dmim 300491 is caused by:
+	313440
+dmim 615489 is caused by:
+	613927
+	138470
+dmim 615486 is caused by:
+	156560
+dmim 613180 is caused by:
+	605742
+dmim 255800 is caused by:
+	142461
+dmim 615485 is caused by:
+	615115
+dmim 615482 is caused by:
+	608706
+dmim 615483 is caused by:
+	190040
+dmim 615481 is caused by:
+	609314
+dmim 155255 is caused by:
+	603673
+	607035
+	600185
+dmim 206700 is caused by:
+	607108
+dmim 612591 is caused by:
+	174761
+dmim 605711 is caused by:
+	608100
+dmim 153600 is caused by:
+	602170
+dmim 615346 is caused by:
+	603856
+dmim 601388 is caused by:
+	123890
+dmim 241520 is caused by:
+	600980
+dmim 148300 is caused by:
+	605020
+dmim 613237 is caused by:
+	610982
+dmim 613235 is caused by:
+	134580
+dmim 613239 is caused by:
+	613236
+dmim 600955 is caused by:
+	162150
+dmim 610504 is caused by:
+	600943
+dmim 116300 is caused by:
+	193060
+dmim 182290 is caused by:
+	607642
+dmim 608812 is caused by:
+	610290
+dmim 149200 is caused by:
+	121011
+dmim 612042 is caused by:
+	612041
+dmim 235700 is caused by:
+	142600
+dmim 248360 is caused by:
+	606761
+dmim 152950 is caused by:
+	148760
+dmim 612285 is caused by:
+	612013
+dmim 612284 is caused by:
+	612013
+dmim 612287 is caused by:
+	604990
+dmim 612286 is caused by:
+	182309
+dmim 612281 is caused by:
+	609383
+dmim 135100 is caused by:
+	102576
+dmim 253550 is caused by:
+	600354
+dmim 188055 is caused by:
+	612309
+dmim 277460 is caused by:
+	600415
+dmim 603358 is caused by:
+	603647
+dmim 140350 is caused by:
+	609695
+dmim 611588 is caused by:
+	607440
+dmim 612371 is caused by:
+	194355
+dmim 164230 is caused by:
+	113505
+	182135
+	182138
+dmim 609241 is caused by:
+	104170
+dmim 609242 is caused by:
+	104170
+dmim 610612 is caused by:
+	180040
+dmim 278800 is caused by:
+	609413
+dmim 610446 is caused by:
+	600266
+dmim 610618 is caused by:
+	610619
+dmim 611742 is caused by:
+	600201
+dmim 608776 is caused by:
+	606941
+dmim 254450 is caused by:
+	159530
+	109091
+	147796
+	605093
+dmim 208085 is caused by:
+	608552
+dmim 244460 is caused by:
+	604934
+dmim 301200 is caused by:
+	300391
+dmim 146300 is caused by:
+	171760
+dmim 128200 is caused by:
+	614386
+dmim 153550 is caused by:
+	130620
+dmim 227300 is caused by:
+	601567
+dmim 153800 is caused by:
+	601691
+dmim 227650 is caused by:
+	607139
+dmim 612138 is caused by:
+	601282
+dmim 605375 is caused by:
+	118507
+dmim 134610 is caused by:
+	608107
+dmim 612132 is caused by:
+	164008
+dmim 605373 is caused by:
+	602413
+dmim 125400 is caused by:
+	607223
+dmim 614196 is caused by:
+	600579
+dmim 614195 is caused by:
+	605020
+dmim 609404 is caused by:
+	609397
+dmim 614193 is caused by:
+	613609
+dmim 614192 is caused by:
+	611358
+dmim 605192 is caused by:
+	601205
+dmim 604352 is caused by:
+	602851
+dmim 151660 is caused by:
+	150330
+dmim 601186 is caused by:
+	610745
+dmim 611493 is caused by:
+	603796
+dmim 604356 is caused by:
+	118423
+dmim 614198 is caused by:
+	603967
+dmim 268700 is caused by:
+	605113
+dmim 613426 is caused by:
+	160760
+dmim 609313 is caused by:
+	603531
+dmim 613424 is caused by:
+	102540
+dmim 600850 is caused by:
+	606810
+dmim 613428 is caused by:
+	613425
+dmim 612462 is caused by:
+	139320
+dmim 190330 is caused by:
+	165190
+dmim 600858 is caused by:
+	602743
+dmim 112310 is caused by:
+	603381
+dmim 601678 is caused by:
+	600839
+dmim 266140 is caused by:
+	182860
+dmim 610768 is caused by:
+	610746
+dmim 604765 is caused by:
+	125660
+dmim 208550 is caused by:
+	604895
+	176804
+dmim 262190 is caused by:
+	147670
+dmim 249500 is caused by:
+	606709
+dmim 162100 is caused by:
+	604061
+dmim 230650 is caused by:
+	611458
+dmim 300100 is caused by:
+	300371
+dmim 613717 is caused by:
+	613715
+dmim 274900 is caused by:
+	612772
+dmim 601072 is caused by:
+	605511
+dmim 251000 is caused by:
+	609058
+dmim 601071 is caused by:
+	603681
+dmim 601696 is caused by:
+	126452
+dmim 606799 is caused by:
+	600129
+dmim 610329 is caused by:
+	610330
+dmim 105500 is caused by:
+	605692
+dmim 202700 is caused by:
+	130130
+dmim 611081 is caused by:
+	610767
+dmim 605990 is caused by:
+	607818
+dmim 309548 is caused by:
+	300806
+dmim 611363 is caused by:
+	606061
+dmim 145680 is caused by:
+	176300
+dmim 186100 is caused by:
+	121014
+dmim 615809 is caused by:
+	102771
+dmim 609060 is caused by:
+	606639
+dmim 615802 is caused by:
+	611655
+dmim 615803 is caused by:
+	608757
+dmim 611369 is caused by:
+	606102
+dmim 156250 is caused by:
+	176876
+dmim 609069 is caused by:
+	607194
+dmim 615807 is caused by:
+	601810
+dmim 608594 is caused by:
+	603100
+dmim 132900 is caused by:
+	160745
+dmim 607932 is caused by:
+	112262
+dmim 611561 is caused by:
+	610937
+dmim 613855 is caused by:
+	601949
+dmim 607936 is caused by:
+	184600
+dmim 613736 is caused by:
+	607632
+dmim 613737 is caused by:
+	104311
+dmim 615351 is caused by:
+	615320
+dmim 614049 is caused by:
+	121013
+dmim 613730 is caused by:
+	606871
+dmim 613731 is caused by:
+	180380
+dmim 614250 is caused by:
+	159465
+dmim 118800 is caused by:
+	609023
+dmim 176200 is caused by:
+	600923
+	613609
+dmim 264600 is caused by:
+	607306
+dmim 601214 is caused by:
+	173325
+dmim 608443 is caused by:
+	610055
+dmim 615728 is caused by:
+	148042
+dmim 608627 is caused by:
+	605704
+dmim 604004 is caused by:
+	605908
+dmim 608622 is caused by:
+	603951
+dmim 144650 is caused by:
+	606368
+dmim 133239 is caused by:
+	604050
+	190182
+	120470
+	604242
+	604767
+	606551
+	605131
+dmim 243300 is caused by:
+	602397
+dmim 610064 is caused by:
+	154270
+dmim 608629 is caused by:
+	608894
+dmim 614255 is caused by:
+	601255
+dmim 615244 is caused by:
+	601925
+dmim 610353 is caused by:
+	118502
+dmim 271400 is caused by:
+	150370
+dmim 612918 is caused by:
+	171834
+dmim 610357 is caused by:
+	601255
+dmim 610356 is caused by:
+	607604
+dmim 614019 is caused by:
+	609449
+dmim 123700 is caused by:
+	130160
+dmim 269920 is caused by:
+	604322
+dmim 300813 is caused by:
+	312820
+	300192
+dmim 615248 is caused by:
+	608517
+dmim 272750 is caused by:
+	613109
+dmim 300816 is caused by:
+	300169
+dmim 610193 is caused by:
+	125671
+dmim 226650 is caused by:
+	600805
+	113811
+	147557
+	150310
+	150292
+dmim 171300 is caused by:
+	605995
+	164761
+	185470
+	602690
+	608537
+	600837
+	154950
+	613403
+dmim 613881 is caused by:
+	603883
+dmim 303350 is caused by:
+	308840
+dmim 610198 is caused by:
+	608977
+dmim 613885 is caused by:
+	613846
+dmim 613886 is caused by:
+	600456
+dmim 613887 is caused by:
+	611258
+dmim 610947 is caused by:
+	603507
+dmim 601455 is caused by:
+	605262
+dmim 169600 is caused by:
+	604384
+dmim 601457 is caused by:
+	179615
+	179616
+dmim 237450 is caused by:
+	604843
+	605495
+dmim 601321 is caused by:
+	613113
+dmim 600105 is caused by:
+	604210
+dmim 172800 is caused by:
+	164920
+	602150
+dmim 615434 is caused by:
+	615407
+dmim 600101 is caused by:
+	603537
+dmim 607736 is caused by:
+	159440
+dmim 607734 is caused by:
+	162280
+dmim 611953 is caused by:
+	604312
+dmim 607447 is caused by:
+	601693
+dmim 600320 is caused by:
+	608829
+dmim 607115 is caused by:
+	606416
+dmim 273800 is caused by:
+	607759
+	173470
+dmim 611818 is caused by:
+	601253
+dmim 192950 is caused by:
+	142984
+dmim 263700 is caused by:
+	606938
+dmim 615109 is caused by:
+	164730
+dmim 615108 is caused by:
+	171834
+dmim 614456 is caused by:
+	156845
+dmim 614457 is caused by:
+	605512
+dmim 179850 is caused by:
+	148040
+dmim 614455 is caused by:
+	610982
+dmim 209920 is caused by:
+	600005
+	601863
+	601861
+	603200
+dmim 614458 is caused by:
+	606370
+dmim 177000 is caused by:
+	612386
+dmim 615107 is caused by:
+	612105
+dmim 615106 is caused by:
+	602690
+dmim 607596 is caused by:
+	602168
+dmim 607595 is caused by:
+	120130
+dmim 607594 is caused by:
+	604558
+dmim 614291 is caused by:
+	602954
+dmim 614292 is caused by:
+	610341
+dmim 614293 is caused by:
+	611687
+dmim 606864 is caused by:
+	185470
+	602413
+	602690
+dmim 610992 is caused by:
+	610936
+dmim 221200 is caused by:
+	609681
+dmim 212780 is caused by:
+	604270
+dmim 614299 is caused by:
+	613183
+dmim 233400 is caused by:
+	601860
+dmim 607598 is caused by:
+	190151
+dmim 613956 is caused by:
+	606496
+dmim 613957 is caused by:
+	184757
+dmim 613954 is caused by:
+	601023
+dmim 147050 is caused by:
+	605010
+	607796
+	605383
+	606518
+	147781
+	147138
+	601690
+	173610
+dmim 613953 is caused by:
+	605461
+dmim 613950 is caused by:
+	606230
+dmim 613951 is caused by:
+	613278
+dmim 607841 is caused by:
+	601478
+dmim 607842 is caused by:
+	614427
+dmim 610283 is caused by:
+	607292
+dmim 610282 is caused by:
+	607292
+dmim 212140 is caused by:
+	603377
+dmim 228930 is caused by:
+	601570
+dmim 606690 is caused by:
+	605284
+	191092
+dmim 604804 is caused by:
+	608201
+dmim 610978 is caused by:
+	600635
+dmim 606889 is caused by:
+	600759
+dmim 107250 is caused by:
+	601094
+	602669
+dmim 615075 is caused by:
+	116806
+dmim 615074 is caused by:
+	614998
+dmim 615073 is caused by:
+	139312
+dmim 615072 is caused by:
+	601146
+dmim 615071 is caused by:
+	612026
+dmim 607208 is caused by:
+	182389
+	603415
+dmim 603034 is caused by:
+	603033
+dmim 607200 is caused by:
+	606759
+dmim 300672 is caused by:
+	300203
+dmim 612736 is caused by:
+	601240
+dmim 300676 is caused by:
+	300298
+dmim 615147 is caused by:
+	180250
+dmim 306400 is caused by:
+	300481
+dmim 192315 is caused by:
+	606609
+dmim 269150 is caused by:
+	611060
+dmim 126600 is caused by:
+	601548
+dmim 214150 is caused by:
+	609413
+dmim 180750 is caused by:
+	601622
+dmim 225300 is caused by:
+	601906
+dmim 614431 is caused by:
+	602937
+dmim 259720 is caused by:
+	607649
+dmim 174810 is caused by:
+	603499
+dmim 603736 is caused by:
+	605880
+dmim 246000 is caused by:
+	613169
+dmim 214400 is caused by:
+	606598
+dmim 248450 is caused by:
+	608944
+dmim 605432 is caused by:
+	142958
+dmim 606243 is caused by:
+	606236
+dmim 312700 is caused by:
+	300839
+dmim 255960 is caused by:
+	188830
+dmim 273395 is caused by:
+	165330
+dmim 300635 is caused by:
+	300079
+dmim 609340 is caused by:
+	614603
+dmim 611040 is caused by:
+	606227
+dmim 206800 is caused by:
+	610573
+dmim 614679 is caused by:
+	614677
+dmim 607339 is caused by:
+	601470
+dmim 614672 is caused by:
+	614518
+dmim 614673 is caused by:
+	611423
+dmim 609981 is caused by:
+	602638
+dmim 173650 is caused by:
+	607900
+dmim 614674 is caused by:
+	109760
+dmim 614675 is caused by:
+	602122
+dmim 611820 is caused by:
+	604001
+dmim 608022 is caused by:
+	608699
+dmim 130650 is caused by:
+	600856
+	103280
+	604115
+	606681
+dmim 615134 is caused by:
+	187270
+dmim 601869 is caused by:
+	608792
+dmim 277900 is caused by:
+	606882
+dmim 610427 is caused by:
+	608965
+dmim 610425 is caused by:
+	123631
+dmim 601868 is caused by:
+	120290
+dmim 262000 is caused by:
+	603647
+dmim 603830 is caused by:
+	600163
+dmim 300243 is caused by:
+	300231
+dmim 304790 is caused by:
+	300292
+dmim 300244 is caused by:
+	300017
+dmim 267500 is caused by:
+	103020
+dmim 615032 is caused by:
+	610528
+dmim 185070 is caused by:
+	605921
+dmim 184500 is caused by:
+	148069
+dmim 102370 is caused by:
+	134797
+dmim 271665 is caused by:
+	191311
+dmim 300486 is caused by:
+	300127
+dmim 601859 is caused by:
+	134637
+	134638
+dmim 185000 is caused by:
+	133090
+dmim 615491 is caused by:
+	191342
+dmim 615490 is caused by:
+	614141
+dmim 200950 is caused by:
+	171650
+dmim 608902 is caused by:
+	124030
+dmim 614706 is caused by:
+	138945
+dmim 603585 is caused by:
+	605634
+dmim 615643 is caused by:
+	609855
+dmim 614702 is caused by:
+	614667
+dmim 155240 is caused by:
+	164761
+	191315
+dmim 614700 is caused by:
+	606453
+dmim 615658 is caused by:
+	602498
+dmim 300373 is caused by:
+	300647
+dmim 615651 is caused by:
+	600570
+dmim 608340 is caused by:
+	606598
+dmim 248250 is caused by:
+	603959
+dmim 614858 is caused by:
+	606417
+dmim 614859 is caused by:
+	601758
+dmim 614856 is caused by:
+	112264
+dmim 615828 is caused by:
+	602635
+dmim 614852 is caused by:
+	613529
+dmim 309510 is caused by:
+	300382
+dmim 603965 is caused by:
+	603652
+dmim 614409 is caused by:
+	609471
+dmim 182280 is caused by:
+	614041
+dmim 241530 is caused by:
+	609826
+dmim 613080 is caused by:
+	602770
+dmim 309300 is caused by:
+	300350
+dmim 131300 is caused by:
+	190180
+dmim 613087 is caused by:
+	606742
+dmim 141200 is caused by:
+	120070
+dmim 259050 is caused by:
+	606025
+dmim 231070 is caused by:
+	607983
+dmim 614429 is caused by:
+	600576
+dmim 614327 is caused by:
+	603089
+dmim 153700 is caused by:
+	607854
+dmim 180860 is caused by:
+	103280
+dmim 615583 is caused by:
+	604819
+dmim 277470 is caused by:
+	608755
+dmim 608837 is caused by:
+	160741
+dmim 608836 is caused by:
+	600650
+dmim 277700 is caused by:
+	604611
+dmim 609270 is caused by:
+	607998
+dmim 614401 is caused by:
+	164785
+dmim 122600 is caused by:
+	602427
+dmim 260350 is caused by:
+	602216
+	191170
+	600993
+	190070
+dmim 604901 is caused by:
+	607456
+dmim 615947 is caused by:
+	612757
+dmim 610600 is caused by:
+	124080
+dmim 116200 is caused by:
+	600897
+dmim 615946 is caused by:
+	608730
+dmim 611771 is caused by:
+	107741
+dmim 611773 is caused by:
+	120130
+dmim 604715 is caused by:
+	163970
+dmim 222100 is caused by:
+	142410
+	164350
+	300292
+	147620
+	147267
+	600716
+dmim 611777 is caused by:
+	611778
+dmim 268305 is caused by:
+	608546
+dmim 613559 is caused by:
+	613541
+dmim 613550 is caused by:
+	609884
+dmim 185900 is caused by:
+	185900
+dmim 606545 is caused by:
+	607206
+dmim 613554 is caused by:
+	613160
+dmim 600920 is caused by:
+	613619
+dmim 227645 is caused by:
+	613899
+dmim 300068 is caused by:
+	313700
+dmim 227646 is caused by:
+	613984
+dmim 613852 is caused by:
+	136836
+dmim 204650 is caused by:
+	606585
+dmim 306955 is caused by:
+	300265
+dmim 300066 is caused by:
+	300226
+dmim 601198 is caused by:
+	601199
+dmim 611488 is caused by:
+	603030
+dmim 611489 is caused by:
+	122500
+dmim 236800 is caused by:
+	605197
+dmim 309500 is caused by:
+	300463
+dmim 310400 is caused by:
+	300415
+dmim 250940 is caused by:
+	156570
+dmim 600638 is caused by:
+	602661
+dmim 613435 is caused by:
+	602432
+dmim 606937 is caused by:
+	613624
+dmim 190320 is caused by:
+	600525
+dmim 613496 is caused by:
+	186845
+dmim 219200 is caused by:
+	611716
+dmim 610508 is caused by:
+	603301
+dmim 138500 is caused by:
+	608331
+	608893
+	605616
+dmim 301500 is caused by:
+	300644
+dmim 146000 is caused by:
+	134934
+dmim 208540 is caused by:
+	608002
+dmim 176670 is caused by:
+	150330
+dmim 610773 is caused by:
+	600370
+dmim 601665 is caused by:
+	155541
+	604630
+	601487
+	603128
+	186357
+	176830
+	602311
+	602044
+	109690
+	109691
+	602606
+	173335
+	605353
+	113730
+	608886
+	600781
+dmim 600132 is caused by:
+	602280
+dmim 613711 is caused by:
+	600837
+dmim 265100 is caused by:
+	604217
+dmim 261100 is caused by:
+	602997
+	605799
+dmim 601067 is caused by:
+	605516
+	605514
+dmim 143465 is caused by:
+	126453
+	608903
+	608904
+	608905
+	608906
+	126452
+dmim 613712 is caused by:
+	131242
+dmim 192430 is caused by:
+	602054
+dmim 600630 is caused by:
+	609413
+dmim 601680 is caused by:
+	191043
+	160720
+	190990
+	600692
+dmim 608051 is caused by:
+	604365
+dmim 614063 is caused by:
+	610647
+dmim 108720 is caused by:
+	603381
+dmim 108721 is caused by:
+	603381
+dmim 612852 is caused by:
+	147679
+dmim 609053 is caused by:
+	611360
+dmim 609054 is caused by:
+	605882
+dmim 200600 is caused by:
+	604505
+dmim 252930 is caused by:
+	610453
+dmim 125250 is caused by:
+	605290
+dmim 615812 is caused by:
+	604556
+dmim 208400 is caused by:
+	613228
+dmim 608584 is caused by:
+	608595
+dmim 615817 is caused by:
+	615748
+dmim 611391 is caused by:
+	603307
+dmim 614070 is caused by:
+	607043
+dmim 614072 is caused by:
+	606118
+dmim 614073 is caused by:
+	606682
+dmim 614074 is caused by:
+	607521
+dmim 613722 is caused by:
+	607120
+dmim 611556 is caused by:
+	138570
+dmim 614077 is caused by:
+	609762
+dmim 614078 is caused by:
+	614010
+dmim 613724 is caused by:
+	184755
+dmim 607906 is caused by:
+	607905
+dmim 607907 is caused by:
+	190040
+dmim 613721 is caused by:
+	182390
+dmim 613720 is caused by:
+	602235
+dmim 613723 is caused by:
+	601282
+dmim 610505 is caused by:
+	604723
+dmim 605231 is caused by:
+	604896
+dmim 609180 is caused by:
+	604041
+dmim 203800 is caused by:
+	606844
+dmim 601200 is caused by:
+	606241
+dmim 608456 is caused by:
+	604933
+dmim 604348 is caused by:
+	603426
+dmim 607694 is caused by:
+	614258
+dmim 162800 is caused by:
+	130130
+dmim 300804 is caused by:
+	300170
+dmim 300803 is caused by:
+	314990
+dmim 300802 is caused by:
+	313475
+dmim 601539 is caused by:
+	602136
+dmim 608634 is caused by:
+	602195
+dmim 601536 is caused by:
+	142955
+dmim 169100 is caused by:
+	601601
+dmim 137215 is caused by:
+	192090
+	190070
+	147720
+	147679
+dmim 600263 is caused by:
+	176891
+	107470
+dmim 146510 is caused by:
+	165240
+dmim 151623 is caused by:
+	191170
+dmim 612921 is caused by:
+	610991
+dmim 612922 is caused by:
+	120920
+dmim 612923 is caused by:
+	217030
+dmim 612924 is caused by:
+	138470
+dmim 135750 is caused by:
+	605522
+dmim 612926 is caused by:
+	188040
+dmim 610168 is caused by:
+	190182
+dmim 615726 is caused by:
+	148041
+dmim 610163 is caused by:
+	186780
+dmim 613854 is caused by:
+	602880
+dmim 600138 is caused by:
+	606419
+dmim 605670 is caused by:
+	608752
+dmim 604121 is caused by:
+	126375
+dmim 601331 is caused by:
+	614295
+dmim 176500 is caused by:
+	603904
+dmim 278720 is caused by:
+	613208
+dmim 132800 is caused by:
+	190181
+dmim 248390 is caused by:
+	610060
+dmim 604129 is caused by:
+	120120
+dmim 115300 is caused by:
+	605748
+dmim 601338 is caused by:
+	182350
+dmim 300872 is caused by:
+	300777
+dmim 607473 is caused by:
+	608547
+dmim 607475 is caused by:
+	180090
+dmim 600316 is caused by:
+	602666
+dmim 607682 is caused by:
+	601949
+dmim 252150 is caused by:
+	603707
+dmim 182940 is caused by:
+	610622
+	610132
+	600533
+	601397
+	158105
+dmim 114300 is caused by:
+	613629
+dmim 103285 is caused by:
+	603273
+dmim 614441 is caused by:
+	601460
+dmim 225790 is caused by:
+	610865
+dmim 611162 is caused by:
+	109270
+	173510
+	147840
+	191160
+	606252
+	604590
+	111300
+	111740
+	110750
+	141900
+	163730
+	120620
+	146790
+	602441
+	613665
+	305900
+dmim 612630 is caused by:
+	604095
+dmim 612631 is caused by:
+	103000
+dmim 300455 is caused by:
+	312610
+dmim 608233 is caused by:
+	603401
+dmim 608232 is caused by:
+	151410
+dmim 614286 is caused by:
+	612990
+	605590
+	612839
+	137295
+dmim 600231 is caused by:
+	600442
+dmim 608984 is caused by:
+	614649
+dmim 110800 is caused by:
+	600429
+dmim 609796 is caused by:
+	603805
+dmim 271700 is caused by:
+	120140
+dmim 248800 is caused by:
+	608005
+dmim 614408 is caused by:
+	159991
+dmim 600002 is caused by:
+	168468
+dmim 137200 is caused by:
+	601314
+dmim 614838 is caused by:
+	608137
+dmim 226200 is caused by:
+	606635
+dmim 217300 is caused by:
+	603288
+dmim 613949 is caused by:
+	186940
+dmim 171400 is caused by:
+	164761
+dmim 156530 is caused by:
+	605427
+dmim 614839 is caused by:
+	162330
+dmim 614229 is caused by:
+	610949
+dmim 126700 is caused by:
+	134370
+dmim 105830 is caused by:
+	300005
+	601623
+	300203
+dmim 615006 is caused by:
+	606494
+dmim 615007 is caused by:
+	173410
+dmim 193400 is caused by:
+	613160
+dmim 615005 is caused by:
+	608167
+dmim 615008 is caused by:
+	601440
+dmim 607271 is caused by:
+	601763
+dmim 607276 is caused by:
+	109630
+dmim 270300 is caused by:
+	602593
+dmim 612702 is caused by:
+	600483
+dmim 612703 is caused by:
+	181590
+dmim 600496 is caused by:
+	142410
+dmim 615419 is caused by:
+	611549
+dmim 300707 is caused by:
+	300708
+dmim 191830 is caused by:
+	164761
+	604063
+	167409
+dmim 300661 is caused by:
+	311850
+dmim 614831 is caused by:
+	604473
+dmim 258480 is caused by:
+	600829
+dmim 263520 is caused by:
+	604588
+dmim 610381 is caused by:
+	610362
+dmim 309585 is caused by:
+	300269
+dmim 615493 is caused by:
+	600465
+dmim 256810 is caused by:
+	137960
+dmim 160980 is caused by:
+	188830
+dmim 220111 is caused by:
+	607544
+dmim 612447 is caused by:
+	176797
+dmim 612446 is caused by:
+	217050
+dmim 612444 is caused by:
+	605483
+dmim 216900 is caused by:
+	600053
+dmim 259440 is caused by:
+	123841
+dmim 613470 is caused by:
+	172400
+dmim 611664 is caused by:
+	184745
+dmim 615716 is caused by:
+	611801
+dmim 615715 is caused by:
+	615667
+dmim 253400 is caused by:
+	600354
+	601627
+dmim 160500 is caused by:
+	160760
+dmim 615711 is caused by:
+	615698
+dmim 614669 is caused by:
+	600810
+dmim 266600 is caused by:
+	147620
+	605956
+dmim 606657 is caused by:
+	605290
+	602432
+dmim 614662 is caused by:
+	600713
+dmim 614665 is caused by:
+	601330
+dmim 214500 is caused by:
+	606897
+dmim 603689 is caused by:
+	188840
+dmim 603688 is caused by:
+	600997
+dmim 260500 is caused by:
+	191170
+dmim 301040 is caused by:
+	300032
+dmim 601152 is caused by:
+	608507
+dmim 230400 is caused by:
+	606999
+dmim 611584 is caused by:
+	602229
+dmim 300271 is caused by:
+	300774
+dmim 115900 is caused by:
+	600836
+dmim 300476 is caused by:
+	300110
+dmim 608931 is caused by:
+	100710
+	100725
+	601296
+	601592
+dmim 300475 is caused by:
+	300398
+dmim 300472 is caused by:
+	300139
+dmim 608565 is caused by:
+	602167
+dmim 312600 is caused by:
+	300757
+dmim 607250 is caused by:
+	607198
+dmim 611943 is caused by:
+	612688
+dmim 611942 is caused by:
+	607904
+dmim 615629 is caused by:
+	187380
+dmim 276600 is caused by:
+	613018
+dmim 308100 is caused by:
+	300747
+dmim 615625 is caused by:
+	609347
+dmim 165800 is caused by:
+	155760
+dmim 226670 is caused by:
+	601282
+dmim 614849 is caused by:
+	601896
+dmim 150600 is caused by:
+	120140
+dmim 303800 is caused by:
+	300821
+dmim 613070 is caused by:
+	610230
+dmim 614845 is caused by:
+	614848
+dmim 614844 is caused by:
+	604557
+dmim 614847 is caused by:
+	138140
+dmim 614841 is caused by:
+	152760
+dmim 614840 is caused by:
+	162332
+dmim 181030 is caused by:
+	603026
+dmim 602082 is caused by:
+	601692
+dmim 602083 is caused by:
+	605514
+dmim 602080 is caused by:
+	606263
+	601530
+	603499
+dmim 602081 is caused by:
+	605317
+dmim 145000 is caused by:
+	607393
+dmim 145001 is caused by:
+	607393
+dmim 304100 is caused by:
+	308840
+dmim 602089 is caused by:
+	136352
+	191306
+	606410
+dmim 305600 is caused by:
+	300651
+dmim 208150 is caused by:
+	610285
+	601592
+dmim 616006 is caused by:
+	612411
+dmim 608804 is caused by:
+	608803
+dmim 608805 is caused by:
+	120140
+dmim 608807 is caused by:
+	188840
+dmim 608800 is caused by:
+	604714
+dmim 613077 is caused by:
+	604712
+dmim 613099 is caused by:
+	155555
+dmim 613098 is caused by:
+	155555
+dmim 613097 is caused by:
+	602090
+dmim 262650 is caused by:
+	139250
+dmim 142900 is caused by:
+	601620
+dmim 602579 is caused by:
+	154550
+dmim 613093 is caused by:
+	600827
+dmim 613092 is caused by:
+	179820
+dmim 613091 is caused by:
+	603297
+dmim 613090 is caused by:
+	602024
+	602023
+dmim 615537 is caused by:
+	602192
+dmim 162400 is caused by:
+	605712
+dmim 254110 is caused by:
+	602290
+dmim 615530 is caused by:
+	604297
+dmim 300582 is caused by:
+	312865
+	400020
+dmim 603373 is caused by:
+	603372
+dmim 166220 is caused by:
+	120150
+	120160
+dmim 615538 is caused by:
+	615538
+dmim 615539 is caused by:
+	605942
+dmim 611762 is caused by:
+	609648
+dmim 265000 is caused by:
+	100730
+dmim 270420 is caused by:
+	605124
+dmim 135300 is caused by:
+	182530
+dmim 205400 is caused by:
+	600046
+dmim 604931 is caused by:
+	138090
+dmim 240300 is caused by:
+	607358
+dmim 300055 is caused by:
+	300005
+dmim 605355 is caused by:
+	191041
+dmim 264470 is caused by:
+	609751
+dmim 242600 is caused by:
+	608331
+	608893
+	605616
+dmim 253290 is caused by:
+	100690
+	100720
+	100730
+dmim 610424 is caused by:
+	107470
+	123889
+	602376
+dmim 613546 is caused by:
+	107910
+dmim 612158 is caused by:
+	102573
+dmim 600969 is caused by:
+	120270
+dmim 300291 is caused by:
+	300248
+dmim 602400 is caused by:
+	606797
+dmim 300299 is caused by:
+	300392
+dmim 609460 is caused by:
+	609367
+dmim 122700 is caused by:
+	122720
+	608547
+	601130
+	300746
+dmim 609464 is caused by:
+	605956
+dmim 611497 is caused by:
+	611466
+dmim 611498 is caused by:
+	608539
+dmim 613710 is caused by:
+	606521
+dmim 157640 is caused by:
+	174763
+dmim 194300 is caused by:
+	608248
+dmim 613404 is caused by:
+	613401
+dmim 304800 is caused by:
+	300538
+dmim 613402 is caused by:
+	605610
+dmim 250950 is caused by:
+	600529
+dmim 222765 is caused by:
+	602744
+dmim 185800 is caused by:
+	602991
+dmim 148500 is caused by:
+	614404
+dmim 232240 is caused by:
+	602671
+dmim 610706 is caused by:
+	164950
+dmim 604805 is caused by:
+	603183
+dmim 116100 is caused by:
+	123730
+dmim 609265 is caused by:
+	604373
+dmim 300123 is caused by:
+	313430
+dmim 609260 is caused by:
+	608507
+dmim 167400 is caused by:
+	603415
+dmim 300523 is caused by:
+	300095
+dmim 615824 is caused by:
+	614461
+dmim 159950 is caused by:
+	613468
+dmim 615396 is caused by:
+	600958
+dmim 615821 is caused by:
+	125647
+dmim 615395 is caused by:
+	611849
+dmim 615398 is caused by:
+	610272
+dmim 615399 is caused by:
+	610272
+dmim 612847 is caused by:
+	603005
+dmim 615829 is caused by:
+	615790
+dmim 252940 is caused by:
+	607664
+dmim 246200 is caused by:
+	147670
+dmim 200610 is caused by:
+	120140
+dmim 609049 is caused by:
+	150325
+dmim 609048 is caused by:
+	123829
+dmim 312170 is caused by:
+	300502
+dmim 611383 is caused by:
+	607928
+dmim 609040 is caused by:
+	602861
+dmim 613718 is caused by:
+	613719
+dmim 610017 is caused by:
+	601146
+dmim 164500 is caused by:
+	607640
+dmim 237500 is caused by:
+	601107
+dmim 614069 is caused by:
+	614064
+dmim 611548 is caused by:
+	610934
+dmim 614067 is caused by:
+	607243
+dmim 614066 is caused by:
+	607245
+dmim 614065 is caused by:
+	102565
+dmim 611544 is caused by:
+	600929
+dmim 601238 is caused by:
+	608179
+dmim 218400 is caused by:
+	121014
+dmim 158600 is caused by:
+	600112
+dmim 610019 is caused by:
+	607182
+dmim 609192 is caused by:
+	190181
+dmim 609195 is caused by:
+	601873
+dmim 609628 is caused by:
+	605519
+dmim 255700 is caused by:
+	118425
+dmim 612937 is caused by:
+	605951
+dmim 612936 is caused by:
+	602296
+dmim 607681 is caused by:
+	137164
+dmim 612933 is caused by:
+	150000
+dmim 612932 is caused by:
+	131370
+dmim 607685 is caused by:
+	173490
+dmim 607684 is caused by:
+	162280
+dmim 601543 is caused by:
+	602574
+dmim 607688 is caused by:
+	612003
+dmim 162830 is caused by:
+	138971
+dmim 601547 is caused by:
+	123620
+dmim 601544 is caused by:
+	121011
+dmim 612938 is caused by:
+	610966
+dmim 143870 is caused by:
+	605205
+dmim 162900 is caused by:
+	164790
+	134934
+	171834
+	190020
+dmim 225410 is caused by:
+	604539
+dmim 605820 is caused by:
+	603824
+dmim 243800 is caused by:
+	605981
+dmim 610370 is caused by:
+	604882
+dmim 610377 is caused by:
+	251170
+dmim 610374 is caused by:
+	600509
+dmim 242300 is caused by:
+	190195
+dmim 264080 is caused by:
+	607311
+dmim 612628 is caused by:
+	147679
+dmim 600737 is caused by:
+	603824
+dmim 600121 is caused by:
+	603051
+dmim 107600 is caused by:
+	611448
+dmim 263750 is caused by:
+	126064
+dmim 174200 is caused by:
+	165240
+dmim 614749 is caused by:
+	614730
+dmim 278730 is caused by:
+	126340
+dmim 604484 is caused by:
+	602498
+dmim 115310 is caused by:
+	185470
+dmim 137440 is caused by:
+	176640
+dmim 272800 is caused by:
+	606869
+dmim 600309 is caused by:
+	121014
+dmim 174050 is caused by:
+	177060
+	608648
+dmim 607464 is caused by:
+	609435
+dmim 606963 is caused by:
+	120353
+	107400
+	141250
+dmim 612623 is caused by:
+	133170
+dmim 614742 is caused by:
+	187270
+dmim 612621 is caused by:
+	603384
+dmim 174500 is caused by:
+	605522
+dmim 614199 is caused by:
+	150325
+dmim 300908 is caused by:
+	305900
+dmim 300909 is caused by:
+	300145
+dmim 614474 is caused by:
+	601656
+dmim 614475 is caused by:
+	601656
+dmim 300905 is caused by:
+	300906
+dmim 614470 is caused by:
+	164790
+dmim 614473 is caused by:
+	603234
+dmim 601815 is caused by:
+	606879
+dmim 614741 is caused by:
+	614738
+dmim 614278 is caused by:
+	601690
+dmim 614279 is caused by:
+	600450
+	600451
+dmim 607864 is caused by:
+	603816
+dmim 225250 is caused by:
+	600584
+dmim 613970 is caused by:
+	138252
+dmim 613972 is caused by:
+	600675
+dmim 603546 is caused by:
+	603213
+dmim 613977 is caused by:
+	142250
+dmim 613978 is caused by:
+	141800
+	141850
+dmim 616093 is caused by:
+	110300
+dmim 155310 is caused by:
+	102545
+dmim 600852 is caused by:
+	114760
+dmim 232800 is caused by:
+	610681
+dmim 136000 is caused by:
+	612761
+dmim 238320 is caused by:
+	152790
+dmim 245010 is caused by:
+	602365
+dmim 207800 is caused by:
+	608313
+dmim 610954 is caused by:
+	602272
+dmim 239100 is caused by:
+	605740
+dmim 610951 is caused by:
+	611124
+dmim 256731 is caused by:
+	608102
+dmim 256730 is caused by:
+	600722
+dmim 188050 is caused by:
+	176930
+	607093
+	603924
+	134570
+dmim 303100 is caused by:
+	300390
+dmim 310600 is caused by:
+	300658
+dmim 615159 is caused by:
+	612080
+dmim 616029 is caused by:
+	608576
+dmim 224230 is caused by:
+	606471
+dmim 145900 is caused by:
+	129010
+	159440
+	601097
+	605725
+dmim 612716 is caused by:
+	182125
+dmim 611022 is caused by:
+	179410
+dmim 612714 is caused by:
+	607976
+dmim 612713 is caused by:
+	611715
+dmim 612712 is caused by:
+	608830
+dmim 300615 is caused by:
+	309850
+dmim 614388 is caused by:
+	603850
+dmim 614389 is caused by:
+	612309
+dmim 252160 is caused by:
+	603708
+dmim 614800 is caused by:
+	608025
+dmim 225320 is caused by:
+	120160
+dmim 614383 is caused by:
+	602441
+dmim 614380 is caused by:
+	120810
+dmim 200700 is caused by:
+	601146
+dmim 245300 is caused by:
+	176640
+dmim 614385 is caused by:
+	604395
+dmim 182601 is caused by:
+	604277
+dmim 253250 is caused by:
+	605073
+dmim 302960 is caused by:
+	300205
+dmim 228000 is caused by:
+	613468
+dmim 266100 is caused by:
+	107323
+dmim 607417 is caused by:
+	609262
+dmim 600462 is caused by:
+	608109
+dmim 193300 is caused by:
+	608537
+	168461
+dmim 184460 is caused by:
+	602991
+dmim 258100 is caused by:
+	181031
+dmim 612437 is caused by:
+	608500
+dmim 607313 is caused by:
+	608630
+dmim 201710 is caused by:
+	600617
+dmim 612438 is caused by:
+	602662
+dmim 175050 is caused by:
+	600993
+dmim 614654 is caused by:
+	612837
+dmim 601675 is caused by:
+	126340
+	133510
+	608780
+dmim 180550 is caused by:
+	601542
+dmim 614650 is caused by:
+	614647
+dmim 614651 is caused by:
+	607429
+dmim 614652 is caused by:
+	610564
+dmim 614653 is caused by:
+	113810
+dmim 615705 is caused by:
+	613516
+dmim 615704 is caused by:
+	615584
+dmim 615707 is caused by:
+	146740
+dmim 615706 is caused by:
+	131240
+dmim 240800 is caused by:
+	600509
+dmim 615703 is caused by:
+	615586
+dmim 143100 is caused by:
+	613004
+dmim 614496 is caused by:
+	603136
+dmim 614497 is caused by:
+	605452
+dmim 614495 is caused by:
+	605775
+dmim 614492 is caused by:
+	605232
+dmim 613877 is caused by:
+	170290
+dmim 614490 is caused by:
+	603756
+dmim 614491 is caused by:
+	601844
+dmim 224120 is caused by:
+	607465
+dmim 614498 is caused by:
+	614506
+dmim 224690 is caused by:
+	601902
+dmim 615957 is caused by:
+	611805
+dmim 112250 is caused by:
+	156540
+dmim 613398 is caused by:
+	601150
+dmim 613399 is caused by:
+	602774
+dmim 231690 is caused by:
+	609187
+dmim 277380 is caused by:
+	612625
+dmim 127750 is caused by:
+	163890
+	602569
+	606463
+dmim 301050 is caused by:
+	303630
+dmim 613390 is caused by:
+	602774
+dmim 100800 is caused by:
+	134934
+dmim 276700 is caused by:
+	613871
+dmim 613393 is caused by:
+	604862
+dmim 301000 is caused by:
+	300392
+dmim 261680 is caused by:
+	614168
+dmim 612389 is caused by:
+	608753
+dmim 602361 is caused by:
+	615292
+dmim 613159 is caused by:
+	613553
+dmim 300263 is caused by:
+	300560
+dmim 613157 is caused by:
+	606822
+dmim 613154 is caused by:
+	603590
+dmim 300260 is caused by:
+	300005
+dmim 613152 is caused by:
+	607440
+dmim 613153 is caused by:
+	606596
+dmim 613150 is caused by:
+	607439
+dmim 613151 is caused by:
+	606822
+dmim 201400 is caused by:
+	604614
+dmim 310465 is caused by:
+	312040
+dmim 148050 is caused by:
+	611192
+dmim 253700 is caused by:
+	608896
+dmim 101600 is caused by:
+	176943
+	136350
+dmim 613551 is caused by:
+	610079
+dmim 173100 is caused by:
+	139250
+dmim 612542 is caused by:
+	182100
+dmim 612540 is caused by:
+	600016
+dmim 612541 is caused by:
+	611045
+dmim 614723 is caused by:
+	102600
+dmim 151210 is caused by:
+	120140
+dmim 614727 is caused by:
+	614726
+dmim 615631 is caused by:
+	615626
+dmim 615630 is caused by:
+	607386
+dmim 615633 is caused by:
+	613363
+dmim 615632 is caused by:
+	609369
+dmim 603563 is caused by:
+	610657
+dmim 615637 is caused by:
+	615620
+dmim 615636 is caused by:
+	611654
+dmim 614878 is caused by:
+	600220
+dmim 614879 is caused by:
+	601757
+dmim 260400 is caused by:
+	607444
+dmim 254210 is caused by:
+	118490
+dmim 601776 is caused by:
+	608429
+dmim 611378 is caused by:
+	120700
+dmim 309530 is caused by:
+	300522
+dmim 614871 is caused by:
+	602859
+dmim 154020 is caused by:
+	601814
+dmim 614873 is caused by:
+	608666
+dmim 614874 is caused by:
+	614864
+dmim 614807 is caused by:
+	614666
+dmim 614876 is caused by:
+	603360
+dmim 614877 is caused by:
+	603360
+dmim 602093 is caused by:
+	600364
+dmim 602092 is caused by:
+	605242
+dmim 231050 is caused by:
+	612277
+dmim 304110 is caused by:
+	300035
+dmim 615453 is caused by:
+	123980
+dmim 158590 is caused by:
+	608014
+dmim 224900 is caused by:
+	604095
+dmim 158350 is caused by:
+	601728
+dmim 615011 is caused by:
+	614683
+dmim 608810 is caused by:
+	123590
+dmim 601942 is caused by:
+	147730
+dmim 615010 is caused by:
+	146920
+dmim 612624 is caused by:
+	106180
+dmim 204700 is caused by:
+	603767
+dmim 204870 is caused by:
+	137290
+dmim 230500 is caused by:
+	611458
+dmim 615524 is caused by:
+	180220
+dmim 615527 is caused by:
+	607043
+dmim 615523 is caused by:
+	615496
+dmim 615522 is caused by:
+	173335
+dmim 166210 is caused by:
+	120150
+	120160
+dmim 300590 is caused by:
+	300040
+dmim 193520 is caused by:
+	613113
+dmim 615529 is caused by:
+	605420
+dmim 602541 is caused by:
+	612395
+dmim 602629 is caused by:
+	609520
+dmim 153100 is caused by:
+	136352
+dmim 614809 is caused by:
+	608593
+dmim 611718 is caused by:
+	131530
+dmim 611719 is caused by:
+	605810
+dmim 613575 is caused by:
+	608845
+dmim 604928 is caused by:
+	611507
+dmim 613571 is caused by:
+	124015
+dmim 190300 is caused by:
+	126451
+dmim 118300 is caused by:
+	601097
+dmim 302500 is caused by:
+	300014
+dmim 613376 is caused by:
+	604624
+dmim 613375 is caused by:
+	191305
+dmim 612160 is caused by:
+	123810
+dmim 613370 is caused by:
+	176730
+dmim 300049 is caused by:
+	300017
+dmim 300048 is caused by:
+	300017
+dmim 602782 is caused by:
+	602782
+	612373
+dmim 161800 is caused by:
+	102610
+dmim 614008 is caused by:
+	603811
+dmim 139210 is caused by:
+	600993
+dmim 162350 is caused by:
+	611203
+dmim 235800 is caused by:
+	609457
+dmim 615158 is caused by:
+	191330
+dmim 127300 is caused by:
+	312865
+	400020
+dmim 609322 is caused by:
+	601607
+dmim 274600 is caused by:
+	605646
+dmim 609452 is caused by:
+	605906
+dmim 614411 is caused by:
+	602974
+dmim 146590 is caused by:
+	139350
+dmim 120970 is caused by:
+	602225
+dmim 615506 is caused by:
+	605120
+dmim 613411 is caused by:
+	180381
+dmim 613410 is caused by:
+	608396
+dmim 248000 is caused by:
+	612655
+dmim 600802 is caused by:
+	600173
+dmim 600803 is caused by:
+	171060
+dmim 278740 is caused by:
+	600811
+dmim 602771 is caused by:
+	606210
+dmim 601042 is caused by:
+	138140
+dmim 176450 is caused by:
+	142994
+dmim 611868 is caused by:
+	609922
+dmim 610713 is caused by:
+	142989
+dmim 612718 is caused by:
+	602360
+dmim 610717 is caused by:
+	609059
+dmim 614963 is caused by:
+	601007
+dmim 311900 is caused by:
+	300080
+dmim 605039 is caused by:
+	612990
+dmim 131760 is caused by:
+	148066
+	148040
+dmim 609218 is caused by:
+	615585
+dmim 231900 is caused by:
+	601002
+dmim 615833 is caused by:
+	611623
+dmim 608030 is caused by:
+	137070
+dmim 608033 is caused by:
+	601181
+dmim 615830 is caused by:
+	601639
+dmim 615837 is caused by:
+	615762
+dmim 135853 is caused by:
+	138160
+dmim 615387 is caused by:
+	186880
+dmim 615834 is caused by:
+	607270
+dmim 615838 is caused by:
+	615831
+dmim 133020 is caused by:
+	603415
+dmim 609528 is caused by:
+	604202
+dmim 609529 is caused by:
+	604907
+dmim 613705 is caused by:
+	601912
+dmim 613704 is caused by:
+	606522
+dmim 613703 is caused by:
+	606522
+	601147
+dmim 613702 is caused by:
+	606522
+dmim 609033 is caused by:
+	609144
+dmim 609524 is caused by:
+	102565
+dmim 122000 is caused by:
+	605020
+dmim 613708 is caused by:
+	606439
+dmim 614018 is caused by:
+	604027
+dmim 610006 is caused by:
+	600301
+dmim 610003 is caused by:
+	607837
+dmim 610100 is caused by:
+	615820
+dmim 194200 is caused by:
+	602743
+dmim 615059 is caused by:
+	128260
+dmim 614017 is caused by:
+	610062
+dmim 604321 is caused by:
+	609173
+dmim 604320 is caused by:
+	600502
+dmim 605258 is caused by:
+	605257
+dmim 605259 is caused by:
+	176264
+dmim 251450 is caused by:
+	613165
+dmim 604326 is caused by:
+	604325
+dmim 605253 is caused by:
+	129010
+	159440
+dmim 108900 is caused by:
+	600584
+dmim 146110 is caused by:
+	138850
+dmim 148600 is caused by:
+	614888
+dmim 168300 is caused by:
+	603967
+dmim 300860 is caused by:
+	312180
+dmim 300863 is caused by:
+	300272
+dmim 607678 is caused by:
+	129010
+dmim 614044 is caused by:
+	276000
+dmim 607676 is caused by:
+	606883
+dmim 607677 is caused by:
+	159440
+dmim 601553 is caused by:
+	114021
+dmim 612949 is caused by:
+	603667
+dmim 268220 is caused by:
+	606597
+	167410
+	136533
+dmim 225400 is caused by:
+	153454
+dmim 605814 is caused by:
+	603859
+dmim 608328 is caused by:
+	134797
+dmim 609140 is caused by:
+	120252
+dmim 609141 is caused by:
+	189909
+dmim 251850 is caused by:
+	606540
+dmim 307800 is caused by:
+	300550
+dmim 606408 is caused by:
+	600985
+dmim 608323 is caused by:
+	603623
+dmim 611560 is caused by:
+	610937
+dmim 184095 is caused by:
+	605427
+dmim 600151 is caused by:
+	608845
+dmim 614122 is caused by:
+	600031
+dmim 180800 is caused by:
+	159440
+	601097
+dmim 614120 is caused by:
+	611254
+dmim 276901 is caused by:
+	608400
+	612971
+dmim 610140 is caused by:
+	150330
+dmim 614042 is caused by:
+	102620
+dmim 129400 is caused by:
+	603273
+dmim 219050 is caused by:
+	146738
+	606655
+dmim 614128 is caused by:
+	150100
+dmim 614129 is caused by:
+	601119
+dmim 600794 is caused by:
+	606158
+	600287
+dmim 219150 is caused by:
+	138250
+dmim 604498 is caused by:
+	159530
+dmim 613158 is caused by:
+	607439
+dmim 600791 is caused by:
+	605646
+	601093
+	602208
+dmim 614163 is caused by:
+	600950
+dmim 601317 is caused by:
+	276903
+dmim 601316 is caused by:
+	603550
+dmim 606812 is caused by:
+	136850
+dmim 254130 is caused by:
+	603009
+dmim 209950 is caused by:
+	107470
+dmim 214300 is caused by:
+	600147
+dmim 182600 is caused by:
+	606439
+dmim 600376 is caused by:
+	601284
+dmim 111150 is caused by:
+	600599
+dmim 614167 is caused by:
+	614159
+dmim 302350 is caused by:
+	300457
+dmim 614468 is caused by:
+	600220
+dmim 300919 is caused by:
+	300072
+dmim 300918 is caused by:
+	300294
+dmim 300915 is caused by:
+	300193
+dmim 300914 is caused by:
+	303631
+dmim 300911 is caused by:
+	300556
+dmim 300910 is caused by:
+	300131
+dmim 614465 is caused by:
+	614459
+dmim 131800 is caused by:
+	147557
+	148066
+	148040
+dmim 608567 is caused by:
+	600163
+dmim 234500 is caused by:
+	608893
+dmim 614265 is caused by:
+	614245
+dmim 613495 is caused by:
+	112210
+dmim 614266 is caused by:
+	614215
+	610635
+	153622
+dmim 614261 is caused by:
+	606247
+dmim 202400 is caused by:
+	134820
+	134830
+	134850
+dmim 254770 is caused by:
+	608815
+dmim 607078 is caused by:
+	602109
+dmim 314400 is caused by:
+	300017
+dmim 156510 is caused by:
+	600211
+dmim 268400 is caused by:
+	603780
+dmim 136630 is caused by:
+	611379
+dmim 229050 is caused by:
+	611672
+dmim 613960 is caused by:
+	601488
+dmim 600204 is caused by:
+	120260
+dmim 614857 is caused by:
+	603214
+dmim 607523 is caused by:
+	120120
+dmim 228960 is caused by:
+	612358
+dmim 228900 is caused by:
+	601146
+dmim 160120 is caused by:
+	176260
+dmim 600208 is caused by:
+	160775
+dmim 212750 is caused by:
+	146880
+	604305
+dmim 607095 is caused by:
+	157660
+dmim 615028 is caused by:
+	612878
+dmim 607091 is caused by:
+	137060
+dmim 615024 is caused by:
+	612121
+dmim 615025 is caused by:
+	614984
+dmim 615026 is caused by:
+	607883
+dmim 256700 is caused by:
+	156490
+	605995
+dmim 615021 is caused by:
+	603094
+dmim 615022 is caused by:
+	615022
+dmim 615023 is caused by:
+	615276
+dmim 180700 is caused by:
+	164975
+dmim 212350 is caused by:
+	610345
+dmim 606785 is caused by:
+	191740
+dmim 300600 is caused by:
+	300110
+dmim 272120 is caused by:
+	600163
+dmim 245480 is caused by:
+	600749
+dmim 300604 is caused by:
+	300603
+dmim 300607 is caused by:
+	300429
+dmim 209880 is caused by:
+	600837
+	100790
+	113505
+	131242
+	164761
+	603851
+dmim 614399 is caused by:
+	612453
+dmim 188570 is caused by:
+	190160
+dmim 228980 is caused by:
+	601192
+dmim 264350 is caused by:
+	600228
+	600760
+	600761
+dmim 268310 is caused by:
+	602337
+dmim 136120 is caused by:
+	606967
+dmim 614391 is caused by:
+	131230
+dmim 614390 is caused by:
+	176930
+dmim 614395 is caused by:
+	124092
+dmim 608808 is caused by:
+	608771
+dmim 207900 is caused by:
+	608310
+dmim 612362 is caused by:
+	162150
+dmim 239000 is caused by:
+	602643
+dmim 258450 is caused by:
+	174763
+dmim 148190 is caused by:
+	607108
+dmim 266130 is caused by:
+	601002
+dmim 103900 is caused by:
+	610613
+dmim 612423 is caused by:
+	229000
+dmim 607323 is caused by:
+	607343
+dmim 251750 is caused by:
+	602091
+dmim 607326 is caused by:
+	607461
+dmim 606232 is caused by:
+	606230
+dmim 312750 is caused by:
+	300005
+dmim 114500 is caused by:
+	600079
+	600925
+	604289
+	191170
+	164730
+	611731
+	604025
+	600040
+	602860
+	116806
+	120470
+	602700
+	134934
+	607273
+	159350
+	604395
+	164790
+	604584
+	171834
+	603072
+	165640
+	168461
+	603028
+	603030
+	172411
+dmim 614643 is caused by:
+	614631
+dmim 220120 is caused by:
+	610516
+dmim 184252 is caused by:
+	605427
+dmim 614640 is caused by:
+	614632
+dmim 612635 is caused by:
+	613609
+dmim 108300 is caused by:
+	120140
+dmim 615731 is caused by:
+	607701
+dmim 308050 is caused by:
+	300275
+dmim 615735 is caused by:
+	612315
+dmim 614485 is caused by:
+	608944
+dmim 614487 is caused by:
+	604581
+dmim 614486 is caused by:
+	188040
+dmim 225750 is caused by:
+	606609
+dmim 225753 is caused by:
+	608755
+dmim 614482 is caused by:
+	603690
+dmim 267750 is caused by:
+	120328
+dmim 616106 is caused by:
+	615781
+dmim 240900 is caused by:
+	164731
+dmim 223360 is caused by:
+	609312
+dmim 613388 is caused by:
+	182309
+dmim 612253 is caused by:
+	600558
+dmim 148820 is caused by:
+	606597
+dmim 613382 is caused by:
+	168470
+dmim 614815 is caused by:
+	613847
+dmim 277440 is caused by:
+	601769
+dmim 276710 is caused by:
+	609695
+dmim 613385 is caused by:
+	606409
+dmim 136760 is caused by:
+	606014
+dmim 253280 is caused by:
+	606822
+dmim 608957 is caused by:
+	186910
+dmim 250620 is caused by:
+	610690
+dmim 615709 is caused by:
+	601397
+dmim 257270 is caused by:
+	604096
+dmim 261670 is caused by:
+	612931
+dmim 612394 is caused by:
+	603066
+dmim 615604 is caused by:
+	134790
+dmim 615605 is caused by:
+	607037
+dmim 615607 is caused by:
+	186740
+dmim 607903 is caused by:
+	607892
+dmim 612555 is caused by:
+	600185
+dmim 601820 is caused by:
+	600937
+dmim 612556 is caused by:
+	605441
+dmim 612551 is caused by:
+	603743
+dmim 603776 is caused by:
+	607786
+dmim 124000 is caused by:
+	603647
+dmim 166300 is caused by:
+	608968
+dmim 614739 is caused by:
+	614725
+dmim 614736 is caused by:
+	607878
+dmim 304340 is caused by:
+	300629
+dmim 614732 is caused by:
+	600856
+dmim 614731 is caused by:
+	605367
+dmim 269880 is caused by:
+	171833
+dmim 219900 is caused by:
+	606272
+dmim 304120 is caused by:
+	300017
+dmim 610549 is caused by:
+	147670
+dmim 603041 is caused by:
+	131222
+dmim 615889 is caused by:
+	612035
+dmim 610542 is caused by:
+	138292
+dmim 610359 is caused by:
+	601664
+dmim 182410 is caused by:
+	607575
+dmim 177900 is caused by:
+	142840
+dmim 614817 is caused by:
+	613534
+dmim 601954 is caused by:
+	604488
+dmim 269921 is caused by:
+	603824
+dmim 139393 is caused by:
+	601097
+dmim 601952 is caused by:
+	613386
+dmim 300814 is caused by:
+	300808
+dmim 162210 is caused by:
+	613113
+dmim 615249 is caused by:
+	615247
+dmim 615510 is caused by:
+	615495
+dmim 615511 is caused by:
+	102770
+dmim 615512 is caused by:
+	190450
+dmim 615513 is caused by:
+	602839
+dmim 615515 is caused by:
+	600543
+dmim 306700 is caused by:
+	300841
+dmim 615517 is caused by:
+	134770
+dmim 615518 is caused by:
+	604011
+dmim 193530 is caused by:
+	604831
+dmim 138900 is caused by:
+	603756
+dmim 253600 is caused by:
+	114240
+dmim 253601 is caused by:
+	603009
+dmim 194071 is caused by:
+	103280
+dmim 194070 is caused by:
+	600185
+	300037
+	607102
+dmim 247420 is caused by:
+	612773
+dmim 611705 is caused by:
+	188840
+dmim 200100 is caused by:
+	157147
+dmim 250800 is caused by:
+	613213
+dmim 257850 is caused by:
+	121014
+dmim 600974 is caused by:
+	606706
+dmim 614557 is caused by:
+	614505
+dmim 613561 is caused by:
+	610957
+dmim 600977 is caused by:
+	608921
+dmim 117360 is caused by:
+	147265
+dmim 600971 is caused by:
+	607237
+dmim 600972 is caused by:
+	606718
+dmim 612633 is caused by:
+	168820
+dmim 609307 is caused by:
+	601515
+dmim 260300 is caused by:
+	605648
+dmim 613926 is caused by:
+	611642
+dmim 610498 is caused by:
+	609204
+dmim 612567 is caused by:
+	123889
+dmim 223100 is caused by:
+	601806
+dmim 614867 is caused by:
+	170993
+dmim 614866 is caused by:
+	170993
+dmim 612376 is caused by:
+	180240
+dmim 614863 is caused by:
+	601498
+dmim 603956 is caused by:
+	134934
+dmim 614861 is caused by:
+	612920
+dmim 309520 is caused by:
+	300188
+dmim 614499 is caused by:
+	603454
+dmim 612379 is caused by:
+	611715
+dmim 610199 is caused by:
+	610192
+dmim 614869 is caused by:
+	605564
+dmim 614868 is caused by:
+	604965
+dmim 609338 is caused by:
+	601487
+dmim 156550 is caused by:
+	120140
+dmim 609441 is caused by:
+	603248
+dmim 113620 is caused by:
+	107580
+dmim 219700 is caused by:
+	602421
+	190180
+	146790
+dmim 610725 is caused by:
+	608414
+dmim 611638 is caused by:
+	600725
+dmim 604864 is caused by:
+	120140
+dmim 214100 is caused by:
+	602136
+dmim 218330 is caused by:
+	606045
+dmim 232220 is caused by:
+	602671
+dmim 173900 is caused by:
+	601313
+dmim 610738 is caused by:
+	605998
+dmim 170400 is caused by:
+	114208
+dmim 222748 is caused by:
+	613326
+dmim 153400 is caused by:
+	602402
+dmim 118200 is caused by:
+	159440
+dmim 609200 is caused by:
+	604103
+dmim 270400 is caused by:
+	602858
+dmim 300143 is caused by:
+	300206
+dmim 605027 is caused by:
+	170280
+	604289
+	603615
+	601762
+dmim 605021 is caused by:
+	613577
+dmim 604131 is caused by:
+	141850
+	141800
+dmim 609536 is caused by:
+	120900
+dmim 609535 is caused by:
+	124020
+dmim 203100 is caused by:
+	606933
+dmim 609532 is caused by:
+	151460
+	607402
+	601373
+	147570
+dmim 105400 is caused by:
+	162230
+	147450
+	601143
+	170710
+dmim 210750 is caused by:
+	609840
+dmim 608556 is caused by:
+	603031
+dmim 614501 is caused by:
+	608241
+dmim 608553 is caused by:
+	608700
+dmim 613391 is caused by:
+	603317
+dmim 614819 is caused by:
+	602091
+dmim 313500 is caused by:
+	300451
+dmim 210200 is caused by:
+	609010
+dmim 248300 is caused by:
+	606119
+dmim 255125 is caused by:
+	611911
+dmim 613778 is caused by:
+	611313
+dmim 613779 is caused by:
+	120700
+dmim 144200 is caused by:
+	139350
+	607606
+dmim 614916 is caused by:
+	114180
+dmim 609027 is caused by:
+	107269
+dmim 614009 is caused by:
+	188070
+dmim 611528 is caused by:
+	173325
+dmim 611521 is caused by:
+	176941
+dmim 611523 is caused by:
+	611524
+dmim 223800 is caused by:
+	607461
+dmim 601780 is caused by:
+	606725
+dmim 300500 is caused by:
+	300808
+dmim 248900 is caused by:
+	608181
+dmim 605249 is caused by:
+	160775
+dmim 236670 is caused by:
+	607423
+dmim 190685 is caused by:
+	305371
+dmim 601144 is caused by:
+	600163
+dmim 604317 is caused by:
+	613583
+dmim 612951 is caused by:
+	612944
+dmim 612953 is caused by:
+	603604
+dmim 612952 is caused by:
+	606754
+dmim 612955 is caused by:
+	601017
+dmim 174800 is caused by:
+	139320
+dmim 612956 is caused by:
+	126141
+dmim 300854 is caused by:
+	314310
+dmim 278150 is caused by:
+	609239
+dmim 300857 is caused by:
+	300264
+dmim 300850 is caused by:
+	300189
+dmim 606798 is caused by:
+	126453
+dmim 300853 is caused by:
+	300715
+dmim 610156 is caused by:
+	613037
+dmim 610154 is caused by:
+	103072
+dmim 610153 is caused by:
+	610572
+dmim 609152 is caused by:
+	603372
+dmim 615280 is caused by:
+	601263
+dmim 615281 is caused by:
+	603084
+dmim 615282 is caused by:
+	604593
+dmim 600919 is caused by:
+	106410
+dmim 615284 is caused by:
+	603560
+dmim 615285 is caused by:
+	610035
+dmim 615286 is caused by:
+	615302
+dmim 615287 is caused by:
+	605517
+dmim 614135 is caused by:
+	120210
+dmim 605407 is caused by:
+	191290
+dmim 600143 is caused by:
+	607837
+dmim 600142 is caused by:
+	602194
+dmim 611451 is caused by:
+	612414
+dmim 300718 is caused by:
+	300163
+dmim 173600 is caused by:
+	607273
+dmim 136800 is caused by:
+	120252
+dmim 601369 is caused by:
+	603196
+dmim 608799 is caused by:
+	603503
+dmim 148700 is caused by:
+	125670
+dmim 266500 is caused by:
+	602026
+dmim 601492 is caused by:
+	607071
+dmim 601493 is caused by:
+	605906
+dmim 601494 is caused by:
+	191045
+dmim 601495 is caused by:
+	147020
+dmim 147891 is caused by:
+	601719
+dmim 608901 is caused by:
+	604605
+dmim 608175 is caused by:
+	188450
+	610931
+dmim 109400 is caused by:
+	601309
+	603673
+	607035
+dmim 615937 is caused by:
+	611223
+dmim 300928 is caused by:
+	300204
+dmim 251110 is caused by:
+	607568
+dmim 607791 is caused by:
+	159440
+dmim 168550 is caused by:
+	123101
+dmim 300923 is caused by:
+	300521
+dmim 608779 is caused by:
+	606978
+dmim 615356 is caused by:
+	614138
+dmim 226980 is caused by:
+	604032
+dmim 615355 is caused by:
+	609591
+dmim 615352 is caused by:
+	615320
+dmim 615350 is caused by:
+	615320
+dmim 156500 is caused by:
+	120110
+dmim 225500 is caused by:
+	604831
+	607261
+dmim 614251 is caused by:
+	600495
+dmim 170100 is caused by:
+	613230
+dmim 614254 is caused by:
+	138249
+dmim 614450 is caused by:
+	190120
+dmim 614256 is caused by:
+	602911
+dmim 614257 is caused by:
+	602879
+dmim 310468 is caused by:
+	300008
+dmim 169150 is caused by:
+	179605
+dmim 608133 is caused by:
+	179605
+	180721
+dmim 164300 is caused by:
+	602279
+dmim 237300 is caused by:
+	608307
+dmim 610217 is caused by:
+	603604
+dmim 613912 is caused by:
+	134350
+dmim 112100 is caused by:
+	100740
+dmim 607060 is caused by:
+	609007
+dmim 613916 is caused by:
+	601421
+dmim 611136 is caused by:
+	137160
+dmim 218600 is caused by:
+	603780
+dmim 233420 is caused by:
+	605423
+dmim 610938 is caused by:
+	173510
+dmim 611174 is caused by:
+	606195
+dmim 300489 is caused by:
+	300011
+dmim 212720 is caused by:
+	609275
+dmim 259500 is caused by:
+	191170
+	604373
+	614041
+dmim 607084 is caused by:
+	607928
+dmim 300636 is caused by:
+	300248
+dmim 607080 is caused by:
+	605423
+dmim 300633 is caused by:
+	313700
+dmim 615033 is caused by:
+	615003
+dmim 137550 is caused by:
+	164790
+dmim 615031 is caused by:
+	615000
+dmim 615030 is caused by:
+	610670
+dmim 177850 is caused by:
+	603234
+dmim 615035 is caused by:
+	613541
+dmim 615034 is caused by:
+	610110
+dmim 300717 is caused by:
+	300163
+dmim 128100 is caused by:
+	605204
+dmim 611283 is caused by:
+	604773
+dmim 604379 is caused by:
+	607365
+dmim 612775 is caused by:
+	602713
+dmim 612975 is caused by:
+	606200
+dmim 613826 is caused by:
+	605446
+dmim 613827 is caused by:
+	602275
+dmim 613824 is caused by:
+	609799
+dmim 613825 is caused by:
+	120940
+dmim 268300 is caused by:
+	609353
+dmim 613820 is caused by:
+	612014
+dmim 229600 is caused by:
+	612724
+dmim 610805 is caused by:
+	612666
+dmim 208900 is caused by:
+	607585
+dmim 614594 is caused by:
+	607066
+dmim 234200 is caused by:
+	606157
+dmim 174000 is caused by:
+	158340
+dmim 613829 is caused by:
+	602225
+dmim 267300 is caused by:
+	192132
+dmim 314390 is caused by:
+	300265
+dmim 217400 is caused by:
+	610206
+dmim 110500 is caused by:
+	109270
+dmim 614296 is caused by:
+	606201
+dmim 170650 is caused by:
+	602365
+dmim 613011 is caused by:
+	186973
+dmim 614728 is caused by:
+	614724
+dmim 307000 is caused by:
+	308840
+dmim 615724 is caused by:
+	615684
+dmim 615723 is caused by:
+	608489
+dmim 615722 is caused by:
+	132890
+dmim 615721 is caused by:
+	605558
+dmim 612416 is caused by:
+	264900
+dmim 603147 is caused by:
+	604566
+dmim 161000 is caused by:
+	148066
+dmim 607330 is caused by:
+	602286
+dmim 613761 is caused by:
+	609413
+dmim 613155 is caused by:
+	607423
+dmim 241800 is caused by:
+	165240
+dmim 300706 is caused by:
+	300697
+dmim 224100 is caused by:
+	610512
+dmim 220110 is caused by:
+	614478
+	124089
+	612322
+	612958
+	616003
+	613920
+	602125
+	614698
+	614770
+dmim 613763 is caused by:
+	123590
+dmim 132450 is caused by:
+	120140
+dmim 606688 is caused by:
+	176640
+dmim 614037 is caused by:
+	246530
+dmim 258870 is caused by:
+	613349
+dmim 186500 is caused by:
+	602991
+dmim 217080 is caused by:
+	607805
+dmim 266920 is caused by:
+	614620
+dmim 606685 is caused by:
+	601411
+dmim 603786 is caused by:
+	604365
+dmim 300884 is caused by:
+	300776
+dmim 124500 is caused by:
+	121011
+dmim 266300 is caused by:
+	155555
+dmim 614298 is caused by:
+	614297
+dmim 614350 is caused by:
+	600678
+dmim 188030 is caused by:
+	612169
+dmim 613179 is caused by:
+	164050
+dmim 601816 is caused by:
+	191740
+dmim 605376 is caused by:
+	605194
+dmim 183086 is caused by:
+	601011
+dmim 115080 is caused by:
+	604694
+dmim 601813 is caused by:
+	603506
+dmim 613172 is caused by:
+	613171
+dmim 230450 is caused by:
+	606857
+dmim 613177 is caused by:
+	604710
+dmim 165300 is caused by:
+	606580
+dmim 615617 is caused by:
+	186790
+dmim 615616 is caused by:
+	607667
+dmim 615615 is caused by:
+	186830
+dmim 612560 is caused by:
+	601903
+dmim 612561 is caused by:
+	603634
+dmim 612562 is caused by:
+	604175
+dmim 612563 is caused by:
+	603658
+dmim 263800 is caused by:
+	600968
+dmim 614870 is caused by:
+	602859
+dmim 614748 is caused by:
+	605025
+dmim 613955 is caused by:
+	609510
+dmim 616098 is caused by:
+	603517
+dmim 616099 is caused by:
+	614610
+dmim 266120 is caused by:
+	606224
+dmim 616094 is caused by:
+	615247
+dmim 616095 is caused by:
+	600682
+dmim 614740 is caused by:
+	191170
+dmim 603543 is caused by:
+	603273
+dmim 614872 is caused by:
+	608666
+dmim 614744 is caused by:
+	142968
+dmim 163200 is caused by:
+	190070
+	190020
+dmim 613280 is caused by:
+	611146
+dmim 613286 is caused by:
+	191044
+dmim 613287 is caused by:
+	601065
+dmim 613285 is caused by:
+	613283
+dmim 305400 is caused by:
+	300546
+dmim 610551 is caused by:
+	608204
+dmim 177820 is caused by:
+	606672
+dmim 116800 is caused by:
+	602438
+dmim 166780 is caused by:
+	601653
+dmim 603860 is caused by:
+	191845
+dmim 616078 is caused by:
+	611060
+dmim 616079 is caused by:
+	603904
+dmim 241410 is caused by:
+	604934
+dmim 312920 is caused by:
+	300401
+dmim 603896 is caused by:
+	606686
+	606454
+	606273
+	603945
+	606687
+dmim 140600 is caused by:
+	602109
+dmim 131900 is caused by:
+	148066
+	148040
+dmim 158330 is caused by:
+	603490
+dmim 135150 is caused by:
+	607273
+dmim 600202 is caused by:
+	609269
+dmim 119540 is caused by:
+	191339
+dmim 227260 is caused by:
+	607556
+dmim 223000 is caused by:
+	603202
+dmim 607847 is caused by:
+	600871
+dmim 611862 is caused by:
+	613665
+dmim 615508 is caused by:
+	125670
+dmim 218030 is caused by:
+	614232
+dmim 615505 is caused by:
+	603395
+dmim 615504 is caused by:
+	611088
+dmim 615503 is caused by:
+	615462
+dmim 615502 is caused by:
+	604167
+dmim 615501 is caused by:
+	603930
+dmim 615500 is caused by:
+	615494
+dmim 215150 is caused by:
+	120290
+	120140
+dmim 120200 is caused by:
+	607108
+dmim 614926 is caused by:
+	600783
+dmim 614924 is caused by:
+	612799
+dmim 614862 is caused by:
+	601498
+dmim 614922 is caused by:
+	614917
+dmim 614923 is caused by:
+	614901
+dmim 614920 is caused by:
+	603867
+dmim 614921 is caused by:
+	171900
+dmim 276900 is caused by:
+	276903
+dmim 600962 is caused by:
+	139350
+dmim 276902 is caused by:
+	606397
+dmim 276904 is caused by:
+	605242
+dmim 147950 is caused by:
+	136350
+dmim 600965 is caused by:
+	606201
+dmim 241550 is caused by:
+	121014
+dmim 614493 is caused by:
+	602357
+dmim 219800 is caused by:
+	606272
+dmim 236680 is caused by:
+	610693
+dmim 614079 is caused by:
+	606264
+dmim 263200 is caused by:
+	606702
+dmim 610489 is caused by:
+	188830
+dmim 613353 is caused by:
+	608206
+dmim 602433 is caused by:
+	608465
+dmim 218040 is caused by:
+	190020
+dmim 612539 is caused by:
+	603690
+dmim 610474 is caused by:
+	134934
+dmim 614813 is caused by:
+	614783
+dmim 614810 is caused by:
+	191190
+dmim 614816 is caused by:
+	190220
+dmim 610476 is caused by:
+	125645
+dmim 614814 is caused by:
+	147183
+dmim 612347 is caused by:
+	176261
+dmim 612348 is caused by:
+	173370
+dmim 227600 is caused by:
+	613872
+dmim 101400 is caused by:
+	601622
+	176943
+dmim 125700 is caused by:
+	192340
+dmim 121820 is caused by:
+	601692
+dmim 609308 is caused by:
+	607423
+dmim 612098 is caused by:
+	102540
+dmim 310700 is caused by:
+	300628
+dmim 227240 is caused by:
+	606202
+dmim 259420 is caused by:
+	120150
+	120160
+dmim 609304 is caused by:
+	609302
+dmim 609306 is caused by:
+	130610
+dmim 606762 is caused by:
+	138130
+dmim 610733 is caused by:
+	182530
+dmim 612310 is caused by:
+	608697
+dmim 615219 is caused by:
+	603785
+dmim 604302 is caused by:
+	153620
+	147620
+dmim 191100 is caused by:
+	605284
+dmim 611603 is caused by:
+	602529
+dmim 182230 is caused by:
+	601802
+dmim 305390 is caused by:
+	300658
+dmim 176430 is caused by:
+	602860
+dmim 102500 is caused by:
+	600275
+dmim 236200 is caused by:
+	613381
+dmim 222730 is caused by:
+	133550
+dmim 118210 is caused by:
+	605995
+dmim 139090 is caused by:
+	614169
+dmim 605019 is caused by:
+	604774
+dmim 251290 is caused by:
+	602876
+dmim 246900 is caused by:
+	238331
+dmim 605013 is caused by:
+	609449
+dmim 113500 is caused by:
+	605427
+dmim 204100 is caused by:
+	180069
+dmim 139300 is caused by:
+	107910
+dmim 609015 is caused by:
+	600890
+	143450
+dmim 609016 is caused by:
+	600890
+dmim 612318 is caused by:
+	609025
+dmim 613265 is caused by:
+	131242
+dmim 608013 is caused by:
+	606463
+dmim 609549 is caused by:
+	606227
+dmim 608540 is caused by:
+	605907
+dmim 274400 is caused by:
+	601843
+dmim 612095 is caused by:
+	604365
+dmim 614034 is caused by:
+	141250
+dmim 614035 is caused by:
+	605608
+dmim 614036 is caused by:
+	103950
+dmim 613762 is caused by:
+	600982
+dmim 613765 is caused by:
+	188840
+dmim 187900 is caused by:
+	604383
+dmim 613767 is caused by:
+	600724
+dmim 614033 is caused by:
+	138760
+dmim 613769 is caused by:
+	600342
+dmim 219100 is caused by:
+	604580
+dmim 614038 is caused by:
+	137295
+dmim 614039 is caused by:
+	602661
+dmim 614382 is caused by:
+	606252
+dmim 264300 is caused by:
+	605573
+dmim 307030 is caused by:
+	300474
+dmim 256450 is caused by:
+	600509
+dmim 610024 is caused by:
+	601190
+dmim 610021 is caused by:
+	600682
+dmim 131750 is caused by:
+	120120
+dmim 184900 is caused by:
+	134797
+dmim 604308 is caused by:
+	134797
+dmim 605472 is caused by:
+	602851
+	612971
+dmim 300842 is caused by:
+	314850
+dmim 601154 is caused by:
+	600163
+dmim 211900 is caused by:
+	604824
+	605380
+	601756
+dmim 604307 is caused by:
+	123680
+dmim 176860 is caused by:
+	612283
+dmim 605479 is caused by:
+	603201
+dmim 615297 is caused by:
+	614789
+dmim 601777 is caused by:
+	600179
+dmim 615294 is caused by:
+	615288
+dmim 615293 is caused by:
+	600276
+dmim 243060 is caused by:
+	603495
+dmim 612964 is caused by:
+	184757
+dmim 612965 is caused by:
+	184757
+dmim 607654 is caused by:
+	139350
+dmim 612961 is caused by:
+	600921
+dmim 300844 is caused by:
+	300075
+dmim 609161 is caused by:
+	603390
+dmim 609162 is caused by:
+	120140
+dmim 300673 is caused by:
+	300005
+dmim 610127 is caused by:
+	116840
+dmim 610125 is caused by:
+	600037
+dmim 615298 is caused by:
+	601146
+dmim 602390 is caused by:
+	608374
+dmim 203200 is caused by:
+	611409
+	155555
+dmim 614101 is caused by:
+	135600
+dmim 223900 is caused by:
+	603722
+dmim 143890 is caused by:
+	606945
+	600046
+	132811
+	107670
+	600946
+	604088
+	600564
+dmim 614104 is caused by:
+	600855
+dmim 611465 is caused by:
+	605460
+dmim 613615 is caused by:
+	613524
+dmim 600175 is caused by:
+	605427
+dmim 613617 is caused by:
+	613598
+dmim 613616 is caused by:
+	613597
+dmim 613611 is caused by:
+	603155
+dmim 613610 is caused by:
+	613602
+dmim 248200 is caused by:
+	601691
+	605080
+dmim 613612 is caused by:
+	606821
+dmim 311300 is caused by:
+	300017
+dmim 269840 is caused by:
+	176947
+dmim 604273 is caused by:
+	608918
+dmim 146550 is caused by:
+	602302
+dmim 604271 is caused by:
+	600946
+	601898
+dmim 608782 is caused by:
+	605993
+dmim 278760 is caused by:
+	133520
+dmim 600775 is caused by:
+	611888
+dmim 609165 is caused by:
+	148080
+dmim 254800 is caused by:
+	601145
+dmim 608161 is caused by:
+	179605
+	607854
+dmim 300934 is caused by:
+	300090
+dmim 115430 is caused by:
+	176300
+dmim 608765 is caused by:
+	608892
+dmim 180920 is caused by:
+	602115
+dmim 187601 is caused by:
+	134934
+dmim 265800 is caused by:
+	601105
+dmim 309400 is caused by:
+	300011
+dmim 604454 is caused by:
+	603518
+dmim 608768 is caused by:
+	603680
+	613289
+dmim 614249 is caused by:
+	605042
+dmim 605909 is caused by:
+	608309
+dmim 615344 is caused by:
+	603220
+dmim 212112 is caused by:
+	150330
+dmim 160150 is caused by:
+	602378
+	611089
+dmim 615343 is caused by:
+	601047
+dmim 615342 is caused by:
+	603295
+dmim 300849 is caused by:
+	300104
+dmim 615349 is caused by:
+	615291
+dmim 615348 is caused by:
+	615340
+dmim 143095 is caused by:
+	603799
+dmim 122200 is caused by:
+	601692
+dmim 613908 is caused by:
+	613900
+dmim 600512 is caused by:
+	604619
+dmim 600513 is caused by:
+	118504
+dmim 175700 is caused by:
+	165240
+dmim 610244 is caused by:
+	610243
+dmim 263300 is caused by:
+	147796
+dmim 226730 is caused by:
+	147557
+	147556
+dmim 158810 is caused by:
+	120220
+	120240
+	120250
+dmim 600224 is caused by:
+	604985
+dmim 188000 is caused by:
+	610855
+	608221
+dmim 607507 is caused by:
+	153440
+	605956
+dmim 262300 is caused by:
+	605080
+dmim 614102 is caused by:
+	147200
+dmim 229700 is caused by:
+	611570
+dmim 225280 is caused by:
+	114021
+dmim 609821 is caused by:
+	600515
+dmim 609820 is caused by:
+	606425
+dmim 170390 is caused by:
+	600681
+dmim 612740 is caused by:
+	125270
+dmim 137760 is caused by:
+	602432
+dmim 300624 is caused by:
+	309550
+dmim 242860 is caused by:
+	602900
+dmim 111000 is caused by:
+	613868
+dmim 610478 is caused by:
+	608171
+dmim 614105 is caused by:
+	603178
+dmim 611291 is caused by:
+	611290
+dmim 245660 is caused by:
+	600805
+dmim 612989 is caused by:
+	612988
+dmim 613835 is caused by:
+	604210
+dmim 136140 is caused by:
+	611421
+dmim 613837 is caused by:
+	146690
+dmim 606438 is caused by:
+	605268
+dmim 613830 is caused by:
+	603617
+dmim 218700 is caused by:
+	167415
+dmim 613832 is caused by:
+	608501
+dmim 143470 is caused by:
+	118470
+dmim 610832 is caused by:
+	610355
+dmim 188550 is caused by:
+	606918
+	601984
+	600299
+	603406
+	605769
+	188830
+	601985
+dmim 613839 is caused by:
+	126060
+dmim 613838 is caused by:
+	605602
+dmim 129600 is caused by:
+	134797
+dmim 606744 is caused by:
+	604124
+dmim 606217 is caused by:
+	607170
+dmim 300640 is caused by:
+	300248
+dmim 255995 is caused by:
+	615521
+dmim 613573 is caused by:
+	609607
+dmim 248510 is caused by:
+	609489
+dmim 302950 is caused by:
+	300180
+dmim 615752 is caused by:
+	604110
+dmim 309350 is caused by:
+	300017
+dmim 615751 is caused by:
+	114761
+dmim 311070 is caused by:
+	311850
+dmim 615758 is caused by:
+	153390
+dmim 607341 is caused by:
+	605284
+dmim 607346 is caused by:
+	605411
+dmim 111750 is caused by:
+	609017
+dmim 245590 is caused by:
+	604260
+dmim 217095 is caused by:
+	602054
+	611770
+	600584
+	605194
+	602880
+	601656
+dmim 606693 is caused by:
+	610513
+dmim 615191 is caused by:
+	150240
+dmim 615193 is caused by:
+	102575
+dmim 308700 is caused by:
+	300836
+dmim 220100 is caused by:
+	104614
+	604144
+dmim 100100 is caused by:
+	118494
+dmim 300498 is caused by:
+	314998
+dmim 258860 is caused by:
+	613847
+dmim 613656 is caused by:
+	613655
+dmim 241200 is caused by:
+	600359
+dmim 611182 is caused by:
+	606979
+dmim 145600 is caused by:
+	180901
+dmim 612164 is caused by:
+	602926
+dmim 613163 is caused by:
+	137150
+dmim 613162 is caused by:
+	600417
+dmim 613161 is caused by:
+	606673
+dmim 192605 is caused by:
+	139360
+dmim 612577 is caused by:
+	609390
+dmim 249000 is caused by:
+	609883
+dmim 608978 is caused by:
+	607102
+dmim 612572 is caused by:
+	604526
+dmim 300434 is caused by:
+	300579
+dmim 261650 is caused by:
+	614095
+dmim 300438 is caused by:
+	300256
+dmim 608971 is caused by:
+	151460
+	146661
+dmim 217700 is caused by:
+	610206
+dmim 603554 is caused by:
+	605988
+	179615
+	179616
+dmim 603553 is caused by:
+	170280
+dmim 603552 is caused by:
+	605014
+dmim 256500 is caused by:
+	605010
+dmim 180104 is caused by:
+	607331
+dmim 180105 is caused by:
+	146690
+dmim 266150 is caused by:
+	608786
+dmim 180100 is caused by:
+	603937
+dmim 143500 is caused by:
+	191740
+dmim 616083 is caused by:
+	608668
+dmim 614750 is caused by:
+	191350
+dmim 616081 is caused by:
+	606019
+dmim 616080 is caused by:
+	603368
+dmim 181450 is caused by:
+	601621
+dmim 614756 is caused by:
+	611501
+dmim 613291 is caused by:
+	601295
+dmim 276820 is caused by:
+	601570
+dmim 181270 is caused by:
+	613420
+dmim 215700 is caused by:
+	603470
+dmim 260920 is caused by:
+	251170
+dmim 209500 is caused by:
+	602302
+dmim 600195 is caused by:
+	600221
+dmim 606658 is caused by:
+	147265
+dmim 239200 is caused by:
+	601199
+dmim 311200 is caused by:
+	300170
+dmim 231005 is caused by:
+	606463
+dmim 300387 is caused by:
+	300157
+dmim 616069 is caused by:
+	131550
+dmim 258315 is caused by:
+	604404
+dmim 121900 is caused by:
+	601692
+dmim 193510 is caused by:
+	156845
+dmim 310300 is caused by:
+	300384
+dmim 601977 is caused by:
+	159530
+dmim 158320 is caused by:
+	120436
+	609309
+dmim 119800 is caused by:
+	602149
+dmim 615578 is caused by:
+	615564
+dmim 611876 is caused by:
+	600003
+dmim 611875 is caused by:
+	114205
+dmim 615573 is caused by:
+	615567
+dmim 611879 is caused by:
+	191040
+dmim 611878 is caused by:
+	191010
+dmim 277600 is caused by:
+	608990
+dmim 615577 is caused by:
+	164012
+dmim 615574 is caused by:
+	108370
+dmim 615575 is caused by:
+	608533
+dmim 253800 is caused by:
+	607440
+dmim 215140 is caused by:
+	600024
+dmim 277170 is caused by:
+	614571
+dmim 106260 is caused by:
+	603273
+dmim 614935 is caused by:
+	614930
+dmim 614934 is caused by:
+	610316
+dmim 611721 is caused by:
+	176801
+dmim 614931 is caused by:
+	142976
+dmim 611726 is caused by:
+	611725
+dmim 614932 is caused by:
+	610316
+dmim 261500 is caused by:
+	131399
+dmim 300322 is caused by:
+	308000
+dmim 162091 is caused by:
+	607379
+	601607
+dmim 244400 is caused by:
+	604366
+dmim 266200 is caused by:
+	609712
+dmim 602014 is caused by:
+	607009
+dmim 600996 is caused by:
+	180902
+dmim 600994 is caused by:
+	608798
+dmim 600995 is caused by:
+	604766
+dmim 613581 is caused by:
+	607056
+dmim 248190 is caused by:
+	610036
+dmim 613582 is caused by:
+	180073
+dmim 162300 is caused by:
+	164761
+dmim 612004 is caused by:
+	123970
+dmim 612199 is caused by:
+	613129
+dmim 602111 is caused by:
+	600108
+dmim 229800 is caused by:
+	614058
+dmim 613348 is caused by:
+	610355
+dmim 613347 is caused by:
+	600185
+dmim 613345 is caused by:
+	603967
+dmim 187600 is caused by:
+	134934
+dmim 613341 is caused by:
+	604863
+dmim 309541 is caused by:
+	300019
+dmim 256520 is caused by:
+	606879
+dmim 110450 is caused by:
+	107776
+dmim 615402 is caused by:
+	605452
+dmim 612359 is caused by:
+	185470
+dmim 615401 is caused by:
+	605000
+dmim 309549 is caused by:
+	300499
+dmim 312863 is caused by:
+	308380
+dmim 140700 is caused by:
+	141850
+	141800
+	141900
+dmim 612350 is caused by:
+	608735
+dmim 611615 is caused by:
+	607440
+dmim 600795 is caused by:
+	609512
+dmim 190350 is caused by:
+	604386
+dmim 190351 is caused by:
+	604386
+dmim 179800 is caused by:
+	109270
+dmim 300834 is caused by:
+	312610
+dmim 602772 is caused by:
+	612424
+dmim 610582 is caused by:
+	600937
+dmim 400045 is caused by:
+	480000
+dmim 182212 is caused by:
+	164780
+dmim 130000 is caused by:
+	120150
+	120215
+	120190
+dmim 125595 is caused by:
+	148066
+dmim 118220 is caused by:
+	601097
+dmim 232200 is caused by:
+	613742
+dmim 176400 is caused by:
+	604161
+dmim 614678 is caused by:
+	606489
+dmim 613508 is caused by:
+	605427
+dmim 300367 is caused by:
+	305371
+dmim 602066 is caused by:
+	614386
+dmim 249270 is caused by:
+	603941
+dmim 609220 is caused by:
+	601865
+dmim 609227 is caused by:
+	606526
+dmim 251260 is caused by:
+	602667
+dmim 274270 is caused by:
+	612779
+dmim 608579 is caused by:
+	142800
+	142830
+dmim 146255 is caused by:
+	131320
+dmim 609006 is caused by:
+	606351
+dmim 123500 is caused by:
+	176943
+dmim 131100 is caused by:
+	613733
+dmim 607483 is caused by:
+	606152
+dmim 614023 is caused by:
+	172480
+dmim 614022 is caused by:
+	600163
+dmim 615269 is caused by:
+	602748
+dmim 613758 is caused by:
+	181031
+dmim 613759 is caused by:
+	602457
+dmim 614025 is caused by:
+	151670
+dmim 614024 is caused by:
+	176895
+dmim 613756 is caused by:
+	123825
+dmim 614028 is caused by:
+	107720
+dmim 613750 is caused by:
+	162080
+dmim 613751 is caused by:
+	602730
+dmim 613752 is caused by:
+	180960
+dmim 613418 is caused by:
+	613405
+dmim 105550 is caused by:
+	614260
+dmim 615999 is caused by:
+	103600
+dmim 609311 is caused by:
+	611104
+dmim 609310 is caused by:
+	120436
+dmim 615994 is caused by:
+	606568
+dmim 615995 is caused by:
+	613605
+dmim 615996 is caused by:
+	615870
+dmim 615085 is caused by:
+	614780
+dmim 615990 is caused by:
+	609883
+dmim 102200 is caused by:
+	139320
+	605555
+	182455
+dmim 615992 is caused by:
+	613580
+dmim 615993 is caused by:
+	613524
+dmim 230200 is caused by:
+	604313
+dmim 601744 is caused by:
+	603031
+dmim 615266 is caused by:
+	607984
+dmim 610762 is caused by:
+	601040
+dmim 133100 is caused by:
+	147796
+	605093
+	133171
+dmim 122470 is caused by:
+	608667
+dmim 614743 is caused by:
+	602322
+dmim 615974 is caused by:
+	600206
+dmim 615972 is caused by:
+	615949
+dmim 615973 is caused by:
+	614784
+dmim 615970 is caused by:
+	104150
+dmim 312000 is caused by:
+	313430
+dmim 119300 is caused by:
+	607199
+dmim 615978 is caused by:
+	107470
+dmim 615979 is caused by:
+	609102
+dmim 107480 is caused by:
+	602218
+dmim 252500 is caused by:
+	607840
+dmim 137800 is caused by:
+	164870
+	191170
+	147700
+dmim 142623 is caused by:
+	164761
+dmim 610092 is caused by:
+	142993
+dmim 614115 is caused by:
+	604349
+dmim 614114 is caused by:
+	607951
+dmim 614113 is caused by:
+	611432
+dmim 613625 is caused by:
+	607788
+dmim 143860 is caused by:
+	603263
+dmim 610093 is caused by:
+	142993
+dmim 211800 is caused by:
+	129190
+dmim 609286 is caused by:
+	606075
+dmim 243500 is caused by:
+	607036
+dmim 130060 is caused by:
+	120150
+	120160
+dmim 602025 is caused by:
+	155540
+dmim 172870 is caused by:
+	604210
+dmim 610651 is caused by:
+	133510
+dmim 608194 is caused by:
+	605446
+dmim 242900 is caused by:
+	606622
+dmim 608751 is caused by:
+	160790
+dmim 191900 is caused by:
+	606416
+dmim 614231 is caused by:
+	609382
+dmim 605911 is caused by:
+	600234
+dmim 203300 is caused by:
+	604982
+dmim 233300 is caused by:
+	136435
+dmim 608758 is caused by:
+	160781
+dmim 303900 is caused by:
+	300822
+dmim 608203 is caused by:
+	602049
+dmim 256050 is caused by:
+	606718
+dmim 615371 is caused by:
+	608307
+dmim 615373 is caused by:
+	605557
+dmim 615374 is caused by:
+	612994
+dmim 615376 is caused by:
+	611101
+dmim 615377 is caused by:
+	600235
+dmim 615378 is caused by:
+	601327
+dmim 610227 is caused by:
+	610226
+dmim 605130 is caused by:
+	159555
+dmim 610220 is caused by:
+	610219
+dmim 269500 is caused by:
+	605740
+dmim 202650 is caused by:
+	167420
+dmim 263650 is caused by:
+	605706
+dmim 607641 is caused by:
+	601143
+dmim 300071 is caused by:
+	300110
+dmim 600501 is caused by:
+	131244
+dmim 608688 is caused by:
+	601731
+dmim 601583 is caused by:
+	609062
+dmim 606595 is caused by:
+	602195
+dmim 606593 is caused by:
+	601837
+dmim 607514 is caused by:
+	609044
+dmim 144010 is caused by:
+	107730
+dmim 614076 is caused by:
+	607145
+dmim 609814 is caused by:
+	134370
+dmim 238700 is caused by:
+	605113
+dmim 136680 is caused by:
+	607102
+dmim 611067 is caused by:
+	611101
+dmim 614582 is caused by:
+	607118
+dmim 614583 is caused by:
+	102560
+dmim 207750 is caused by:
+	608083
+dmim 612997 is caused by:
+	606389
+dmim 208920 is caused by:
+	606350
+dmim 300894 is caused by:
+	300526
+dmim 300895 is caused by:
+	300188
+dmim 300896 is caused by:
+	314375
+dmim 271640 is caused by:
+	615291
+dmim 612999 is caused by:
+	608442
+dmim 612998 is caused by:
+	608441
+dmim 610829 is caused by:
+	165230
+dmim 610828 is caused by:
+	601309
+dmim 613800 is caused by:
+	603056
+dmim 613801 is caused by:
+	180072
+dmim 144700 is caused by:
+	607273
+	602773
+	142410
+	603046
+	601982
+	608537
+	189907
+dmim 613803 is caused by:
+	607213
+dmim 613804 is caused by:
+	605525
+dmim 216550 is caused by:
+	607817
+dmim 613807 is caused by:
+	613798
+dmim 613808 is caused by:
+	613799
+dmim 613809 is caused by:
+	608400
+dmim 114550 is caused by:
+	611731
+	604584
+	191170
+	164860
+	603816
+	601763
+	116806
+	147280
+	171834
+dmim 614745 is caused by:
+	607961
+dmim 606777 is caused by:
+	138140
+dmim 234000 is caused by:
+	610619
+dmim 188580 is caused by:
+	114208
+dmim 615745 is caused by:
+	108780
+dmim 615744 is caused by:
+	137160
+dmim 615749 is caused by:
+	120900
+dmim 216950 is caused by:
+	613785
+dmim 201750 is caused by:
+	124015
+dmim 154800 is caused by:
+	164920
+dmim 608908 is caused by:
+	604272
+dmim 609968 is caused by:
+	147670
+dmim 615182 is caused by:
+	190315
+dmim 615181 is caused by:
+	610194
+dmim 615185 is caused by:
+	610863
+dmim 615184 is caused by:
+	123590
+dmim 614691 is caused by:
+	610345
+dmim 615188 is caused by:
+	123670
+dmim 609823 is caused by:
+	609761
+dmim 614696 is caused by:
+	609512
+dmim 272200 is caused by:
+	607939
+dmim 610913 is caused by:
+	178620
+dmim 606353 is caused by:
+	606352
+dmim 608115 is caused by:
+	136435
+dmim 610915 is caused by:
+	610339
+dmim 245050 is caused by:
+	601424
+dmim 602347 is caused by:
+	171060
+dmim 275210 is caused by:
+	150330
+	606480
+dmim 613112 is caused by:
+	612901
+dmim 615381 is caused by:
+	174761
+dmim 189500 is caused by:
+	142983
+dmim 613116 is caused by:
+	142640
+dmim 609812 is caused by:
+	114840
+dmim 261640 is caused by:
+	612719
+dmim 603218 is caused by:
+	176640
+dmim 613118 is caused by:
+	107300
+dmim 613119 is caused by:
+	604433
+dmim 150250 is caused by:
+	603381
+dmim 127400 is caused by:
+	146920
+dmim 257320 is caused by:
+	600514
+dmim 300423 is caused by:
+	300556
+dmim 300422 is caused by:
+	300172
+dmim 300425 is caused by:
+	300336
+dmim 300424 is caused by:
+	300170
+dmim 158000 is caused by:
+	602765
+	602153
+	601928
+dmim 606170 is caused by:
+	605880
+dmim 606176 is caused by:
+	600509
+	138079
+	176730
+	600937
+dmim 613073 is caused by:
+	120361
+dmim 609136 is caused by:
+	602229
+dmim 606996 is caused by:
+	607215
+dmim 119600 is caused by:
+	600211
+dmim 614707 is caused by:
+	607882
+dmim 615386 is caused by:
+	604985
+dmim 614885 is caused by:
+	601789
+dmim 219090 is caused by:
+	605555
+dmim 611087 is caused by:
+	608626
+dmim 614564 is caused by:
+	601215
+dmim 614565 is caused by:
+	614515
+dmim 614562 is caused by:
+	614556
+dmim 614563 is caused by:
+	600112
+dmim 130900 is caused by:
+	611927
+dmim 266900 is caused by:
+	607100
+dmim 278700 is caused by:
+	611153
+dmim 117550 is caused by:
+	606681
+dmim 117800 is caused by:
+	607040
+dmim 608404 is caused by:
+	173510
+dmim 614701 is caused by:
+	606462
+dmim 153670 is caused by:
+	606672
+dmim 604250 is caused by:
+	604720
+dmim 616050 is caused by:
+	606831
+dmim 616051 is caused by:
+	117143
+dmim 616052 is caused by:
+	614631
+dmim 616053 is caused by:
+	611204
+dmim 606002 is caused by:
+	608465
+dmim 606003 is caused by:
+	602063
+dmim 616056 is caused by:
+	600397
+dmim 613029 is caused by:
+	600185
+dmim 616059 is caused by:
+	610565
+dmim 613024 is caused by:
+	603517
+dmim 613021 is caused by:
+	600228
+dmim 613707 is caused by:
+	164757
+dmim 300559 is caused by:
+	311870
+dmim 300558 is caused by:
+	300142
+dmim 612219 is caused by:
+	133450
+dmim 300555 is caused by:
+	300535
+dmim 300554 is caused by:
+	300008
+dmim 249100 is caused by:
+	608107
+dmim 277180 is caused by:
+	602421
+dmim 250100 is caused by:
+	607574
+dmim 615938 is caused by:
+	123833
+dmim 161200 is caused by:
+	602575
+dmim 601631 is caused by:
+	601090
+dmim 214800 is caused by:
+	608892
+	608166
+dmim 613810 is caused by:
+	180071
+dmim 615561 is caused by:
+	138470
+dmim 615560 is caused by:
+	167411
+dmim 611884 is caused by:
+	603339
+dmim 277610 is caused by:
+	120290
+dmim 615565 is caused by:
+	604043
+dmim 611880 is caused by:
+	191044
+dmim 611881 is caused by:
+	103850
+dmim 215600 is caused by:
+	148070
+	148060
+dmim 106210 is caused by:
+	606985
+	607108
+dmim 602588 is caused by:
+	601653
+dmim 614900 is caused by:
+	603704
+dmim 151050 is caused by:
+	612792
+dmim 614519 is caused by:
+	120130
+	120090
+	106180
+dmim 300087 is caused by:
+	314670
+dmim 614131 is caused by:
+	601479
+dmim 186580 is caused by:
+	605956
+dmim 231300 is caused by:
+	601771
+dmim 261515 is caused by:
+	601860
+dmim 300088 is caused by:
+	300460
+dmim 602450 is caused by:
+	605988
+dmim 119900 is caused by:
+	601688
+dmim 125853 is caused by:
+	600509
+	189907
+	138079
+	167413
+	164731
+	173335
+	142410
+	606201
+	611259
+	600701
+	608289
+	605565
+	611145
+	603694
+	608036
+	138033
+	600281
+	147545
+	600797
+	151670
+	604641
+	601724
+	600937
+	602228
+	600804
+	600733
+	138430
+	601487
+	176885
+dmim 125852 is caused by:
+	176730
+dmim 125851 is caused by:
+	138079
+dmim 125850 is caused by:
+	600281
+dmim 602459 is caused by:
+	602460
+dmim 613330 is caused by:
+	602183
+dmim 615190 is caused by:
+	608833
+dmim 605676 is caused by:
+	125647
+dmim 213980 is caused by:
+	614123
+dmim 615415 is caused by:
+	609799
+dmim 615414 is caused by:
+	602978
+dmim 615411 is caused by:
+	602591
+dmim 608980 is caused by:
+	608944
+dmim 615413 is caused by:
+	608226
+dmim 615412 is caused by:
+	191135
+dmim 121800 is caused by:
+	611632
+dmim 312870 is caused by:
+	300037
+dmim 193670 is caused by:
+	162643
+dmim 614837 is caused by:
+	604161
+dmim 614830 is caused by:
+	614828
+dmim 615418 is caused by:
+	103220
+dmim 614832 is caused by:
+	614829
+dmim 614833 is caused by:
+	610436
+dmim 303700 is caused by:
+	300822
+	300821
+dmim 607432 is caused by:
+	601545
+dmim 274300 is caused by:
+	190160
+dmim 116600 is caused by:
+	176946
+dmim 605583 is caused by:
+	607557
+dmim 236792 is caused by:
+	609584
+dmim 614850 is caused by:
+	607601
+dmim 185500 is caused by:
+	130160
+dmim 605588 is caused by:
+	150330
+dmim 605589 is caused by:
+	610197
+dmim 227220 is caused by:
+	605837
+	611409
+dmim 215045 is caused by:
+	168468
+dmim 271900 is caused by:
+	608034
+dmim 613244 is caused by:
+	185535
+dmim 613243 is caused by:
+	191040
+dmim 605074 is caused by:
+	164860
+	179755
+dmim 601003 is caused by:
+	108730
+dmim 601001 is caused by:
+	148066
+	148040
+dmim 176410 is caused by:
+	152790
+dmim 601005 is caused by:
+	114205
+dmim 602540 is caused by:
+	121011
+dmim 250850 is caused by:
+	610550
+dmim 300376 is caused by:
+	300377
+dmim 608118 is caused by:
+	609617
+dmim 156400 is caused by:
+	168468
+dmim 193700 is caused by:
+	160720
+dmim 602078 is caused by:
+	602753
+dmim 235200 is caused by:
+	613609
+	112261
+dmim 601382 is caused by:
+	603557
+dmim 243150 is caused by:
+	609332
+dmim 609560 is caused by:
+	188250
+dmim 165550 is caused by:
+	607108
+dmim 204300 is caused by:
+	606725
+dmim 157170 is caused by:
+	603714
+dmim 241080 is caused by:
+	612515
+dmim 615360 is caused by:
+	601147
+dmim 613743 is caused by:
+	118485
+dmim 246700 is caused by:
+	607690
+dmim 613740 is caused by:
+	188380
+dmim 613744 is caused by:
+	607244
+dmim 194080 is caused by:
+	607102
+dmim 610048 is caused by:
+	125255
+dmim 232300 is caused by:
+	606800
+dmim 208250 is caused by:
+	604283
+dmim 149730 is caused by:
+	602115
+	176943
+	134934
+dmim 610042 is caused by:
+	604569
+dmim 210250 is caused by:
+	605459
+	605460
+dmim 615989 is caused by:
+	610683
+dmim 615988 is caused by:
+	602290
+dmim 235510 is caused by:
+	612753
+dmim 615983 is caused by:
+	603650
+dmim 615982 is caused by:
+	600374
+dmim 615981 is caused by:
+	606151
+dmim 615980 is caused by:
+	151750
+dmim 615987 is caused by:
+	610148
+dmim 615986 is caused by:
+	607968
+dmim 615985 is caused by:
+	608132
+dmim 615984 is caused by:
+	607590
+dmim 608361 is caused by:
+	155760
+dmim 123400 is caused by:
+	176640
+	604305
+dmim 605850 is caused by:
+	605849
+dmim 184840 is caused by:
+	120290
+dmim 610031 is caused by:
+	612850
+dmim 265450 is caused by:
+	600799
+dmim 174700 is caused by:
+	165240
+dmim 615966 is caused by:
+	600899
+dmim 615961 is caused by:
+	601489
+dmim 615960 is caused by:
+	150320
+dmim 615963 is caused by:
+	600985
+dmim 613630 is caused by:
+	600664
+dmim 615969 is caused by:
+	104150
+dmim 610102 is caused by:
+	217070
+dmim 180849 is caused by:
+	600140
+dmim 610798 is caused by:
+	610389
+dmim 260005 is caused by:
+	614243
+dmim 613671 is caused by:
+	613667
+dmim 613086 is caused by:
+	602091
+dmim 260000 is caused by:
+	604296
+dmim 603013 is caused by:
+	142445
+dmim 614162 is caused by:
+	600555
+dmim 306000 is caused by:
+	300798
+dmim 614160 is caused by:
+	601788
+dmim 601358 is caused by:
+	600014
+dmim 226400 is caused by:
+	605828
+	605829
+dmim 611407 is caused by:
+	193065
+dmim 614164 is caused by:
+	138320
+dmim 614165 is caused by:
+	600857
+dmim 250460 is caused by:
+	157660
+dmim 604213 is caused by:
+	609245
+dmim 122860 is caused by:
+	605740
+dmim 253310 is caused by:
+	603371
+dmim 236270 is caused by:
+	602568
+dmim 604219 is caused by:
+	123580
+dmim 604218 is caused by:
+	602445
+dmim 255310 is caused by:
+	102610
+	606210
+	191030
+dmim 608569 is caused by:
+	601439
+dmim 612692 is caused by:
+	147245
+dmim 601559 is caused by:
+	151443
+dmim 612690 is caused by:
+	177070
+dmim 612691 is caused by:
+	609390
+dmim 608189 is caused by:
+	167790
+dmim 607748 is caused by:
+	602938
+	132810
+	607709
+dmim 612943 is caused by:
+	611119
+dmim 169500 is caused by:
+	150340
+dmim 607745 is caused by:
+	182390
+dmim 612940 is caused by:
+	179035
+dmim 264070 is caused by:
+	126090
+dmim 312300 is caused by:
+	313700
+dmim 274500 is caused by:
+	606765
+dmim 614224 is caused by:
+	602867
+dmim 614226 is caused by:
+	608707
+dmim 608747 is caused by:
+	147440
+dmim 614228 is caused by:
+	600112
+dmim 604432 is caused by:
+	611695
+dmim 142680 is caused by:
+	191190
+dmim 615420 is caused by:
+	615421
+dmim 212138 is caused by:
+	613698
+dmim 609583 is caused by:
+	607100
+dmim 615369 is caused by:
+	602119
+dmim 615368 is caused by:
+	602378
+dmim 234810 is caused by:
+	609280
+dmim 176807 is caused by:
+	600185
+	153622
+	602053
+	602686
+	607592
+	604373
+	609299
+	601767
+	601728
+	608656
+	608658
+	600623
+	609558
+	602759
+	313700
+	192090
+	600020
+	104155
+dmim 615363 is caused by:
+	133430
+dmim 615362 is caused by:
+	603539
+dmim 615361 is caused by:
+	139313
+dmim 256040 is caused by:
+	177046
+dmim 415000 is caused by:
+	400005
+dmim 601551 is caused by:
+	109270
+dmim 123790 is caused by:
+	176943
+dmim 607631 is caused by:
+	608815
+dmim 607636 is caused by:
+	603506
+dmim 607634 is caused by:
+	603506
+dmim 300868 is caused by:
+	311770
+dmim 115700 is caused by:
+	123690
+dmim 613805 is caused by:
+	602627
+dmim 601596 is caused by:
+	608206
+dmim 178600 is caused by:
+	600799
+dmim 268130 is caused by:
+	604319
+dmim 606581 is caused by:
+	602935
+dmim 601552 is caused by:
+	600582
+dmim 147750 is caused by:
+	607343
+dmim 602668 is caused by:
+	116955
+dmim 600155 is caused by:
+	131244
+dmim 111600 is caused by:
+	605452
+dmim 137580 is caused by:
+	609678
+	142704
+dmim 108500 is caused by:
+	601011
+dmim 614823 is caused by:
+	602931
+dmim 270700 is caused by:
+	612012
+dmim 614822 is caused by:
+	611562
+dmim 614592 is caused by:
+	176943
+dmim 258660 is caused by:
+	606672
+dmim 614595 is caused by:
+	605236
+dmim 615058 is caused by:
+	615004
+dmim 610852 is caused by:
+	607421
+dmim 245600 is caused by:
+	606374
+dmim 258900 is caused by:
+	613891
+dmim 300888 is caused by:
+	300137
+dmim 300887 is caused by:
+	300885
+dmim 300886 is caused by:
+	300138
+dmim 611277 is caused by:
+	137164
+dmim 262850 is caused by:
+	613168
+dmim 300882 is caused by:
+	300269
+dmim 313400 is caused by:
+	300202
+dmim 150800 is caused by:
+	136850
+dmim 159001 is caused by:
+	150330
+dmim 613819 is caused by:
+	612014
+dmim 613818 is caused by:
+	128239
+dmim 615842 is caused by:
+	614312
+dmim 613674 is caused by:
+	610928
+dmim 612336 is caused by:
+	176880
+dmim 613812 is caused by:
+	603711
+dmim 613811 is caused by:
+	613009
+dmim 238970 is caused by:
+	603861
+dmim 607364 is caused by:
+	602023
+dmim 607361 is caused by:
+	609884
+dmim 613728 is caused by:
+	613726
+dmim 606768 is caused by:
+	603009
+dmim 606766 is caused by:
+	608480
+dmim 239510 is caused by:
+	606811
+dmim 606764 is caused by:
+	185470
+	602413
+	164920
+	173490
+dmim 606763 is caused by:
+	614566
+dmim 228520 is caused by:
+	120280
+dmim 103780 is caused by:
+	103720
+	103730
+	137140
+	182135
+	607867
+	604867
+dmim 609975 is caused by:
+	601609
+dmim 132400 is caused by:
+	600310
+dmim 615779 is caused by:
+	107773
+dmim 277590 is caused by:
+	601573
+dmim 614680 is caused by:
+	605579
+dmim 615774 is caused by:
+	195000
+dmim 160565 is caused by:
+	605921
+dmim 615777 is caused by:
+	608124
+dmim 615770 is caused by:
+	606694
+dmim 615771 is caused by:
+	191130
+dmim 614689 is caused by:
+	147880
+dmim 615179 is caused by:
+	614537
+dmim 300770 is caused by:
+	306250
+dmim 181500 is caused by:
+	606271
+	603342
+	605210
+	608543
+	164730
+	601525
+	116790
+	126451
+	182135
+	607093
+	605566
+	600755
+	607252
+	607254
+	124050
+	607408
+	607145
+	608078
+	181510
+	600511
+	603175
+	603013
+	603176
+	603206
+dmim 261750 is caused by:
+	172490
+dmim 609622 is caused by:
+	600681
+dmim 606324 is caused by:
+	602533
+dmim 609148 is caused by:
+	611550
+dmim 606346 is caused by:
+	600970
+dmim 609620 is caused by:
+	152427
+dmim 302800 is caused by:
+	304040
+dmim 129500 is caused by:
+	604418
+dmim 613101 is caused by:
+	601717
+dmim 613100 is caused by:
+	162662
+dmim 261630 is caused by:
+	612676
+dmim 609273 is caused by:
+	613727
+dmim 613105 is caused by:
+	179605
+dmim 613107 is caused by:
+	600871
+dmim 610149 is caused by:
+	602194
+dmim 608649 is caused by:
+	604194
+dmim 613108 is caused by:
+	606264
+dmim 266510 is caused by:
+	601758
+dmim 304700 is caused by:
+	300356
+dmim 300419 is caused by:
+	300382
+dmim 612518 is caused by:
+	612517
+dmim 262500 is caused by:
+	600946
+dmim 602079 is caused by:
+	136132
+dmim 601800 is caused by:
+	606933
+dmim 272300 is caused by:
+	606887
+dmim 253000 is caused by:
+	612222
+dmim 148000 is caused by:
+	147620
+dmim 614779 is caused by:
+	614759
+dmim 104200 is caused by:
+	120070
+dmim 214700 is caused by:
+	126650
+dmim 614576 is caused by:
+	606977
+dmim 611091 is caused by:
+	610916
+dmim 611090 is caused by:
+	606494
+dmim 207410 is caused by:
+	176943
+dmim 611092 is caused by:
+	138244
+dmim 256850 is caused by:
+	605379
+dmim 615083 is caused by:
+	174762
+dmim 615081 is caused by:
+	608778
+dmim 300867 is caused by:
+	300128
+dmim 615084 is caused by:
+	615076
+dmim 309580 is caused by:
+	300032
+dmim 183900 is caused by:
+	120140
+dmim 180300 is caused by:
+	124092
+	605554
+	142857
+	600005
+	601022
+	605347
+	600716
+	604190
+dmim 277580 is caused by:
+	131244
+dmim 604906 is caused by:
+	605210
+dmim 158300 is caused by:
+	160741
+dmim 613038 is caused by:
+	173110
+dmim 616045 is caused by:
+	164360
+dmim 616044 is caused by:
+	613577
+dmim 300695 is caused by:
+	300163
+dmim 616042 is caused by:
+	607293
+dmim 261740 is caused by:
+	602743
+dmim 616040 is caused by:
+	600104
+dmim 615554 is caused by:
+	176761
+dmim 615555 is caused by:
+	176761
+dmim 615557 is caused by:
+	603031
+dmim 615550 is caused by:
+	604174
+dmim 615551 is caused by:
+	604427
+dmim 615552 is caused by:
+	604385
+dmim 615553 is caused by:
+	605632
+dmim 179620 is caused by:
+	602243
+dmim 612201 is caused by:
+	108780
+dmim 615559 is caused by:
+	176977
+dmim 611775 is caused by:
+	606476
+dmim 154780 is caused by:
+	120280
+dmim 603629 is caused by:
+	602574
+dmim 611895 is caused by:
+	105850
+dmim 255600 is caused by:
+	120240
+dmim 603194 is caused by:
+	613277
+dmim 611890 is caused by:
+	603371
+dmim 100300 is caused by:
+	610911
+dmim 603622 is caused by:
+	160775
+dmim 130020 is caused by:
+	600985
+	120180
+dmim 610698 is caused by:
+	134370
+dmim 124200 is caused by:
+	108740
+dmim 270685 is caused by:
+	606158
+dmim 277400 is caused by:
+	609831
+dmim 610015 is caused by:
+	138290
+dmim 158901 is caused by:
+	614982
+dmim 208000 is caused by:
+	173335
+dmim 209300 is caused by:
+	190000
+dmim 610455 is caused by:
+	610456
+dmim 613329 is caused by:
+	173360
+dmim 257920 is caused by:
+	600521
+dmim 135290 is caused by:
+	611731
+dmim 613327 is caused by:
+	603198
+dmim 164200 is caused by:
+	121014
+dmim 253260 is caused by:
+	609019
+dmim 615422 is caused by:
+	600124
+dmim 177170 is caused by:
+	600310
+dmim 615424 is caused by:
+	164017
+dmim 615425 is caused by:
+	113810
+dmim 615426 is caused by:
+	164017
+dmim 105150 is caused by:
+	604312
+dmim 615429 is caused by:
+	615427
+dmim 201250 is caused by:
+	601146
+dmim 614820 is caused by:
+	182350
+dmim 612337 is caused by:
+	608433
+dmim 159000 is caused by:
+	604103
+dmim 602485 is caused by:
+	138079
+dmim 602482 is caused by:
+	601090
+dmim 602483 is caused by:
+	139370
+dmim 602481 is caused by:
+	182340
+dmim 271930 is caused by:
+	605815
+dmim 201810 is caused by:
+	613890
+dmim 222700 is caused by:
+	603593
+dmim 605594 is caused by:
+	125485
+dmim 309583 is caused by:
+	300105
+dmim 300818 is caused by:
+	311770
+dmim 613255 is caused by:
+	193065
+dmim 613254 is caused by:
+	191092
+	147570
+dmim 613251 is caused by:
+	160710
+dmim 613252 is caused by:
+	160710
+dmim 186200 is caused by:
+	605522
+dmim 102530 is caused by:
+	606845
+	609856
+dmim 236250 is caused by:
+	607093
+dmim 614602 is caused by:
+	600478
+dmim 231200 is caused by:
+	606672
+	138720
+	173515
+dmim 188470 is caused by:
+	605391
+	164790
+	601728
+	190020
+dmim 614915 is caused by:
+	160794
+dmim 612020 is caused by:
+	603197
+dmim 611553 is caused by:
+	164760
+dmim 609579 is caused by:
+	176943
+dmim 300699 is caused by:
+	305915
+dmim 300653 is caused by:
+	311800
+dmim 615934 is caused by:
+	612374
+dmim 144750 is caused by:
+	603506
+dmim 611490 is caused by:
+	602727
+dmim 610379 is caused by:
+	601373
+dmim 305100 is caused by:
+	300451
+dmim 303600 is caused by:
+	300075
+dmim 203780 is caused by:
+	120070
+	120131
+dmim 309630 is caused by:
+	300827
+dmim 249900 is caused by:
+	176801
+dmim 274000 is caused by:
+	605313
+dmim 605289 is caused by:
+	603273
+dmim 201300 is caused by:
+	605232
+dmim 601104 is caused by:
+	157140
+dmim 605285 is caused by:
+	142600
+dmim 269250 is caused by:
+	610804
+dmim 605280 is caused by:
+	118190
+dmim 610678 is caused by:
+	602389
+dmim 605282 is caused by:
+	608183
+dmim 105200 is caused by:
+	107680
+	134820
+	153450
+dmim 190440 is caused by:
+	136350
+dmim 162500 is caused by:
+	601097
+dmim 300067 is caused by:
+	300121
+dmim 605115 is caused by:
+	600983
+dmim 601705 is caused by:
+	600838
+dmim 168000 is caused by:
+	602690
+dmim 613068 is caused by:
+	136430
+dmim 210710 is caused by:
+	601428
+dmim 312060 is caused by:
+	300383
+dmim 608358 is caused by:
+	160760
+dmim 134700 is caused by:
+	305900
+dmim 204200 is caused by:
+	607042
+dmim 608354 is caused by:
+	139150
+dmim 608355 is caused by:
+	139150
+dmim 611225 is caused by:
+	611605
+dmim 202300 is caused by:
+	191170
+dmim 604536 is caused by:
+	601975
+dmim 604537 is caused by:
+	611408
+dmim 613642 is caused by:
+	600857
+dmim 613643 is caused by:
+	191342
+dmim 615952 is caused by:
+	102582
+dmim 613641 is caused by:
+	601421
+dmim 615954 is caused by:
+	615549
+dmim 613647 is caused by:
+	613653
+dmim 614462 is caused by:
+	607031
+dmim 615959 is caused by:
+	615950
+dmim 271245 is caused by:
+	606075
+dmim 609115 is caused by:
+	607137
+dmim 615382 is caused by:
+	615370
+dmim 613485 is caused by:
+	600734
+dmim 278750 is caused by:
+	603968
+dmim 613480 is caused by:
+	608803
+dmim 600740 is caused by:
+	602242
+dmim 614171 is caused by:
+	604310
+dmim 614170 is caused by:
+	614161
+dmim 614173 is caused by:
+	609863
+dmim 614172 is caused by:
+	137295
+dmim 614175 is caused by:
+	611951
+dmim 613489 is caused by:
+	606976
+dmim 613834 is caused by:
+	102620
+dmim 615883 is caused by:
+	610277
+dmim 615881 is caused by:
+	605910
+dmim 608516 is caused by:
+	608520
+	608691
+	602623
+	182135
+	607478
+dmim 615887 is caused by:
+	609840
+dmim 615885 is caused by:
+	603636
+dmim 615888 is caused by:
+	605577
+dmim 614464 is caused by:
+	610523
+dmim 232400 is caused by:
+	610860
+dmim 211530 is caused by:
+	613350
+dmim 604400 is caused by:
+	612048
+dmim 133540 is caused by:
+	609413
+dmim 604403 is caused by:
+	182389
+dmim 615232 is caused by:
+	133550
+dmim 243700 is caused by:
+	611432
+dmim 614751 is caused by:
+	609139
+dmim 610205 is caused by:
+	600275
+dmim 614219 is caused by:
+	614194
+dmim 167800 is caused by:
+	276000
+	167790
+	601564
+	601405
+	602421
+dmim 614619 is caused by:
+	138492
+dmim 608224 is caused by:
+	600844
+dmim 614753 is caused by:
+	164005
+dmim 614212 is caused by:
+	600650
+dmim 614213 is caused by:
+	601255
+dmim 611307 is caused by:
+	608662
+dmim 216400 is caused by:
+	609412
+dmim 613589 is caused by:
+	602458
+dmim 226700 is caused by:
+	600805
+	150310
+	150292
+dmim 256030 is caused by:
+	161650
+dmim 613843 is caused by:
+	602280
+dmim 615314 is caused by:
+	600480
+dmim 613790 is caused by:
+	120950
+dmim 613791 is caused by:
+	605102
+dmim 613793 is caused by:
+	125240
+dmim 607625 is caused by:
+	601015
+dmim 607624 is caused by:
+	603868
+dmim 613796 is caused by:
+	600555
+dmim 607626 is caused by:
+	603718
+dmim 607628 is caused by:
+	600570
+dmim 211750 is caused by:
+	606037
+dmim 616084 is caused by:
+	612907
+dmim 252010 is caused by:
+	601445
+	603848
+	612360
+	613622
+	300078
+	612638
+	606934
+	609653
+	612911
+	611776
+	603839
+	157655
+	602985
+	603846
+	602694
+	161015
+	600532
+	613621
+dmim 252011 is caused by:
+	612848
+	600857
+dmim 606579 is caused by:
+	606636
+dmim 600251 is caused by:
+	614140
+dmim 606574 is caused by:
+	606202
+dmim 613436 is caused by:
+	603290
+dmim 611804 is caused by:
+	130500
+dmim 131960 is caused by:
+	148040
+dmim 608647 is caused by:
+	610812
+dmim 608644 is caused by:
+	603335
+dmim 230000 is caused by:
+	612280
+dmim 608643 is caused by:
+	107930
+dmim 138800 is caused by:
+	606241
+dmim 608641 is caused by:
+	608576
+dmim 613983 is caused by:
+	613979
+dmim 187950 is caused by:
+	600044
+	109091
+	605093
+dmim 137750 is caused by:
+	601652
+dmim 615226 is caused by:
+	194648
+dmim 614369 is caused by:
+	608568
+dmim 615224 is caused by:
+	600864
+dmim 615225 is caused by:
+	606636
+dmim 615222 is caused by:
+	605950
+dmim 614381 is caused by:
+	614366
+dmim 615220 is caused by:
+	164820
+dmim 615221 is caused by:
+	164820
+dmim 213700 is caused by:
+	606530
+dmim 111620 is caused by:
+	609017
+dmim 615228 is caused by:
+	164360
+dmim 246300 is caused by:
+	603028
+dmim 115150 is caused by:
+	164757
+dmim 613869 is caused by:
+	123590
+dmim 252650 is caused by:
+	605248
+dmim 240500 is caused by:
+	604907
+dmim 613862 is caused by:
+	604705
+dmim 301900 is caused by:
+	300414
+dmim 613860 is caused by:
+	604973
+dmim 613861 is caused by:
+	608172
+dmim 267010 is caused by:
+	608002
+dmim 607196 is caused by:
+	606521
+dmim 613865 is caused by:
+	604943
+dmim 607371 is caused by:
+	102630
+dmim 606719 is caused by:
+	600160
+dmim 237310 is caused by:
+	608300
+dmim 111250 is caused by:
+	614088
+dmim 239500 is caused by:
+	606810
+dmim 145981 is caused by:
+	139313
+dmim 145980 is caused by:
+	601199
+dmim 607174 is caused by:
+	156100
+	607379
+	190040
+	603111
+	607035
+	601728
+dmim 615768 is caused by:
+	607207
+dmim 118400 is caused by:
+	602104
+dmim 615761 is caused by:
+	615743
+dmim 609909 is caused by:
+	172405
+dmim 615767 is caused by:
+	605384
+dmim 300749 is caused by:
+	300172
+dmim 268900 is caused by:
+	604455
+dmim 205950 is caused by:
+	609588
+	610819
+dmim 214950 is caused by:
+	604489
+dmim 160800 is caused by:
+	118425
+dmim 616067 is caused by:
+	603693
+dmim 615162 is caused by:
+	615162
+dmim 301835 is caused by:
+	311850
+dmim 613688 is caused by:
+	152427
+	603313
+dmim 111380 is caused by:
+	109480
+dmim 228600 is caused by:
+	608041
+dmim 616060 is caused by:
+	110600
+dmim 236730 is caused by:
+	613469
+dmim 248500 is caused by:
+	609458
+dmim 164400 is caused by:
+	601556
+dmim 616063 is caused by:
+	612107
+dmim 613135 is caused by:
+	126455
+dmim 603829 is caused by:
+	600163
+dmim 241600 is caused by:
+	109700
+dmim 170500 is caused by:
+	603967
+dmim 245000 is caused by:
+	602365
+dmim 258501 is caused by:
+	606580
+dmim 606394 is caused by:
+	601724
+dmim 612528 is caused by:
+	180468
+dmim 612529 is caused by:
+	604629
+dmim 253010 is caused by:
+	611458
+dmim 608996 is caused by:
+	605597
+dmim 612526 is caused by:
+	601047
+dmim 612527 is caused by:
+	180472
+dmim 612520 is caused by:
+	142410
+dmim 611302 is caused by:
+	603060
+dmim 607398 is caused by:
+	609196
+dmim 141749 is caused by:
+	141900
+	142200
+	142250
+dmim 181400 is caused by:
+	125660
+dmim 256840 is caused by:
+	610150
+dmim 231000 is caused by:
+	606463
+dmim 614782 is caused by:
+	137070
+dmim 132700 is caused by:
+	605018
+dmim 614466 is caused by:
+	185250
+dmim 302905 is caused by:
+	300307
+dmim 614546 is caused by:
+	123930
+dmim 245900 is caused by:
+	606967
+dmim 615091 is caused by:
+	133440
+dmim 615092 is caused by:
+	608677
+dmim 615095 is caused by:
+	610827
+dmim 612671 is caused by:
+	611034
+dmim 187300 is caused by:
+	131195
+dmim 610842 is caused by:
+	137167
+dmim 610921 is caused by:
+	601615
+dmim 304400 is caused by:
+	300039
+dmim 153650 is caused by:
+	160775
+dmim 276300 is caused by:
+	120436
+	609309
+	600678
+	600259
+dmim 615471 is caused by:
+	605654
+dmim 611938 is caused by:
+	114251
+dmim 120790 is caused by:
+	606860
+dmim 300577 is caused by:
+	300576
+dmim 616038 is caused by:
+	610936
+dmim 616039 is caused by:
+	602072
+dmim 262400 is caused by:
+	139250
+dmim 616032 is caused by:
+	616027
+dmim 616033 is caused by:
+	616013
+dmim 616030 is caused by:
+	613301
+dmim 613003 is caused by:
+	607478
+dmim 311250 is caused by:
+	300461
+dmim 616037 is caused by:
+	615956
+dmim 616034 is caused by:
+	615787
+dmim 614190 is caused by:
+	603390
+dmim 615542 is caused by:
+	600576
+dmim 104300 is caused by:
+	104760
+	605526
+	607116
+	609636
+	602096
+	608907
+	163729
+	191840
+	602710
+	602005
+	103950
+	106180
+	602403
+	613609
+	606989
+	608254
+dmim 615540 is caused by:
+	615535
+dmim 615547 is caused by:
+	605283
+dmim 615546 is caused by:
+	612411
+dmim 615545 is caused by:
+	167414
+dmim 615544 is caused by:
+	615532
+dmim 612233 is caused by:
+	118190
+dmim 615145 is caused by:
+	610083
+dmim 612237 is caused by:
+	601574
+	600542
+dmim 615785 is caused by:
+	148065
+dmim 257220 is caused by:
+	607623
+dmim 615431 is caused by:
+	104225
+dmim 615780 is caused by:
+	615757
+dmim 615789 is caused by:
+	604594
+dmim 612840 is caused by:
+	607901
+dmim 610688 is caused by:
+	609884
+dmim 150699 is caused by:
+	600698
+dmim 271980 is caused by:
+	610045
+dmim 610682 is caused by:
+	605497
+dmim 610687 is caused by:
+	601443
+dmim 277410 is caused by:
+	611935
+dmim 260800 is caused by:
+	608347
+dmim 167870 is caused by:
+	116790
+dmim 613310 is caused by:
+	613138
+dmim 610448 is caused by:
+	606609
+dmim 613312 is caused by:
+	173335
+dmim 613313 is caused by:
+	606464
+dmim 610445 is caused by:
+	180380
+dmim 610444 is caused by:
+	139330
+dmim 613195 is caused by:
+	607511
+dmim 610441 is caused by:
+	604217
+dmim 613319 is caused by:
+	608662
+dmim 610443 is caused by:
+	612452
+dmim 612304 is caused by:
+	612283
+dmim 612300 is caused by:
+	107271
+dmim 603471 is caused by:
+	603859
+dmim 602473 is caused by:
+	608451
+dmim 218000 is caused by:
+	604878
+dmim 602471 is caused by:
+	138890
+dmim 167210 is caused by:
+	148069
+dmim 259100 is caused by:
+	601688
+dmim 308205 is caused by:
+	300294
+dmim 220600 is caused by:
+	600028
+dmim 242840 is caused by:
+	615068
+dmim 615439 is caused by:
+	217030
+dmim 615438 is caused by:
+	151350
+dmim 615436 is caused by:
+	176894
+dmim 611038 is caused by:
+	601881
+dmim 613794 is caused by:
+	180069
+dmim 603278 is caused by:
+	604638
+dmim 253270 is caused by:
+	609018
+dmim 309000 is caused by:
+	300535
+dmim 112010 is caused by:
+	109270
+dmim 305620 is caused by:
+	300017
+dmim 177650 is caused by:
+	153456
+dmim 275100 is caused by:
+	188540
+dmim 269400 is caused by:
+	605158
+dmim 603233 is caused by:
+	139320
+	610540
+	603666
+dmim 106300 is caused by:
+	142830
+dmim 125310 is caused by:
+	600276
+dmim 251255 is caused by:
+	604124
+dmim 614418 is caused by:
+	609562
+dmim 613266 is caused by:
+	602229
+dmim 613268 is caused by:
+	610206
+dmim 605724 is caused by:
+	600185
+dmim 613640 is caused by:
+	605713
+dmim 614962 is caused by:
+	164160
+dmim 206200 is caused by:
+	609862
+dmim 602875 is caused by:
+	108961
+dmim 614961 is caused by:
+	164010
+dmim 612015 is caused by:
+	611908
+dmim 612016 is caused by:
+	606980
+dmim 606788 is caused by:
+	182135
+dmim 612018 is caused by:
+	611910
+dmim 613646 is caused by:
+	606475
+dmim 300354 is caused by:
+	300304
+dmim 257980 is caused by:
+	606268
+dmim 300352 is caused by:
+	300036
+dmim 175100 is caused by:
+	611731
+dmim 259770 is caused by:
+	603506
+dmim 609056 is caused by:
+	604402
+dmim 615862 is caused by:
+	615847
+dmim 203400 is caused by:
+	124080
+dmim 609057 is caused by:
+	602243
+dmim 601283 is caused by:
+	605286
+dmim 224750 is caused by:
+	606268
+dmim 601287 is caused by:
+	601411
+dmim 113800 is caused by:
+	139350
+	148080
+dmim 609741 is caused by:
+	123630
+dmim 610069 is caused by:
+	601299
+dmim 611131 is caused by:
+	604485
+dmim 186300 is caused by:
+	142989
+dmim 601110 is caused by:
+	608750
+dmim 125490 is caused by:
+	125485
+dmim 604367 is caused by:
+	601487
+	600917
+dmim 222600 is caused by:
+	606718
+dmim 602849 is caused by:
+	134934
+dmim 611390 is caused by:
+	609728
+dmim 611722 is caused by:
+	176801
+dmim 210720 is caused by:
+	605925
+dmim 615816 is caused by:
+	172100
+dmim 113650 is caused by:
+	601653
+dmim 614937 is caused by:
+	605235
+dmim 265050 is caused by:
+	612502
+dmim 105210 is caused by:
+	176300
+dmim 210900 is caused by:
+	604610
+dmim 108985 is caused by:
+	189967
+dmim 221820 is caused by:
+	164770
+dmim 603387 is caused by:
+	603157
+dmim 600274 is caused by:
+	104311
+	157140
+dmim 609129 is caused by:
+	614567
+dmim 610246 is caused by:
+	604581
+dmim 613652 is caused by:
+	120550
+	120570
+	120575
+dmim 613657 is caused by:
+	147650
+dmim 615948 is caused by:
+	615944
+dmim 613659 is caused by:
+	611731
+	601762
+	164870
+	176943
+	147575
+	602053
+	604933
+	171834
+dmim 611554 is caused by:
+	164760
+dmim 611724 is caused by:
+	601900
+dmim 615942 is caused by:
+	615262
+dmim 614075 is caused by:
+	607522
+dmim 613493 is caused by:
+	107265
+dmim 600886 is caused by:
+	134790
+dmim 613490 is caused by:
+	107400
+dmim 600880 is caused by:
+	612309
+	147796
+dmim 600881 is caused by:
+	123610
+dmim 600882 is caused by:
+	602298
+dmim 613494 is caused by:
+	606269
+dmim 268200 is caused by:
+	605518
+dmim 614752 is caused by:
+	147880
+dmim 130070 is caused by:
+	604327
+dmim 615895 is caused by:
+	610924
+dmim 605543 is caused by:
+	163890
+dmim 615897 is caused by:
+	123860
+dmim 615896 is caused by:
+	608245
+dmim 604233 is caused by:
+	600235
+dmim 604232 is caused by:
+	609868
+dmim 601606 is caused by:
+	605018
+dmim 122880 is caused by:
+	606597
+dmim 304150 is caused by:
+	300011
+dmim 604145 is caused by:
+	188840
+dmim 608236 is caused by:
+	608136
+dmim 202200 is caused by:
+	607397
+dmim 164280 is caused by:
+	164840
+dmim 142690 is caused by:
+	605254
+dmim 601367 is caused by:
+	605437
+	163729
+	176930
+	612309
+	603700
+dmim 613488 is caused by:
+	126337
+dmim 607765 is caused by:
+	607764
+dmim 113900 is caused by:
+	600163
+dmim 608728 is caused by:
+	602109
+dmim 614209 is caused by:
+	614144
+dmim 609634 is caused by:
+	182389
+dmim 612838 is caused by:
+	600235
+dmim 609637 is caused by:
+	603073
+dmim 609638 is caused by:
+	125647
+dmim 614202 is caused by:
+	604346
+dmim 614201 is caused by:
+	605546
+dmim 614200 is caused by:
+	192974
+dmim 614207 is caused by:
+	615187
+dmim 613587 is caused by:
+	608581
+dmim 614205 is caused by:
+	614145
+dmim 614204 is caused by:
+	605507
+dmim 610536 is caused by:
+	603892
+dmim 137920 is caused by:
+	189907
+dmim 604091 is caused by:
+	600046
+	107680
+dmim 156200 is caused by:
+	611472
+dmim 615300 is caused by:
+	604544
+dmim 233690 is caused by:
+	608508
+dmim 600081 is caused by:
+	608713
+dmim 613229 is caused by:
+	609678
+dmim 255200 is caused by:
+	601248
+dmim 232500 is caused by:
+	607839
+dmim 146200 is caused by:
+	168450
+	603716
+dmim 613789 is caused by:
+	120960
+dmim 600649 is caused by:
+	600650
+dmim 607616 is caused by:
+	607608
+dmim 610532 is caused by:
+	610531
+dmim 613783 is caused by:
+	120580
+dmim 216360 is caused by:
+	612013
+	610937
+	609884
+dmim 613780 is caused by:
+	600922
+dmim 605361 is caused by:
+	176980
+dmim 175900 is caused by:
+	251170
+dmim 264700 is caused by:
+	609506
+dmim 600060 is caused by:
+	276903
+dmim 272460 is caused by:
+	603381
+dmim 615397 is caused by:
+	614949
+dmim 604416 is caused by:
+	606347
+dmim 202110 is caused by:
+	609300
+dmim 608654 is caused by:
+	162030
+dmim 614374 is caused by:
+	120810
+dmim 614373 is caused by:
+	601978
+dmim 614372 is caused by:
+	154545
+dmim 614371 is caused by:
+	604672
+dmim 614370 is caused by:
+	138981
+dmim 612780 is caused by:
+	602208
+dmim 612781 is caused by:
+	139250
+	139191
+dmim 612782 is caused by:
+	610277
+dmim 612783 is caused by:
+	605921
+dmim 146500 is caused by:
+	609825
+dmim 614379 is caused by:
+	120820
+dmim 614378 is caused by:
+	608151
+dmim 615235 is caused by:
+	600133
+dmim 615234 is caused by:
+	609671
+dmim 615237 is caused by:
+	611693
+dmim 607785 is caused by:
+	605370
+	613113
+	176876
+dmim 610878 is caused by:
+	602431
+dmim 612052 is caused by:
+	118503
+	118505
+dmim 615233 is caused by:
+	180290
+dmim 606966 is caused by:
+	607215
+dmim 615238 is caused by:
+	612120
+dmim 607655 is caused by:
+	125647
+dmim 612422 is caused by:
+	191045
+dmim 254780 is caused by:
+	607566
+	608072
+dmim 149400 is caused by:
+	138491
+dmim 229100 is caused by:
+	606806
+dmim 613870 is caused by:
+	600423
+dmim 613873 is caused by:
+	605267
+dmim 267000 is caused by:
+	614184
+dmim 613875 is caused by:
+	611414
+dmim 613874 is caused by:
+	172405
+dmim 226600 is caused by:
+	120120
+	120353
+dmim 613876 is caused by:
+	613121
+dmim 610896 is caused by:
+	600963
+dmim 300807 is caused by:
+	300746
+dmim 115210 is caused by:
+	191044
+dmim 606703 is caused by:
+	600293
+dmim 606705 is caused by:
+	606706
+dmim 262890 is caused by:
+	608663
+dmim 300752 is caused by:
+	301300
+dmim 300751 is caused by:
+	301300
+dmim 607143 is caused by:
+	607144
+dmim 300623 is caused by:
+	309550
+dmim 613823 is caused by:
+	613529
+dmim 300755 is caused by:
+	300300
+dmim 300758 is caused by:
+	300120
+dmim 273300 is caused by:
+	164920
+	134934
+	602216
+	603517
+dmim 112050 is caused by:
+	109270
+dmim 612656 is caused by:
+	600111
+dmim 612657 is caused by:
+	604365
+dmim 213600 is caused by:
+	158378
+dmim 612653 is caused by:
+	109270
+dmim 612650 is caused by:
+	612648
+dmim 612651 is caused by:
+	612325
+dmim 615082 is caused by:
+	615016
+dmim 615155 is caused by:
+	608461
+dmim 615156 is caused by:
+	601810
+dmim 615157 is caused by:
+	613814
+dmim 136520 is caused by:
+	607108
+dmim 607812 is caused by:
+	610511
+dmim 607541 is caused by:
+	601692
+dmim 609508 is caused by:
+	120140
+dmim 243310 is caused by:
+	102630
+dmim 186550 is caused by:
+	602149
+dmim 606367 is caused by:
+	147730
+dmim 605309 is caused by:
+	601728
+dmim 219500 is caused by:
+	607657
+dmim 184250 is caused by:
+	120140
+dmim 615400 is caused by:
+	190197
+dmim 613123 is caused by:
+	605206
+dmim 613122 is caused by:
+	613121
+dmim 613120 is caused by:
+	600271
+	608214
+dmim 245570 is caused by:
+	138253
+dmim 309900 is caused by:
+	300823
+dmim 256540 is caused by:
+	613111
+dmim 118700 is caused by:
+	600635
+dmim 268800 is caused by:
+	606873
+dmim 614808 is caused by:
+	176610
+dmim 615953 is caused by:
+	147910
+dmim 603285 is caused by:
+	609118
+dmim 603284 is caused by:
+	607929
+dmim 160900 is caused by:
+	605377
+dmim 603513 is caused by:
+	605363
+dmim 114290 is caused by:
+	608160
+dmim 603511 is caused by:
+	611332
+dmim 107970 is caused by:
+	190230
+dmim 603516 is caused by:
+	611150
+dmim 162200 is caused by:
+	613113
+dmim 245150 is caused by:
+	154870
+dmim 245400 is caused by:
+	611224
+dmim 234050 is caused by:
+	609188
+dmim 614559 is caused by:
+	100850
+dmim 614558 is caused by:
+	600702
+dmim 615763 is caused by:
+	615101
+dmim 251120 is caused by:
+	608419
+dmim 607572 is caused by:
+	602544
+dmim 610202 is caused by:
+	177075
+dmim 613014 is caused by:
+	105590
+dmim 613013 is caused by:
+	603851
+dmim 214450 is caused by:
+	160777
+dmim 222300 is caused by:
+	606201
+dmim 611928 is caused by:
+	157145
+dmim 103580 is caused by:
+	139320
+dmim 612227 is caused by:
+	167413
+dmim 616028 is caused by:
+	190198
+dmim 612225 is caused by:
+	167413
+dmim 259775 is caused by:
+	611061
+dmim 220290 is caused by:
+	121011
+	604418
+	603324
+dmim 616022 is caused by:
+	616012
+dmim 616025 is caused by:
+	610275
+dmim 612229 is caused by:
+	602932
+dmim 616026 is caused by:
+	600281
+dmim 104310 is caused by:
+	107741
+dmim 132600 is caused by:
+	604933
+	116806
+dmim 274700 is caused by:
+	188450
+dmim 163800 is caused by:
+	605206
+dmim 230800 is caused by:
+	606463
+dmim 612925 is caused by:
+	120700
+dmim 103500 is caused by:
+	156845
+dmim 152700 is caused by:
+	120810
+	600716
+	610292
+	125505
+	604590
+	606609
+	123890
+dmim 605751 is caused by:
+	614386
+dmim 609254 is caused by:
+	609237
+dmim 614480 is caused by:
+	138420
+dmim 222470 is caused by:
+	614589
+dmim 276950 is caused by:
+	601728
+dmim 261540 is caused by:
+	610308
+dmim 276400 is caused by:
+	136435
+dmim 253300 is caused by:
+	600354
+dmim 121300 is caused by:
+	612732
+dmim 187800 is caused by:
+	607759
+	173470
+dmim 609597 is caused by:
+	605420
+dmim 220500 is caused by:
+	613577
+dmim 130600 is caused by:
+	182860
+dmim 250790 is caused by:
+	613218
+dmim 615760 is caused by:
+	603727
+dmim 613307 is caused by:
+	613354
+dmim 605606 is caused by:
+	607562
+dmim 277950 is caused by:
+	600754
+dmim 613309 is caused by:
+	603701
+dmim 613308 is caused by:
+	603632
+dmim 310200 is caused by:
+	300377
+dmim 610475 is caused by:
+	604961
+dmim 304500 is caused by:
+	311850
+dmim 612313 is caused by:
+	608148
+dmim 166350 is caused by:
+	139320
+dmim 166600 is caused by:
+	602727
+dmim 603467 is caused by:
+	613897
+dmim 612319 is caused by:
+	611026
+dmim 300215 is caused by:
+	300382
+dmim 125800 is caused by:
+	107777
+dmim 300210 is caused by:
+	300096
+dmim 262700 is caused by:
+	602146
+dmim 308230 is caused by:
+	300386
+dmim 602398 is caused by:
+	606418
+dmim 201475 is caused by:
+	609575
+dmim 151100 is caused by:
+	176876
+dmim 201470 is caused by:
+	606885
+dmim 153640 is caused by:
+	160775
+dmim 154500 is caused by:
+	606847
+dmim 615440 is caused by:
+	605367
+dmim 305450 is caused by:
+	300188
+dmim 615444 is caused by:
+	607070
+dmim 615311 is caused by:
+	606666
+dmim 306900 is caused by:
+	300746
+dmim 194380 is caused by:
+	611184
+dmim 203655 is caused by:
+	602302
+dmim 135700 is caused by:
+	608283
+dmim 254090 is caused by:
+	120220
+	120240
+	120250
+dmim 117210 is caused by:
+	612051
+dmim 113000 is caused by:
+	602337
+dmim 254300 is caused by:
+	610285
+dmim 192600 is caused by:
+	160760
+	601253
+	606566
+dmim 141500 is caused by:
+	601011
+dmim 605041 is caused by:
+	605018
+dmim 613270 is caused by:
+	189909
+dmim 177735 is caused by:
+	600983
+dmim 614970 is caused by:
+	614949
+dmim 608864 is caused by:
+	607199
+dmim 614972 is caused by:
+	171060
+dmim 614974 is caused by:
+	608428
+dmim 614976 is caused by:
+	604267
+dmim 128230 is caused by:
+	600225
+dmim 300323 is caused by:
+	308000
+dmim 300321 is caused by:
+	300017
+dmim 128235 is caused by:
+	182350
+dmim 615290 is caused by:
+	609797
+dmim 613795 is caused by:
+	603109
+dmim 165500 is caused by:
+	605290
+dmim 609755 is caused by:
+	123890
+dmim 121050 is caused by:
+	612570
+dmim 609753 is caused by:
+	602129
+dmim 270550 is caused by:
+	604490
+dmim 400044 is caused by:
+	480000
+dmim 300166 is caused by:
+	300485
+dmim 274800 is caused by:
+	612025
+dmim 609698 is caused by:
+	607693
+dmim 609283 is caused by:
+	103220
+dmim 609285 is caused by:
+	190990
+dmim 609284 is caused by:
+	191030
+dmim 610090 is caused by:
+	603287
+dmim 101900 is caused by:
+	108740
+dmim 611788 is caused by:
+	102620
+dmim 300510 is caused by:
+	300247
+dmim 607453 is caused by:
+	611051
+dmim 611783 is caused by:
+	603349
+dmim 210600 is caused by:
+	601215
+dmim 211600 is caused by:
+	602397
+dmim 314050 is caused by:
+	305371
+dmim 146700 is caused by:
+	135940
+dmim 610313 is caused by:
+	607672
+dmim 612251 is caused by:
+	607218
+dmim 613784 is caused by:
+	601470
+dmim 609352 is caused by:
+	148040
+dmim 167000 is caused by:
+	602544
+	164730
+	116806
+	171834
+	192090
+	600632
+dmim 613148 is caused by:
+	146933
+dmim 203500 is caused by:
+	607474
+dmim 169400 is caused by:
+	600024
+dmim 254500 is caused by:
+	601837
+	168461
+dmim 108010 is caused by:
+	147620
+dmim 604391 is caused by:
+	600814
+dmim 609135 is caused by:
+	602667
+	147570
+dmim 604393 is caused by:
+	604392
+dmim 168605 is caused by:
+	601143
+dmim 168601 is caused by:
+	163890
+dmim 168600 is caused by:
+	606463
+	103730
+	157140
+	600075
+dmim 203700 is caused by:
+	174763
+dmim 614153 is caused by:
+	614154
+dmim 614152 is caused by:
+	605219
+dmim 611431 is caused by:
+	609291
+dmim 613668 is caused by:
+	603810
+dmim 614156 is caused by:
+	109750
+dmim 314580 is caused by:
+	300897
+dmim 256300 is caused by:
+	602716
+dmim 612899 is caused by:
+	601199
+dmim 125370 is caused by:
+	607462
+dmim 614158 is caused by:
+	274180
+dmim 613660 is caused by:
+	609502
+dmim 613661 is caused by:
+	613666
+dmim 613662 is caused by:
+	174763
+dmim 615935 is caused by:
+	607194
+dmim 600721 is caused by:
+	609186
+dmim 255320 is caused by:
+	180901
+dmim 146520 is caused by:
+	602593
+dmim 607476 is caused by:
+	180090
+dmim 613464 is caused by:
+	608132
+dmim 268210 is caused by:
+	602631
+dmim 302045 is caused by:
+	300377
+dmim 613463 is caused by:
+	600842
+dmim 601386 is caused by:
+	605516
+	108733
+dmim 300511 is caused by:
+	300108
+dmim 166250 is caused by:
+	136350
+dmim 615851 is caused by:
+	615850
+dmim 251270 is caused by:
+	610053
+dmim 188890 is caused by:
+	122720
+	118504
+	607340
+	126455
+dmim 605552 is caused by:
+	157147
+dmim 133700 is caused by:
+	608177
+dmim 133701 is caused by:
+	608210
+dmim 275630 is caused by:
+	604780
+dmim 112600 is caused by:
+	112261
+	603248
+	601146
+dmim 600634 is caused by:
+	605555
+dmim 138000 is caused by:
+	601749
+dmim 601410 is caused by:
+	612192
+	603044
+dmim 163950 is caused by:
+	176876
+dmim 608716 is caused by:
+	605481
+dmim 604173 is caused by:
+	613276
+dmim 601414 is caused by:
+	607301
+dmim 612126 is caused by:
+	138140
+dmim 123320 is caused by:
+	601253
+dmim 601419 is caused by:
+	125660
+dmim 137600 is caused by:
+	601542
+dmim 232600 is caused by:
+	608455
+dmim 615846 is caused by:
+	606951
+dmim 219750 is caused by:
+	606272
+dmim 615330 is caused by:
+	615316
+dmim 615841 is caused by:
+	601689
+dmim 610269 is caused by:
+	113505
+dmim 242100 is caused by:
+	603741
+dmim 615338 is caused by:
+	613577
+dmim 608089 is caused by:
+	600678
+	192090
+	601728
+	604395
+dmim 609621 is caused by:
+	607542
+dmim 615849 is caused by:
+	165230
+dmim 612634 is caused by:
+	147460
+dmim 615602 is caused by:
+	610533
+dmim 268100 is caused by:
+	604485
+dmim 303400 is caused by:
+	300307
+dmim 602501 is caused by:
+	171834
+dmim 270800 is caused by:
+	603711
+dmim 230740 is caused by:
+	606410
+dmim 275120 is caused by:
+	613879
+dmim 607602 is caused by:
+	139350
+	148080
+dmim 604559 is caused by:
+	606936
+dmim 601709 is caused by:
+	191840
+dmim 600652 is caused by:
+	608568
+dmim 612797 is caused by:
+	151670
+dmim 612794 is caused by:
+	102540
+dmim 300696 is caused by:
+	300163
+dmim 604187 is caused by:
+	602821
+dmim 600072 is caused by:
+	176640
+dmim 607014 is caused by:
+	252800
+dmim 226900 is caused by:
+	606718
+dmim 604717 is caused by:
+	102560
+dmim 109800 is caused by:
+	134934
+	190070
+	614041
+	605303
+	190020
+dmim 612798 is caused by:
+	131240
+dmim 614302 is caused by:
+	612048
+dmim 614303 is caused by:
+	613146
+dmim 614300 is caused by:
+	102750
+dmim 614306 is caused by:
+	600702
+dmim 614307 is caused by:
+	604489
+dmim 614305 is caused by:
+	604270
+dmim 604772 is caused by:
+	180902
+dmim 604369 is caused by:
+	604322
+dmim 611228 is caused by:
+	609390
+dmim 604777 is caused by:
+	611495
+dmim 270200 is caused by:
+	609523
+dmim 608390 is caused by:
+	603967
+dmim 613845 is caused by:
+	612804
+dmim 608393 is caused by:
+	609279
+dmim 615206 is caused by:
+	607210
+dmim 615207 is caused by:
+	605383
+dmim 613848 is caused by:
+	600943
+dmim 613849 is caused by:
+	606633
+dmim 606952 is caused by:
+	606933
+dmim 613686 is caused by:
+	608059
+dmim 613684 is caused by:
+	602700
+dmim 129490 is caused by:
+	604095
+dmim 136880 is caused by:
+	601617
+	180090
+	179605
+	180380
+dmim 142330 is caused by:
+	142410
+dmim 613680 is caused by:
+	615403
+dmim 237900 is caused by:
+	191740
+dmim 113300 is caused by:
+	142989
+dmim 212070 is caused by:
+	603103
+dmim 607778 is caused by:
+	600726
+dmim 115200 is caused by:
+	150330
+dmim 131705 is caused by:
+	120120
+dmim 115195 is caused by:
+	191045
+dmim 115197 is caused by:
+	600958
+dmim 115196 is caused by:
+	191010
+dmim 613325 is caused by:
+	603254
+dmim 609924 is caused by:
+	104620
+dmim 613958 is caused by:
+	613893
+dmim 607155 is caused by:
+	606596
+dmim 607154 is caused by:
+	147683
+dmim 607151 is caused by:
+	613768
+dmim 609923 is caused by:
+	609507
+dmim 612645 is caused by:
+	604418
+dmim 612644 is caused by:
+	603324
+dmim 612643 is caused by:
+	604418
+dmim 614419 is caused by:
+	138180
+dmim 614416 is caused by:
+	605207
+dmim 614417 is caused by:
+	609562
+dmim 611134 is caused by:
+	610142
+dmim 614415 is caused by:
+	606754
+dmim 612649 is caused by:
+	612647
+dmim 275355 is caused by:
+	603612
+	601566
+	601728
+dmim 123100 is caused by:
+	601622
+dmim 600625 is caused by:
+	112262
+dmim 229200 is caused by:
+	612078
+dmim 607801 is caused by:
+	601253
+dmim 607554 is caused by:
+	607542
+dmim 612390 is caused by:
+	608754
+dmim 145500 is caused by:
+	106165
+	601699
+	182330
+	603276
+	131210
+	102680
+	603918
+	604329
+	607329
+	608742
+	610261
+	610262
+	106150
+	600423
+	139130
+	605325
+	163730
+	163729
+dmim 606824 is caused by:
+	182380
+dmim 229070 is caused by:
+	136530
+dmim 217000 is caused by:
+	613927
+dmim 261600 is caused by:
+	612349
+dmim 256550 is caused by:
+	608272
+dmim 109150 is caused by:
+	607047
+dmim 273750 is caused by:
+	609577
+dmim 608180 is caused by:
+	135820
+dmim 224050 is caused by:
+	192977
+dmim 613757 is caused by:
+	610362
+dmim 230600 is caused by:
+	611458
+dmim 192350 is caused by:
+	142989
+dmim 308350 is caused by:
+	300382
+dmim 220150 is caused by:
+	607096
+dmim 603075 is caused by:
+	107741
+	607772
+	608548
+	134371
+	605336
+dmim 608320 is caused by:
+	600660
+dmim 218800 is caused by:
+	191740
+dmim 116920 is caused by:
+	600065
+dmim 166260 is caused by:
+	608662
+dmim 259900 is caused by:
+	604285
+dmim 614521 is caused by:
+	147796
+dmim 601634 is caused by:
+	156570
+	602568
+	607093
+	172460
+dmim 614524 is caused by:
+	120290
+dmim 600001 is caused by:
+	601656
+dmim 252920 is caused by:
+	609701
+dmim 613060 is caused by:
+	137163
+dmim 214110 is caused by:
+	600414
+dmim 613943 is caused by:
+	613924
+dmim 613065 is caused by:
+	602667
+	136351
+	151410
+	600040
+dmim 221750 is caused by:
+	600577
+dmim 155755 is caused by:
+	600160
+dmim 178500 is caused by:
+	178642
+	600770
+	178630
+dmim 114000 is caused by:
+	120150
+dmim 603383 is caused by:
+	615054
+dmim 611064 is caused by:
+	604459
+dmim 608898 is caused by:
+	608897
+dmim 300514 is caused by:
+	300515
+dmim 267430 is caused by:
+	106180
+	106150
+	106165
+	179820
+dmim 613863 is caused by:
+	603415
+dmim 608890 is caused by:
+	602150
+dmim 608895 is caused by:
+	604580
+dmim 145250 is caused by:
+	184745
+dmim 277300 is caused by:
+	602768
+dmim 603671 is caused by:
+	615951
+dmim 615441 is caused by:
+	603283
+dmim 201000 is caused by:
+	606144
+dmim 309800 is caused by:
+	300013
+dmim 309801 is caused by:
+	300056
+dmim 118600 is caused by:
+	605145
+dmim 227400 is caused by:
+	612309
+dmim 101200 is caused by:
+	176943
+dmim 145650 is caused by:
+	190160
+dmim 610599 is caused by:
+	610598
+dmim 110900 is caused by:
+	613883
+dmim 165720 is caused by:
+	605083
+dmim 261550 is caused by:
+	600957
+	600956
+dmim 222448 is caused by:
+	600073
+dmim 610460 is caused by:
+	187680
+dmim 603813 is caused by:
+	605747
+dmim 231680 is caused by:
+	608053
+	130410
+	231675
+dmim 300622 is caused by:
+	300611
+dmim 604278 is caused by:
+	603345
+dmim 248700 is caused by:
+	613629
+dmim 605637 is caused by:
+	160740
+dmim 313900 is caused by:
+	300392
+dmim 610265 is caused by:
+	609427
+dmim 105120 is caused by:
+	137350
+dmim 230900 is caused by:
+	606463
+dmim 614483 is caused by:
+	120090
+dmim 300209 is caused by:
+	300170
+dmim 271150 is caused by:
+	600354
+dmim 612356 is caused by:
+	142360
+dmim 611263 is caused by:
+	611177
+dmim 250250 is caused by:
+	157660
+dmim 300200 is caused by:
+	300473
+dmim 257200 is caused by:
+	607608
+dmim 158580 is caused by:
+	608761
+dmim 103470 is caused by:
+	606933
+	156845
+dmim 615458 is caused by:
+	607512
+dmim 606713 is caused by:
+	608317
+dmim 615451 is caused by:
+	615408
+dmim 204000 is caused by:
+	600179
+dmim 200990 is caused by:
+	611254
+dmim 116860 is caused by:
+	604214
+dmim 615457 is caused by:
+	615410
+dmim 615962 is caused by:
+	138040
+dmim 121201 is caused by:
+	602232
+dmim 614284 is caused by:
+	120260
+dmim 220400 is caused by:
+	607542
+dmim 610799 is caused by:
+	606883
+	606252
+dmim 204690 is caused by:
+	611062
+dmim 143880 is caused by:
+	126065
+dmim 605462 is caused by:
+	601309
+	603673
+	139150
+dmim 167320 is caused by:
+	601023
+dmim 176100 is caused by:
+	613521
+	613609
+dmim 614898 is caused by:
+	609927
+dmim 614899 is caused by:
+	607314
+dmim 614892 is caused by:
+	600555
+dmim 614893 is caused by:
+	601565
+dmim 614890 is caused by:
+	161561
+dmim 614891 is caused by:
+	601604
+dmim 614896 is caused by:
+	114206
+dmim 614897 is caused by:
+	603961
+dmim 614894 is caused by:
+	601565
+dmim 614895 is caused by:
+	605725
+dmim 602032 is caused by:
+	602767
+dmim 262600 is caused by:
+	601538
+dmim 130050 is caused by:
+	120180
+dmim 166200 is caused by:
+	120150
+dmim 613206 is caused by:
+	608803
+dmim 148350 is caused by:
+	121011
+dmim 613204 is caused by:
+	600536
+dmim 615991 is caused by:
+	610142
+dmim 154400 is caused by:
+	605593
+dmim 608874 is caused by:
+	142983
+dmim 612079 is caused by:
+	612074
+dmim 104500 is caused by:
+	606585
+dmim 614944 is caused by:
+	614925
+dmim 614945 is caused by:
+	604487
+dmim 166700 is caused by:
+	607844
+dmim 614947 is caused by:
+	611766
+dmim 614940 is caused by:
+	606603
+dmim 614941 is caused by:
+	606603
+dmim 235730 is caused by:
+	605802
+dmim 612075 is caused by:
+	604712
+dmim 614090 is caused by:
+	160710
+dmim 614091 is caused by:
+	613602
+dmim 614096 is caused by:
+	612035
+dmim 614097 is caused by:
+	115500
+dmim 614099 is caused by:
+	614068
+dmim 604625 is caused by:
+	167416
+dmim 260600 is caused by:
+	603605
+dmim 606482 is caused by:
+	602378
+dmim 612261 is caused by:
+	607562
+dmim 247100 is caused by:
+	602201
+dmim 201910 is caused by:
+	613815
+dmim 211180 is caused by:
+	611531
+dmim 246450 is caused by:
+	613898
+dmim 613517 is caused by:
+	613858
+dmim 163000 is caused by:
+	600998
+dmim 236600 is caused by:
+	611204
+dmim 210210 is caused by:
+	609014
+dmim 610644 is caused by:
+	609595
+dmim 249420 is caused by:
+	613293
+dmim 102900 is caused by:
+	609712
+dmim 607277 is caused by:
+	604687
+dmim 605387 is caused by:
+	610897
+dmim 612100 is caused by:
+	604569
+dmim 113100 is caused by:
+	601146
+dmim 204500 is caused by:
+	607998
+dmim 235550 is caused by:
+	604457
+dmim 602723 is caused by:
+	607211
+dmim 605389 is caused by:
+	607479
+dmim 235555 is caused by:
+	604741
+dmim 605899 is caused by:
+	238310
+	238330
+	238300
+dmim 211980 is caused by:
+	131550
+	164757
+	164870
+	602544
+	604050
+	605082
+	603113
+	190070
+	191195
+	602631
+	147575
+	171834
+	601763
+	122720
+	609413
+	134638
+dmim 604387 is caused by:
+	608002
+dmim 615516 is caused by:
+	605837
+dmim 613679 is caused by:
+	176930
+dmim 251880 is caused by:
+	601465
+dmim 101800 is caused by:
+	188830
+dmim 609439 is caused by:
+	605564
+dmim 613673 is caused by:
+	600599
+dmim 613672 is caused by:
+	613669
+dmim 615923 is caused by:
+	108961
+dmim 613670 is caused by:
+	605515
+dmim 613677 is caused by:
+	600734
+dmim 615924 is caused by:
+	606158
+dmim 601399 is caused by:
+	151385
+dmim 615926 is caused by:
+	606036
+dmim 243000 is caused by:
+	603415
+dmim 265380 is caused by:
+	601089
+dmim 269600 is caused by:
+	107741
+dmim 211500 is caused by:
+	613350
+dmim 278780 is caused by:
+	133530
+dmim 106100 is caused by:
+	606860
+dmim 233100 is caused by:
+	182381
+dmim 613471 is caused by:
+	600024
+dmim 219000 is caused by:
+	607830
+	608945
+	604597
+dmim 218340 is caused by:
+	615140
+dmim 613982 is caused by:
+	172860
+dmim 245200 is caused by:
+	606890
+dmim 615879 is caused by:
+	602769
+dmim 604169 is caused by:
+	601239
+dmim 604168 is caused by:
+	604927
+dmim 310500 is caused by:
+	300278
+dmim 610131 is caused by:
+	604983
+dmim 613986 is caused by:
+	600037
+dmim 121200 is caused by:
+	602235
+dmim 615160 is caused by:
+	191329
+dmim 608093 is caused by:
+	191350
+dmim 613989 is caused by:
+	187270
+dmim 608091 is caused by:
+	613277
+dmim 256000 is caused by:
+	603646
+	602125
+	614530
+	613622
+	602137
+	603834
+	612392
+	603846
+	602141
+	603647
+	603835
+	609653
+	602694
+	601825
+	600857
+	185620
+dmim 615327 is caused by:
+	607491
+dmim 615325 is caused by:
+	125660
+dmim 613988 is caused by:
+	612661
+dmim 161400 is caused by:
+	602358
+dmim 610256 is caused by:
+	601094
+dmim 615328 is caused by:
+	606977
+dmim 615859 is caused by:
+	615730
+dmim 610251 is caused by:
+	100650
+dmim 159900 is caused by:
+	126450
+	604149
+dmim 610253 is caused by:
+	607001
+dmim 156240 is caused by:
+	607102
+	603517
+dmim 226750 is caused by:
+	614574
+dmim 607948 is caused by:
+	608212
+	155540
+	600266
+	158105
+	604672
+	604457
+	603028
+	107470
+	147570
+	606252
+	602441
+dmim 600669 is caused by:
+	154270
+dmim 608415 is caused by:
+	604067
+	607814
+dmim 176920 is caused by:
+	164730
+dmim 615558 is caused by:
+	107730
+dmim 112500 is caused by:
+	607004
+	600726
+dmim 216340 is caused by:
+	609390
+dmim 607941 is caused by:
+	600576
+dmim 601718 is caused by:
+	601691
+dmim 607944 is caused by:
+	171640
+dmim 301830 is caused by:
+	314370
+dmim 272430 is caused by:
+	604237
+dmim 232700 is caused by:
+	613741
+dmim 607016 is caused by:
+	252800
+dmim 181405 is caused by:
+	605427
+dmim 147060 is caused by:
+	102582
+dmim 607015 is caused by:
+	252800
+dmim 614222 is caused by:
+	602207
+dmim 238600 is caused by:
+	609708
+dmim 233650 is caused by:
+	179615
+	179616
+dmim 607921 is caused by:
+	607643
+dmim 302200 is caused by:
+	300457
+dmim 103050 is caused by:
+	608222
+dmim 608673 is caused by:
+	608014
+dmim 111400 is caused by:
+	607922
+	603094
+dmim 613853 is caused by:
+	605194
+dmim 114900 is caused by:
+	602690
+dmim 613850 is caused by:
+	147520
+dmim 613856 is caused by:
+	139340
+dmim 608389 is caused by:
+	601205
+dmim 615528 is caused by:
+	608375
+dmim 615217 is caused by:
+	611317
+dmim 614225 is caused by:
+	609275
+dmim 615214 is caused by:
+	171833
+dmim 608380 is caused by:
+	608381
+dmim 613695 is caused by:
+	176261
+dmim 613694 is caused by:
+	104311
+dmim 613697 is caused by:
+	600759
+dmim 607706 is caused by:
+	606598
+dmim 613690 is caused by:
+	191044
+dmim 613693 is caused by:
+	603796
+dmim 614116 is caused by:
+	126375
+dmim 212065 is caused by:
+	601785
+dmim 212066 is caused by:
+	602616
+dmim 147480 is caused by:
+	602397
+dmim 613566 is caused by:
+	600599
+dmim 185300 is caused by:
+	600998
+dmim 182900 is caused by:
+	612641
+dmim 229300 is caused by:
+	606829
+dmim 244200 is caused by:
+	607123
+dmim 609939 is caused by:
+	120980
+dmim 614111 is caused by:
+	179060
+dmim 275200 is caused by:
+	603372
+dmim 615135 is caused by:
+	611065
+dmim 615139 is caused by:
+	174762
+dmim 193100 is caused by:
+	605380
+dmim 102700 is caused by:
+	608958
+dmim 606835 is caused by:
+	605427
+dmim 186570 is caused by:
+	602991
+dmim 612674 is caused by:
+	613599
+dmim 108145 is caused by:
+	613629
+dmim 611126 is caused by:
+	611103
+dmim 614851 is caused by:
+	608684
+dmim 614400 is caused by:
+	614283
+dmim 614402 is caused by:
+	604294
+dmim 607831 is caused by:
+	606598
+dmim 607832 is caused by:
+	604241
+dmim 607834 is caused by:
+	182138
+dmim 607836 is caused by:
+	611539
+dmim 131950 is caused by:
+	601282
+dmim 613076 is caused by:
+	600924
+dmim 222900 is caused by:
+	609845
+dmim 264800 is caused by:
+	603234
+	608124
+	608125
+dmim 613706 is caused by:
+	164757
+dmim 163500 is caused by:
+	180072
+dmim 606612 is caused by:
+	606596
+dmim 606159 is caused by:
+	134790
+dmim 607236 is caused by:
+	606157
+dmim 607259 is caused by:
+	602783
+dmim 615688 is caused by:
+	607575
+dmim 615685 is caused by:
+	607669
+dmim 615686 is caused by:
+	102771
+dmim 608930 is caused by:
+	100690
+	100720
+	100725
+dmim 615683 is caused by:
+	601752
+dmim 155100 is caused by:
+	160775
+dmim 206100 is caused by:
+	600523
+dmim 123000 is caused by:
+	605145
+dmim 140000 is caused by:
+	142959
+dmim 612387 is caused by:
+	606000
+dmim 181430 is caused by:
+	160760
+dmim 615042 is caused by:
+	603564
+dmim 615043 is caused by:
+	614297
+dmim 615040 is caused by:
+	604775
+dmim 615041 is caused by:
+	605862
+dmim 206920 is caused by:
+	608488
+dmim 606721 is caused by:
+	601047
+dmim 174300 is caused by:
+	615464
+dmim 167200 is caused by:
+	148067
+dmim 606392 is caused by:
+	600733
+dmim 613071 is caused by:
+	600761
+dmim 616002 is caused by:
+	167409
+dmim 616001 is caused by:
+	179590
+dmim 616000 is caused by:
+	103600
+dmim 613075 is caused by:
+	610222
+dmim 613074 is caused by:
+	611606
+dmim 616005 is caused by:
+	171833
+dmim 616004 is caused by:
+	134820
+	134830
+	134850
+dmim 613079 is caused by:
+	613072
+dmim 613078 is caused by:
+	604040
+dmim 612240 is caused by:
+	176267
+dmim 612245 is caused by:
+	607218
+dmim 612244 is caused by:
+	171050
+dmim 612247 is caused by:
+	134934
+dmim 259710 is caused by:
+	602642
+dmim 613205 is caused by:
+	150330
+dmim 606054 is caused by:
+	232000
+	232050
+dmim 606056 is caused by:
+	601336
+dmim 615598 is caused by:
+	603357
+dmim 615599 is caused by:
+	604912
+dmim 300400 is caused by:
+	308380
+dmim 615590 is caused by:
+	602192
+dmim 615591 is caused by:
+	120940
+dmim 615592 is caused by:
+	603258
+dmim 615593 is caused by:
+	600315
+dmim 615595 is caused by:
+	613311
+dmim 615596 is caused by:
+	601134
+dmim 615597 is caused by:
+	608605
+dmim 180500 is caused by:
+	601542
+dmim 614621 is caused by:
+	609412
+dmim 612522 is caused by:
+	601373
+dmim 600430 is caused by:
+	605314
+dmim 174900 is caused by:
+	601299
+	600993
+dmim 177200 is caused by:
+	600760
+	600761
+dmim 612370 is caused by:
+	608892
+dmim 266265 is caused by:
+	605881
+dmim 150400 is caused by:
+	606268
+dmim 260540 is caused by:
+	157140
+dmim 168400 is caused by:
+	605427
+dmim 615848 is caused by:
+	606478
+dmim 120100 is caused by:
+	606416
+dmim 277480 is caused by:
+	613160
+dmim 601550 is caused by:
+	109270
+dmim 612073 is caused by:
+	603921
+dmim 274150 is caused by:
+	604134
+dmim 148210 is caused by:
+	121011
+dmim 614946 is caused by:
+	611592
+dmim 615465 is caused by:
+	136350
+dmim 227500 is caused by:
+	613878
+dmim 253220 is caused by:
+	611499
+dmim 118100 is caused by:
+	601147
+dmim 612076 is caused by:
+	606142
+dmim 121850 is caused by:
+	609414
+dmim 615468 is caused by:
+	604860
+dmim 201450 is caused by:
+	607008
+dmim 276880 is caused by:
+	613012
+dmim 615665 is caused by:
+	602676
+dmim 615663 is caused by:
+	611663
+dmim 215470 is caused by:
+	603197
+dmim 201100 is caused by:
+	607059
+dmim 126200 is caused by:
+	600244
+	604305
+	142857
+dmim 154700 is caused by:
+	134797
+dmim 217090 is caused by:
+	173350
+dmim 603933 is caused by:
+	192240
+dmim 603932 is caused by:
+	120260
+	120270
+	608135
+	603489
+	120280
+	188061
+dmim 200500 is caused by:
+	605522
+dmim 133780 is caused by:
+	604579
+dmim 614889 is caused by:
+	147569
+dmim 605714 is caused by:
+	104760
+dmim 301310 is caused by:
+	300135
+dmim 615710 is caused by:
+	612659
+dmim 241500 is caused by:
+	171760
+dmim 614332 is caused by:
+	600565
+dmim 614881 is caused by:
+	604139
+dmim 614880 is caused by:
+	604846
+dmim 614883 is caused by:
+	601789
+dmim 614882 is caused by:
+	603164
+dmim 249700 is caused by:
+	312865
+	400020
+dmim 193500 is caused by:
+	606597
+dmim 614887 is caused by:
+	601791
+dmim 614886 is caused by:
+	600279
+dmim 142946 is caused by:
+	602630
+dmim 300306 is caused by:
+	300444
+dmim 142945 is caused by:
+	600725
+dmim 300301 is caused by:
+	300248
+dmim 613211 is caused by:
+	613214
+dmim 608615 is caused by:
+	604025
+dmim 248600 is caused by:
+	248610
+	608348
+	248611
+dmim 251200 is caused by:
+	607117
+dmim 613217 is caused by:
+	185535
+dmim 613216 is caused by:
+	603576
+dmim 612069 is caused by:
+	605078
+dmim 614959 is caused by:
+	608167
+dmim 104510 is caused by:
+	600525
+dmim 612900 is caused by:
+	607704
+dmim 204750 is caused by:
+	614984
+dmim 166710 is caused by:
+	601769
+	120150
+	114131
+	120160
+	603422
+	611738
+	611739
+	603506
+dmim 140300 is caused by:
+	123890
+dmim 602535 is caused by:
+	164005
+dmim 612067 is caused by:
+	603424
+dmim 614081 is caused by:
+	140100
+dmim 614080 is caused by:
+	606097
+dmim 614083 is caused by:
+	608111
+dmim 614082 is caused by:
+	602956
+dmim 609734 is caused by:
+	176830
+dmim 614087 is caused by:
+	609644
+dmim 615278 is caused by:
+	190070
+dmim 614089 is caused by:
+	160710
+dmim 300436 is caused by:
+	300267
+dmim 203740 is caused by:
+	613022
+dmim 609446 is caused by:
+	600150
+dmim 221900 is caused by:
+	609875
+dmim 147920 is caused by:
+	602113
+dmim 255120 is caused by:
+	600528
+dmim 613507 is caused by:
+	603942
+dmim 613506 is caused by:
+	608360
+dmim 613501 is caused by:
+	112205
+dmim 613500 is caused by:
+	146770
+dmim 117300 is caused by:
+	603904
+dmim 613502 is caused by:
+	604515
+dmim 176000 is caused by:
+	609806
+dmim 127550 is caused by:
+	602322
+dmim 613933 is caused by:
+	200350
+dmim 611093 is caused by:
+	601385
+dmim 212840 is caused by:
+	609948
+dmim 300018 is caused by:
+	300473
+dmim 612119 is caused by:
+	275360
+dmim 615916 is caused by:
+	164760
+dmim 615917 is caused by:
+	612802
+dmim 125350 is caused by:
+	168468
+dmim 615911 is caused by:
+	615903
+dmim 125420 is caused by:
+	125485
+dmim 128101 is caused by:
+	602662
+dmim 203290 is caused by:
+	115501
+dmim 604377 is caused by:
+	604272
+dmim 108600 is caused by:
+	185880
+dmim 615918 is caused by:
+	612805
+dmim 615919 is caused by:
+	176740
+dmim 604370 is caused by:
+	113705
+dmim 610189 is caused by:
+	610142
+dmim 302060 is caused by:
+	300394
+dmim 182000 is caused by:
+	171834
+dmim 612400 is caused by:
+	601146
+dmim 609423 is caused by:
+	604946
+	147570
+	600835
+	146929
+	147781
+	182283
+	604672
+	142840
+	158105
+	124092
+	601395
+	603029
+	601156
+	601470
+dmim 208530 is caused by:
+	602880
+dmim 601650 is caused by:
+	613019
+dmim 610743 is caused by:
+	608441
+dmim 613443 is caused by:
+	600662
+dmim 113750 is caused by:
+	609802
+dmim 113200 is caused by:
+	142989
+dmim 613563 is caused by:
+	165360
+dmim 269000 is caused by:
+	609353
+dmim 236700 is caused by:
+	604896
+dmim 601098 is caused by:
+	603795
+dmim 269160 is caused by:
+	600035
+	600725
+	603714
+dmim 210370 is caused by:
+	608614
+dmim 108770 is caused by:
+	121013
+dmim 601472 is caused by:
+	600287
+dmim 608265 is caused by:
+	142409
+dmim 608266 is caused by:
+	607393
+dmim 230350 is caused by:
+	606953
+dmim 604116 is caused by:
+	601691
+dmim 147250 is caused by:
+	600725
+dmim 278000 is caused by:
+	613497
+dmim 615860 is caused by:
+	612268
+dmim 615861 is caused by:
+	602334
+dmim 613990 is caused by:
+	604319
+dmim 615863 is caused by:
+	604900
+dmim 615866 is caused by:
+	600898
+dmim 252600 is caused by:
+	607840
+dmim 183090 is caused by:
+	601517
+dmim 113970 is caused by:
+	190080
+dmim 604286 is caused by:
+	600900
+dmim 157300 is caused by:
+	131243
+	191160
+	133430
+dmim 610245 is caused by:
+	131340
+dmim 609646 is caused by:
+	609739
+dmim 604841 is caused by:
+	120280
+dmim 178300 is caused by:
+	606940
+dmim 243400 is caused by:
+	612182
+dmim 106600 is caused by:
+	142983
+dmim 175200 is caused by:
+	602216
+dmim 252900 is caused by:
+	605270
+dmim 607721 is caused by:
+	602775
+dmim 601277 is caused by:
+	607800
+dmim 269700 is caused by:
+	606158
+dmim 604571 is caused by:
+	170260
+	601962
+	170261
+dmim 211400 is caused by:
+	600760
+	602421
+dmim 613882 is caused by:
+	607803
+dmim 137245 is caused by:
+	603517
+dmim 604757 is caused by:
+	123101
+dmim 600059 is caused by:
+	607300
+dmim 607457 is caused by:
+	600170
+dmim 601390 is caused by:
+	603057
+dmim 311150 is caused by:
+	300356
+dmim 231530 is caused by:
+	601609
+dmim 600334 is caused by:
+	188840
+dmim 613000 is caused by:
+	148067
+dmim 614328 is caused by:
+	603639
+dmim 611209 is caused by:
+	606973
+dmim 614324 is caused by:
+	608665
+dmim 614325 is caused by:
+	600565
+dmim 614326 is caused by:
+	609415
+dmim 300835 is caused by:
+	305371
+dmim 614320 is caused by:
+	113705
+dmim 614321 is caused by:
+	601253
+dmim 614322 is caused by:
+	605131
+dmim 300831 is caused by:
+	300275
+dmim 312080 is caused by:
+	300401
+dmim 615268 is caused by:
+	605870
+dmim 607482 is caused by:
+	600824
+dmim 607485 is caused by:
+	138945
+dmim 607487 is caused by:
+	604488
+dmim 607486 is caused by:
+	120620
+dmim 217800 is caused by:
+	605294
+dmim 256100 is caused by:
+	607100
+dmim 225100 is caused by:
+	610113
+dmim 615267 is caused by:
+	606807
+dmim 615264 is caused by:
+	615242
+dmim 117000 is caused by:
+	180901
+dmim 212050 is caused by:
+	607212
+dmim 219080 is caused by:
+	139320
+dmim 614424 is caused by:
+	614423
+dmim 233710 is caused by:
+	608515
+dmim 245348 is caused by:
+	608770
+dmim 245349 is caused by:
+	608769
+dmim 109730 is caused by:
+	190198
+dmim 610333 is caused by:
+	606034
+dmim 245340 is caused by:
+	600682
+dmim 606445 is caused by:
+	607210
+dmim 615541 is caused by:
+	614426
+dmim 263570 is caused by:
+	607839
+dmim 615120 is caused by:
+	103320
+dmim 615122 is caused by:
+	186711
+dmim 202010 is caused by:
+	610613
+dmim 606943 is caused by:
+	607696
+dmim 608446 is caused by:
+	602855
+	613878
+	134570
+	133430
+	606857
+	601176
+	173470
+	150571
+	602600
+	153440
+	611082
+	602601
+	603594
+dmim 209900 is caused by:
+	209901
+	608845
+	610162
+	609884
+dmim 607136 is caused by:
+	600075
+dmim 614438 is caused by:
+	179035
+dmim 606843 is caused by:
+	109535
+dmim 120080 is caused by:
+	171050
+dmim 130010 is caused by:
+	120215
+dmim 613925 is caused by:
+	611642
+dmim 580000 is caused by:
+	610230
+dmim 614430 is caused by:
+	600576
+dmim 300029 is caused by:
+	312610
+dmim 614432 is caused by:
+	600584
+dmim 614433 is caused by:
+	602937
+dmim 614434 is caused by:
+	604580
+dmim 614435 is caused by:
+	600584
+dmim 614436 is caused by:
+	610933
+dmim 614437 is caused by:
+	604633
+dmim 601847 is caused by:
+	603201
+dmim 263400 is caused by:
+	608537
+dmim 300847 is caused by:
+	312173
+dmim 242500 is caused by:
+	607800
+dmim 275900 is caused by:
+	607111
+dmim 192500 is caused by:
+	607542
+dmim 607823 is caused by:
+	601618
+dmim 607822 is caused by:
+	104311
+dmim 607821 is caused by:
+	600970
+dmim 615548 is caused by:
+	604385
+dmim 144250 is caused by:
+	609708
+dmim 143200 is caused by:
+	118661
+dmim 601894 is caused by:
+	135600
+dmim 131850 is caused by:
+	120120
+dmim 114480 is caused by:
+	605100
+	191170
+	605882
+	164730
+	190070
+	171834
+	606837
+	602631
+	601387
+	160998
+	603615
+	192090
+	600185
+	601763
+	607585
+	601593
+	604373
+	600936
+	610355
+	176705
+	179617
+	600675
+	133430
+dmim 110100 is caused by:
+	605597
+dmim 606664 is caused by:
+	606628
+dmim 607225 is caused by:
+	606352
+dmim 254900 is caused by:
+	602257
+dmim 193230 is caused by:
+	603208
+dmim 216820 is caused by:
+	602219
+dmim 111690 is caused by:
+	111700
+dmim 193235 is caused by:
+	602537
+dmim 609533 is caused by:
+	605514
+dmim 260370 is caused by:
+	600733
+dmim 615696 is caused by:
+	615618
+dmim 614504 is caused by:
+	142810
+dmim 614507 is caused by:
+	602202
+dmim 614500 is caused by:
+	614477
+dmim 203450 is caused by:
+	137780
+dmim 120330 is caused by:
+	167409
+dmim 615057 is caused by:
+	608047
+dmim 256800 is caused by:
+	191315
+dmim 614508 is caused by:
+	179617
+dmim 190900 is caused by:
+	613522
+dmim 300659 is caused by:
+	300553
+dmim 222800 is caused by:
+	613896
+dmim 231550 is caused by:
+	605378
+dmim 609813 is caused by:
+	602576
+dmim 228550 is caused by:
+	173410
+dmim 127000 is caused by:
+	615292
+dmim 606068 is caused by:
+	613596
+dmim 606069 is caused by:
+	604653
+dmim 213300 is caused by:
+	613037
+dmim 616089 is caused by:
+	110750
+dmim 300539 is caused by:
+	300538
+dmim 612278 is caused by:
+	608212
+dmim 615582 is caused by:
+	190230
+dmim 188740 is caused by:
+	605522
+dmim 259700 is caused by:
+	604592
+dmim 300537 is caused by:
+	300017
+dmim 612271 is caused by:
+	115501
+dmim 300534 is caused by:
+	314690
+dmim 181350 is caused by:
+	150330
+dmim 602722 is caused by:
+	605239
+dmim 606856 is caused by:
+	608092
+dmim 300912 is caused by:
+	300524
+dmim 613002 is caused by:
+	603029
+dmim 600807 is caused by:
+	152390
+	109690
+	158375
+	142871
+	601156
+	605238
+	161561
+	147683
+	601690
+	606531
+	191160
+	607796
+dmim 614613 is caused by:
+	600129
+dmim 614614 is caused by:
+	614591
+dmim 614615 is caused by:
+	614571
+dmim 614616 is caused by:
+	601330
+dmim 614617 is caused by:
+	613577
+dmim 614618 is caused by:
+	604159
+dmim 224410 is caused by:
+	142461
+dmim 155601 is caused by:
+	600160
+dmim 155600 is caused by:
+	601728
+dmim 116400 is caused by:
+	606201
+dmim 208050 is caused by:
+	606145
+dmim 305000 is caused by:
+	300126
+dmim 611809 is caused by:
+	607854
+dmim 616108 is caused by:
+	607849
+dmim 314250 is caused by:
+	313650
+dmim 614340 is caused by:
+	610350
+dmim 300220 is caused by:
+	300256
+dmim 614377 is caused by:
+	608151
+dmim 304020 is caused by:
+	312610
+dmim 616100 is caused by:
+	123890
+dmim 311360 is caused by:
+	309550
+dmim 261000 is caused by:
+	609342
+dmim 615473 is caused by:
+	139311
+dmim 205100 is caused by:
+	606352
+dmim 615922 is caused by:
+	607795
+dmim 615476 is caused by:
+	615463
+dmim 615474 is caused by:
+	114206
+dmim 613192 is caused by:
+	611966
+dmim 613193 is caused by:
+	613190
+dmim 110700 is caused by:
+	613665
+dmim 235400 is caused by:
+	134370
+	134371
+	605336
+dmim 613194 is caused by:
+	607854
+dmim 613676 is caused by:
+	609279
+dmim 240600 is caused by:
+	138571
+dmim 221770 is caused by:
+	605086
+	604142
+dmim 104290 is caused by:
+	182340
+dmim 615670 is caused by:
+	600574
+dmim 615673 is caused by:
+	605084
+dmim 603720 is caused by:
+	606440
+dmim 308240 is caused by:
+	300490
+dmim 612580 is caused by:
+	114019
+dmim 612581 is caused by:
+	607761
+dmim 607426 is caused by:
+	609825
+dmim 603902 is caused by:
+	141900
+dmim 603903 is caused by:
+	141900
+dmim 181000 is caused by:
+	142857
+dmim 601626 is caused by:
+	600358
+	147796
+	601402
+	606681
+	601768
+	602409
+	604763
+	116897
+	136351
+	164920
+	600700
+	164040
+	114350
+	603025
+	151385
+	607083
+	600618
+	121360
+	137295
+	604332
+	187270
+dmim 603909 is caused by:
+	601762
+dmim 239850 is caused by:
+	601439
+dmim 308990 is caused by:
+	300008
+dmim 613224 is caused by:
+	164790
+dmim 613225 is caused by:
+	134570
+dmim 613227 is caused by:
+	114815
+dmim 610539 is caused by:
+	176801
+dmim 241510 is caused by:
+	171760
+dmim 613223 is caused by:
+	601194
+dmim 614842 is caused by:
+	603286
+dmim 227810 is caused by:
+	138160
+dmim 308800 is caused by:
+	313020
+	300294
+dmim 231090 is caused by:
+	609661
+dmim 231095 is caused by:
+	274180
+dmim 607499 is caused by:
+	113505
+dmim 119500 is caused by:
+	607199
+dmim 277450 is caused by:
+	137167
+dmim 612292 is caused by:
+	605874
+dmim 612290 is caused by:
+	604685
+dmim 612291 is caused by:
+	608922
+dmim 608840 is caused by:
+	603590
+dmim 233910 is caused by:
+	600225
+dmim 124900 is caused by:
+	602121
+dmim 613477 is caused by:
+	182810
+dmim 101000 is caused by:
+	607379
+dmim 602522 is caused by:
+	606412
+dmim 270450 is caused by:
+	147370
+dmim 200150 is caused by:
+	605978
+dmim 610967 is caused by:
+	614757
+dmim 125500 is caused by:
+	125485
+dmim 609706 is caused by:
+	120290
+dmim 611597 is caused by:
+	603212
+dmim 611590 is caused by:
+	109270
+dmim 203750 is caused by:
+	607809
+dmim 270100 is caused by:
+	601265
+dmim 105650 is caused by:
+	603474
+dmim 614980 is caused by:
+	605101
+dmim 208230 is caused by:
+	603400
+dmim 249400 is caused by:
+	164790
+dmim 260660 is caused by:
+	604127
+dmim 611755 is caused by:
+	610142
+dmim 613028 is caused by:
+	601728
+dmim 602088 is caused by:
+	243305
+dmim 610629 is caused by:
+	602412
+dmim 610628 is caused by:
+	607002
+dmim 605803 is caused by:
+	135940
+dmim 105250 is caused by:
+	601743
+dmim 600901 is caused by:
+	613976
+dmim 251100 is caused by:
+	607481
+dmim 610623 is caused by:
+	602669
+dmim 615750 is caused by:
+	139396
+dmim 255110 is caused by:
+	600650
+dmim 612124 is caused by:
+	600824
+dmim 300009 is caused by:
+	300008
+dmim 162000 is caused by:
+	191845
+dmim 300004 is caused by:
+	300382
+dmim 605362 is caused by:
+	603550
+dmim 300000 is caused by:
+	300552
+dmim 256370 is caused by:
+	607102
+dmim 246650 is caused by:
+	611761
+dmim 615907 is caused by:
+	601528
+dmim 615905 is caused by:
+	608305
+dmim 153480 is caused by:
+	601728
+dmim 193900 is caused by:
+	123940
+dmim 604364 is caused by:
+	614191
+dmim 615909 is caused by:
+	603633
+dmim 604360 is caused by:
+	610844
+dmim 254600 is caused by:
+	606989
+dmim 614188 is caused by:
+	600939
+dmim 613456 is caused by:
+	601527
+dmim 155950 is caused by:
+	607844
+dmim 613454 is caused by:
+	164874
+dmim 613453 is caused by:
+	173321
+dmim 610968 is caused by:
+	607063
+dmim 613451 is caused by:
+	605420
+dmim 614180 is caused by:
+	606397
+dmim 614181 is caused by:
+	154235
+dmim 186000 is caused by:
+	142989
+dmim 614185 is caused by:
+	134797
+dmim 614186 is caused by:
+	603208
+dmim 612301 is caused by:
+	603499
+dmim 610755 is caused by:
+	600778
+dmim 278250 is caused by:
+	611716
+dmim 610756 is caused by:
+	126340
+dmim 176305 is caused by:
+	142959
+dmim 187500 is caused by:
+	600576
+	601656
+	602880
+	601920
+	602054
+	603693
+	600584
+dmim 610759 is caused by:
+	606062
+dmim 610758 is caused by:
+	126380
+dmim 613027 is caused by:
+	172471
+dmim 608681 is caused by:
+	605195
+dmim 613095 is caused by:
+	173910
+dmim 265120 is caused by:
+	178640
+dmim 608097 is caused by:
+	605371
+dmim 613094 is caused by:
+	601147
+dmim 239300 is caused by:
+	610274
+dmim 612877 is caused by:
+	125671
+dmim 612874 is caused by:
+	102772
+dmim 280000 is caused by:
+	605947
+dmim 609942 is caused by:
+	190070
+dmim 248370 is caused by:
+	150330
+dmim 601462 is caused by:
+	100690
+	100710
+	100720
+	100725
+dmim 613981 is caused by:
+	608248
+dmim 613980 is caused by:
+	600681
+dmim 175780 is caused by:
+	120130
+dmim 611377 is caused by:
+	602991
+dmim 613985 is caused by:
+	152424
+	141900
+dmim 613987 is caused by:
+	606470
+dmim 615878 is caused by:
+	607709
+dmim 615877 is caused by:
+	604357
+dmim 604290 is caused by:
+	117700
+dmim 604292 is caused by:
+	603273
+dmim 615873 is caused by:
+	611386
+dmim 615872 is caused by:
+	607752
+dmim 615871 is caused by:
+	602780
+dmim 612954 is caused by:
+	603883
+dmim 614055 is caused by:
+	100678
+dmim 614052 is caused by:
+	612418
+dmim 614053 is caused by:
+	606153
+dmim 614050 is caused by:
+	601439
+dmim 157600 is caused by:
+	120470
+dmim 608423 is caused by:
+	610032
+dmim 171200 is caused by:
+	607751
+dmim 268150 is caused by:
+	180297
+dmim 608471 is caused by:
+	601692
+dmim 608470 is caused by:
+	601692
+dmim 614020 is caused by:
+	610057
+dmim 182980 is caused by:
+	605704
+dmim 300855 is caused by:
+	300013
+dmim 604563 is caused by:
+	607697
+dmim 612109 is caused by:
+	142992
+dmim 202370 is caused by:
+	600414
+dmim 608709 is caused by:
+	150341
+dmim 605218 is caused by:
+	600244
+dmim 176270 is caused by:
+	602117
+	182279
+dmim 607039 is caused by:
+	607038
+dmim 172700 is caused by:
+	157140
+	104311
+dmim 275350 is caused by:
+	613441
+dmim 133200 is caused by:
+	603324
+	605425
+dmim 614699 is caused by:
+	120650
+dmim 601518 is caused by:
+	180435
+dmim 151600 is caused by:
+	602142
+dmim 610927 is caused by:
+	120650
+dmim 614338 is caused by:
+	246600
+dmim 133190 is caused by:
+	605512
+dmim 612908 is caused by:
+	125647
+dmim 608611 is caused by:
+	180430
+dmim 606854 is caused by:
+	604110
+dmim 614331 is caused by:
+	190182
+dmim 608612 is caused by:
+	606480
+dmim 614337 is caused by:
+	600259
+dmim 614376 is caused by:
+	608151
+dmim 614335 is caused by:
+	160794
+dmim 146800 is caused by:
+	600194
+dmim 615279 is caused by:
+	176872
+dmim 610185 is caused by:
+	614218
+dmim 610187 is caused by:
+	603693
+dmim 610181 is caused by:
+	610326
+dmim 615271 is caused by:
+	604808
+dmim 615270 is caused by:
+	603725
+dmim 615273 is caused by:
+	610661
+dmim 615272 is caused by:
+	133520
+dmim 610188 is caused by:
+	610142
+dmim 615274 is caused by:
+	154050
+dmim 615277 is caused by:
+	154045
+dmim 615432 is caused by:
+	615404
+dmim 270970 is caused by:
+	182860
+dmim 300584 is caused by:
+	300248
+dmim 600118 is caused by:
+	602536
+dmim 600116 is caused by:
+	602544
+dmim 122100 is caused by:
+	601687
+	148043
+dmim 220210 is caused by:
+	610657
+dmim 252605 is caused by:
+	607838
+dmim 233700 is caused by:
+	608512
+dmim 600110 is caused by:
+	605512
+dmim 182920 is caused by:
+	604103
+dmim 173200 is caused by:
+	607211
+dmim 607454 is caused by:
+	616101
+dmim 607107 is caused by:
+	191170
+dmim 607101 is caused by:
+	606808
+dmim 607450 is caused by:
+	125647
+dmim 111200 is caused by:
+	612773
+dmim 118450 is caused by:
+	601920
+dmim 614203 is caused by:
+	601501
+dmim 300799 is caused by:
+	300646
+dmim 607459 is caused by:
+	174763
+dmim 608104 is caused by:
+	608103
+dmim 611105 is caused by:
+	610956
+dmim 608106 is caused by:
+	191525
+dmim 123150 is caused by:
+	136350
+	176943
+dmim 615119 is caused by:
+	603646
+dmim 168500 is caused by:
+	123101
+dmim 614420 is caused by:
+	602244
+dmim 602491 is caused by:
+	191523
+dmim 604229 is caused by:
+	601771
+	607108
+	601542
+dmim 608099 is caused by:
+	600119
+dmim 615112 is caused by:
+	608869
+dmim 615113 is caused by:
+	600463
+dmim 307200 is caused by:
+	300300
+dmim 228300 is caused by:
+	138850
+dmim 612813 is caused by:
+	155760
+dmim 610988 is caused by:
+	153440
+dmim 256600 is caused by:
+	603604
+dmim 225200 is caused by:
+	610113
+dmim 610984 is caused by:
+	217030
+dmim 610250 is caused by:
+	609139
+dmim 108120 is caused by:
+	190990
+dmim 188400 is caused by:
+	602054
+dmim 610293 is caused by:
+	610273
+dmim 189800 is caused by:
+	163729
+	132810
+dmim 610297 is caused by:
+	606441
+dmim 607850 is caused by:
+	608135
+dmim 607855 is caused by:
+	156225
+dmim 310490 is caused by:
+	300169
+dmim 610965 is caused by:
+	133520
+dmim 614134 is caused by:
+	120210
+dmim 212550 is caused by:
+	606326
+dmim 601887 is caused by:
+	114208
+dmim 601885 is caused by:
+	121015
+dmim 601884 is caused by:
+	603506
+dmim 132000 is caused by:
+	120120
+dmim 193220 is caused by:
+	607854
+dmim 615009 is caused by:
+	607492
+dmim 600145 is caused by:
+	610132
+dmim 604117 is caused by:
+	152445
+dmim 300645 is caused by:
+	300481
+dmim 225060 is caused by:
+	600644
+dmim 609887 is caused by:
+	609669
+dmim 609886 is caused by:
+	191845
+dmim 300643 is caused by:
+	300642
+dmim 614514 is caused by:
+	176880
+dmim 609889 is caused by:
+	179615
+dmim 308300 is caused by:
+	300248
+dmim 615065 is caused by:
+	605896
+dmim 615066 is caused by:
+	611236
+dmim 615067 is caused by:
+	615038
+dmim 136900 is caused by:
+	188826
+dmim 257300 is caused by:
+	602860
+dmim 206900 is caused by:
+	184429
+dmim 615725 is caused by:
+	615720

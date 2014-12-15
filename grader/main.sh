@@ -1,40 +1,31 @@
 #!/bin/bash
 
-# last updated 2014-12-04 toby
+# last updated 2014-12-12 toby
 
 # this puts everything together...
-# lets hope it works!
 
 echo "Starting everything..."
 
-echo "Updating mim2gene"
-cd updater
-./updateGene.sh
-echo "Finished updating mim2gene"
-
 echo "Updating OMIM"
+cd updater
 ./updateOMIM.sh
 cd ..
 echo "Finished updating OMIM"
 
+echo "Querying disgenet"
+python query_disgenet.py testset.txt
+echo "Finished querying disgenet"
 
-echo "Running grabber"
-cd disgenet
-python grabber.py
-echo "Finished grabber"
-
-echo "Running sanitizer"
-python sanitizer.py
-cd ..
-echo "Done sanitizing"
-
+echo "Sanitizing disgenet"
+python disgenet_sanitizer.py
+echo "Done sanitizing disgenet"
 
 echo "Running grader"
 python grader.py
 echo "Done grading"
 
 echo "Plotting graphs"
-Rscript plotAll.R
+Rscript plotROC.R
 echo "Finished plotting ROC curves"
 
 echo "Completely done!"

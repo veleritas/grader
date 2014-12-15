@@ -1,11 +1,14 @@
 #!/usr/bin/expect
-# 2014-12-02 toby
-# this script automatically connects to omim and gets the file passed to it
-# it automatically puts the file into the current directory
+# 2014-12-12 toby
+
+# connects to ftp.omim.org and grabs two files
+
 set timeout 20
 
-set file [lindex $argv 0]
-set email "tong.shu.li@gmail.com"
+set file1 [lindex $argv 0]
+set file2 [lindex $argv 1]
+
+set email "tongli@scripps.edu"
 
 spawn ftp ftp.omim.org
 
@@ -24,7 +27,10 @@ expect "ftp>"
 send "ls\r"
 
 expect "ftp>"
-send "get $file\r"
+send "get $file1\r"
+
+expect "ftp>"
+send "get $file2\r"
 
 expect "ftp>"
 send "exit\r"

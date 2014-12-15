@@ -1,26 +1,33 @@
 #!/bin/bash
 
-# first version 2014-12-02 toby
-# last updated  2014-12-04 toby
-# this program grabs a file from the omim server
-# and puts it into the grader directory
+# last updated 2014-12-12 toby
 
-file="morbidmap"
+# grabs files from OMIM and moves it
 
-echo "Starting to update $file"
+file1="morbidmap"
+file2="mim2gene.txt"
 
-./ftpOMIM.exp $file
+echo "Starting to update $file1 and $file2"
 
-if [ -e "$file" ]; then
-	echo "Successfully got $file"
+./ftpOMIM.exp $file1 $file2
 
-	newname=$file
+if [ -e "$file1" ]; then
+	echo "Successfully got $file1"
+
+	newname=$file1
 	newname+=".txt"
 
-	mv $file $newname
+	mv $file1 $newname
 	mv $newname ~/grader/data
 else
-	echo "Could not get $file from OMIM server"
+	echo "Could not get $file1 from OMIM server"
+fi
+
+if [ -e "$file2" ]; then
+	echo "Successfully got $file2"
+	mv $file2 ~/grader/data
+else
+	echo "Could not get $file2 from OMIM server"
 fi
 
 echo "Finished"
