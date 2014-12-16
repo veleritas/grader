@@ -1,0 +1,6 @@
+biograph.txt
+total 22.7765338
+average auc 0.990284078261
+disgenet.txt
+total 22.0958919
+average auc 0.849841996154
