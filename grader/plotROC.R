@@ -8,7 +8,7 @@ get_cui <- function (fname)
   return(substr(fname, 1, 8))
 }
 
-draw_curve <- function (idir, odir, fname)
+draw_curve <- function (idir, odir, fname, sloc)
 {
 	loc <- paste(c(idir, fname), collapse = "")
 	print("location")
@@ -63,6 +63,13 @@ draw_curve <- function (idir, odir, fname)
 	mtext(paste(c("auc", auc), collapse=" "))
 
 	dev.off()
+
+#	write to a text file
+	write(auc, file=sloc, append=TRUE)
+
+
+
+
 }
 
 #-------------------------------------------------------------------------------
@@ -71,6 +78,9 @@ inloc <- "/home/toby/grader/data/roc/"
 outloc <- "/home/toby/grader/curves/"
 
 dir.create(outloc, showWarnings = FALSE)
+
+summaryloc <- "/home/toby/grader/curves/summary/"
+dir.create(summaryloc, showWarnings = FALSE)
 
 # for all directories:
 dirs <- list.files(inloc)
@@ -82,9 +92,11 @@ traverse <- lapply(dirs, function (dname)
 
 	subdir <- paste(c(inloc, dname, "/"), collapse = "")
 
+	sloc <- paste(c(summaryloc, dname, ".txt"), collapse = "")
+
 	files <- list.files(subdir)
 	work <- lapply(files, function (fname)
 	{
-		draw_curve(subdir, outdir, fname)
+		draw_curve(subdir, outdir, fname, sloc)
 	})
 })
