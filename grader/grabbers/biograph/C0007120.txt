@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0007120</id>
+  <preferred_synonym>Bronchioloalveolar Carcinoma</preferred_synonym>
+  <type>Disease</type>
+  <definition>A well or moderately differentiated morphologic variant of lung adenocarcinoma characterized by tumor growth along the alveolar structures without stromal, vascular, or pleural invasion.</definition>
+  <synonyms>
+    <synonym>Bronchioloalveolar Carcinoma</synonym>
+    <synonym>CARCINOMA, BRONCHIOLOALVEOLAR</synonym>
+    <synonym>Bronchioloalveolar Carcinomas</synonym>
+    <synonym>Carcinomas, Bronchioloalveolar</synonym>
+    <synonym>ALVEOLAR CELL CARCINOMA</synonym>
+    <synonym>CARCINOMA, ALVEOLAR CELL</synonym>
+    <synonym>Adenocarcinoma, Bronchiolo-Alveolar</synonym>
+    <synonym>Adenocarcinoma, Bronchiolo Alveolar</synonym>
+    <synonym>Adenocarcinomas, Bronchiolo-Alveolar</synonym>
+    <synonym>Bronchiolo-Alveolar Adenocarcinomas</synonym>
+    <synonym>Bronchiolo-Alveolar Adenocarcinoma</synonym>
+    <synonym>Carcinoma, Bronchiolo-Alveolar</synonym>
+    <synonym>Bronchiolo-Alveolar Carcinomas</synonym>
+    <synonym>Carcinoma, Bronchiolo Alveolar</synonym>
+    <synonym>Carcinomas, Bronchiolo-Alveolar</synonym>
+    <synonym>Bronchiolo-Alveolar Carcinoma</synonym>
+    <synonym>Carcinoma, Bronchiolar</synonym>
+    <synonym>Bronchiolar Carcinomas</synonym>
+    <synonym>Carcinomas, Bronchiolar</synonym>
+    <synonym>Bronchiolar Carcinoma</synonym>
+    <synonym>Adenocarcinoma, Alveolar</synonym>
+    <synonym>Adenocarcinomas, Alveolar</synonym>
+    <synonym>Alveolar Adenocarcinomas</synonym>
+    <synonym>Alveolar Adenocarcinoma</synonym>
+    <synonym>Carcinoma, Alveolar</synonym>
+    <synonym>Alveolar Carcinomas</synonym>
+    <synonym>Carcinomas, Alveolar</synonym>
+    <synonym>Alveolar Carcinoma</synonym>
+    <synonym>BRONCHIOLAR ALVEOLAR CELL CARCINOMA</synonym>
+    <synonym>BRONCHIOLAR-ALVEOLAR CELL CARCINOMA</synonym>
+    <synonym>BAC</synonym>
+    <synonym>bronchoalveolar cell lung cancer</synonym>
+    <synonym>lung cancer, bronchoalveolar cell</synonym>
+    <synonym>Bronchioalveolar Adenocarcinoma of the Lung</synonym>
+    <synonym>Bronchioalveolar Adenocarcinoma of Lung</synonym>
+    <synonym>Bronchiolo-Alveolar Lung Carcinoma</synonym>
+    <synonym>Bronchiolo-Alveolar Carcinoma of Lung</synonym>
+    <synonym>Bronchiolo-Alveolar Carcinoma of the Lung</synonym>
+    <synonym>Bronchioalveolar Lung Carcinoma</synonym>
+    <synonym>bronchoalveolar carcinoma</synonym>
+    <synonym>Bronchioloalveolar Adenocarcinoma of Lung</synonym>
+    <synonym>Bronchioloalveolar Adenocarcinoma of the Lung</synonym>
+    <synonym>Bronchioloalveolar Lung Adenocarcinoma</synonym>
+    <synonym>Adenocarcinoma, Bronchiolo-Alveolar [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C1838979</id>
+  <preferred_synonym>MITOCHONDRIAL COMPLEX I DEFICIENCY</preferred_synonym>
+  <type>Disease</type>
+  <definition></definition>
+</concept>

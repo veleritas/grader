@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C1970028</id>
+  <preferred_synonym>MALARIA, SUSCEPTIBILITY TO</preferred_synonym>
+  <type>Disease</type>
+  <definition></definition>
+</concept>

@@ -1,4 +1,5 @@
-# last updated 2014-12-12 toby
+# last updated 2014-12-16 toby
+import os
 import re
 
 def parse_morbidmap():
@@ -24,10 +25,15 @@ def parse_morbidmap():
 
 	return genes
 
-if __name__ == "__main__":
+def main():
+	debugdir = "/home/toby/grader/debug/"
+	if not os.path.exists(debugdir):
+		os.makedirs(debugdir)
+
+#	print sorted morbidmap
 	genes = parse_morbidmap()
 	dmims = sorted(list(genes))
-	place = "/home/toby/grader/debug/sorted_morbidmap.txt"
+	place = debugdir + "sorted_morbidmap.txt"
 	with open(place, "w") as out:
 		for dmim in dmims:
 			out.write("#" + dmim)
@@ -35,14 +41,25 @@ if __name__ == "__main__":
 				out.write("|" + gmim)
 			out.write("\n")
 
-
-	ans = [0 for x in range(30)]
+#	generate testset
+	names = [ [] for x in range(30)]
 	for dmim in dmims:
-		ans[len(genes[dmim])] += 1
+		names[len(genes[dmim])].append(dmim)
 
-	with open("/home/toby/grader/debug/tograde.txt", "w") as out:
-		for dmim in dmims:
-			if len(genes[dmim]) >= 5:
-				out.write(dmim + "\n")
+	print "length of names"
+	print [len(val) for val in names]
 
-	print ans
+	min_genes = 9
+	total = 0
+	ans = []
+	for i, val in enumerate(names):
+		print "i", i, "len(val)", len(val)
+		if i >= min_genes:
+			ans += val
+
+	with open(debugdir + "tograde.txt", "w") as out:
+		for dmim in ans:
+			out.write(dmim + "\n")
+
+if __name__ == "__main__":
+	main()

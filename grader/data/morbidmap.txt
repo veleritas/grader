@@ -1732,7 +1732,6 @@ Deafness, autosomal recessive 76, 615540 (3)|SYNE4, NESP4, C19orf46, DFNB76|6155
 Deafness, autosomal recessive 77, 613079 (3)|LOXHD1, DFNB77|613072|18q21.1
 Deafness, autosomal recessive 79, 613307 (3)|TPRN, C9orf75, DFNB79|613354|9q34.3
 Deafness, autosomal recessive 8/10, 601072 (3)|TMPRSS3, ECHOS1, DFNB8, DFNB10|605511|21q22.3
-Deafness, autosomal recessive 81 (2)|DFNB81|614129|19p13
 Deafness, autosomal recessive 83 (2)|DFNB83|613685|9p23-p21.2
 Deafness, autosomal recessive 84A, 613391 (3)|PTPRQ, PTPGMC1, DFNB84A|603317|12q21.31
 Deafness, autosomal recessive 84B, 614944 (3)|OTOGL, C12orf64, DFNB84B|614925|12q21.31

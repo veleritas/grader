@@ -9,5 +9,9 @@ def move_and_replace(file, dest):
 		os.remove(dest + file)
 	shutil.move(file, dest)
 
+def make_dir(loc):
+	if not os.path.exists(loc):
+		os.makedirs(loc)
+
 def is_cui(cui):
 	return re.match(r'C\w\d{6}$', cui) is not None

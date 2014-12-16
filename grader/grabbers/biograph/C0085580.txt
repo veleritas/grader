@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0085580</id>
+  <preferred_synonym>Essential Hypertension</preferred_synonym>
+  <type>Disease</type>
+  <definition>hypertension occurring without preexisting renal disease or known organic cause.</definition>
+  <synonyms>
+    <synonym>Essential Hypertension</synonym>
+    <synonym>HYPERTENSION, ESSENTIAL</synonym>
+    <synonym>Hypertension NOS</synonym>
+    <synonym>Unspecified essential hypertension</synonym>
+    <synonym>Primary Hypertension</synonym>
+    <synonym>HYPERTENSION, ARTERIAL, IDIOPATHIC</synonym>
+    <synonym>idiopathic hypertension</synonym>
+    <synonym>Essential (primary) hypertension</synonym>
+    <synonym>EHT</synonym>
+  </synonyms>
+</concept>

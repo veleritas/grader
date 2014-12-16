@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0007131</id>
+  <preferred_synonym>Carcinoma, Non-Small-Cell Lung</preferred_synonym>
+  <type>Disease</type>
+  <definition>A group of lung cancers that includes squamous cell carcinoma, adenocarcinoma, and large cell carcinoma.</definition>
+  <synonyms>
+    <synonym>Carcinoma, Non-Small-Cell Lung</synonym>
+    <synonym>Carcinoma, Non Small Cell Lung</synonym>
+    <synonym>Carcinoma, Non-Small Cell Lung</synonym>
+    <synonym>Carcinomas, Non-Small-Cell Lung</synonym>
+    <synonym>Lung Carcinomas, Non-Small-Cell</synonym>
+    <synonym>Non-Small-Cell Lung Carcinomas</synonym>
+    <synonym>Non-Small Cell Carcinoma of Lung</synonym>
+    <synonym>Non-Small Cell Carcinoma of the Lung</synonym>
+    <synonym>Non Small Cell Lung Carcinoma</synonym>
+    <synonym>Non-Small-Cell Lung Carcinoma</synonym>
+    <synonym>Lung Carcinoma, Non-Small-Cell</synonym>
+    <synonym>Non-Small Cell Lung Carcinoma</synonym>
+    <synonym>non-oat cell lung cancer</synonym>
+    <synonym>Non-Small Cell Lung Cancer</synonym>
+    <synonym>Lung cancer, non-small cell</synonym>
+    <synonym>Non Small Cell Lung Cancer NOS</synonym>
+    <synonym>Non-Small Cell Cancer of Lung</synonym>
+    <synonym>Non-Small Cell Cancer of the Lung</synonym>
+    <synonym>NSCLC - Non-Small Cell Lung Cancer</synonym>
+    <synonym>NSCLC</synonym>
+    <synonym>NONSMALL CELL LUNG CANCER</synonym>
+    <synonym>lung cancer, nonsmall cell</synonym>
+    <synonym>NONSMALL CELL LUNG CARCINOMA</synonym>
+    <synonym>Carcinoma, Non-Small-Cell Lung [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

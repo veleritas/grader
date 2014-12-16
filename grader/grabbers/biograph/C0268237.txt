@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0268237</id>
+  <preferred_synonym>Cytochrome-c Oxidase Deficiency</preferred_synonym>
+  <type>Disease</type>
+  <definition>A disease that results from a congenital defect in ELECTRON TRANSPORT COMPLEX IV. Defects in ELECTRON TRANSPORT COMPLEX IV can be caused by mutations in the SURF1, SCO2, COX10, or SCO1 genes. ELECTRON TRANSPORT COMPLEX IV deficiency caused by mutation in </definition>
+  <synonyms>
+    <synonym>Cytochrome-c Oxidase Deficiency</synonym>
+    <synonym>CYTOCHROME c OXIDASE DEFICIENCY</synonym>
+    <synonym>Cytochrome-c Oxidase Deficiencies</synonym>
+    <synonym>Deficiencies, Cytochrome-c Oxidase</synonym>
+    <synonym>Oxidase Deficiencies, Cytochrome-c</synonym>
+    <synonym>Deficiency, Cytochrome c Oxidase</synonym>
+    <synonym>Deficiency, Cytochrome-c Oxidase</synonym>
+    <synonym>Oxidase Deficiency, Cytochrome-c</synonym>
+    <synonym>Cytochrome Oxidase Deficiency</synonym>
+    <synonym>Cytochrome Oxidase Deficiencies</synonym>
+    <synonym>Deficiencies, Cytochrome Oxidase</synonym>
+    <synonym>Oxidase Deficiencies, Cytochrome</synonym>
+    <synonym>Deficiency, Cytochrome Oxidase</synonym>
+    <synonym>Oxidase Deficiency, Cytochrome</synonym>
+    <synonym>COX DEFICIENCY</synonym>
+    <synonym>MITOCHONDRIAL COMPLEX IV DEFICIENCY</synonym>
+    <synonym>CYTOCHROME C OXIDASE DEFIC</synonym>
+    <synonym>DEFIC CYTOCHROME OXIDASE C</synonym>
+    <synonym>CYTOCHROME OXIDASE DEFIC</synonym>
+    <synonym>Cytochrome-c Oxidase Deficiency [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

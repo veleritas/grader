@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0023264</id>
+  <preferred_synonym>Leigh Disease</preferred_synonym>
+  <type>Disease</type>
+  <definition>An inherited disorder affecting the nervous system, caused by genetic mutations in the mitochondrial DNA or deficiency of pyruvate dehydrogenase. Signs and symptoms appear in infancy and include loss of the motor abilities, poor sucking abilities, irritab</definition>
+  <synonyms>
+    <synonym>Leigh Disease</synonym>
+    <synonym>Leigh's disease</synonym>
+    <synonym>Disease, Leigh's</synonym>
+    <synonym>Leighs Disease</synonym>
+    <synonym>Encephalomyelopathy, Subacute Necrotizing</synonym>
+    <synonym>ENCEPHALOMYELOPATHY, NECROTIZING, SUBACUTE</synonym>
+    <synonym>subacute necrotizing encephalomyelopathy</synonym>
+    <synonym>Encephalomyelopathies, Subacute Necrotizing</synonym>
+    <synonym>Necrotizing Encephalomyelopathies, Subacute</synonym>
+    <synonym>Subacute Necrotizing Encephalomyelopathies</synonym>
+    <synonym>Necrotizing Encephalomyelopathy, Subacute</synonym>
+    <synonym>Encephalopathy, Subacute Necrotizing</synonym>
+    <synonym>Subacute necrotizing encephalopathy</synonym>
+    <synonym>Encephalopathies, Subacute Necrotizing</synonym>
+    <synonym>Necrotizing Encephalopathies, Subacute</synonym>
+    <synonym>Subacute Necrotizing Encephalopathies</synonym>
+    <synonym>Necrotizing Encephalopathy, Subacute</synonym>
+    <synonym>SNE</synonym>
+    <synonym>Leigh Syndrome</synonym>
+    <synonym>LS</synonym>
+    <synonym>Encephalomyelitis, Subacute Necrotizing</synonym>
+    <synonym>Encephalomyelitides, Subacute Necrotizing</synonym>
+    <synonym>Necrotizing Encephalomyelitides, Subacute</synonym>
+    <synonym>Subacute Necrotizing Encephalomyelitides</synonym>
+    <synonym>Necrotizing Encephalomyelitis, Subacute</synonym>
+    <synonym>Subacute Necrotizing Encephalomyelitis</synonym>
+    <synonym>LEIGH DIS</synonym>
+    <synonym>LEIGHS DIS</synonym>
+    <synonym>ENCEPH SUBACUTE NECROTIZING</synonym>
+    <synonym>SUBACUTE NECROTIZING ENCEPH</synonym>
+    <synonym>Leigh Disease [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0011860</id>
+  <preferred_synonym>Diabetes Mellitus, Non-Insulin-Dependent</preferred_synonym>
+  <type>Disease</type>
+  <definition>A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors </definition>
+  <synonyms>
+    <synonym>Diabetes Mellitus, Non-Insulin-Dependent</synonym>
+    <synonym>DIABETES MELLITUS, NON-INSULIN DEPENDENT</synonym>
+    <synonym>Diabetes Mellitus, Non Insulin Dependent</synonym>
+    <synonym>Non-Insulin-Dependent Diabetes Mellitus</synonym>
+    <synonym>Non-Insulin Dependent Diabetes Mellitus</synonym>
+    <synonym>Diabetes Mellitus, Adult-Onset</synonym>
+    <synonym>ADULT ONSET DIABETES MELLITUS</synonym>
+    <synonym>DIABETES MELLITUS (ADULT ONSET)</synonym>
+    <synonym>Diabetes Mellitus, Adult Onset</synonym>
+    <synonym>Adult-Onset Diabetes Mellitus</synonym>
+    <synonym>Diabetes Mellitus, Ketosis-Resistant</synonym>
+    <synonym>Diabetes Mellitus, Ketosis Resistant</synonym>
+    <synonym>Ketosis-Resistant Diabetes Mellitus</synonym>
+    <synonym>Diabetes Mellitus, Stable</synonym>
+    <synonym>Stable Diabetes Mellitus</synonym>
+    <synonym>Diabetes Mellitus, Type 2</synonym>
+    <synonym>Type 2 diabetes mellitus</synonym>
+    <synonym>Diabetes Mellitus, Type II</synonym>
+    <synonym>type II diabetes mellitus</synonym>
+    <synonym>NIDDM</synonym>
+    <synonym>Adult-Onset Diabetes</synonym>
+    <synonym>DIABETES, ADULT ONSET</synonym>
+    <synonym>Adult onset diabetes</synonym>
+    <synonym>AODM</synonym>
+    <synonym>Diabetes Mellitus, Noninsulin Dependent</synonym>
+    <synonym>noninsulin dependent diabetes mellitus</synonym>
+    <synonym>NONINSULIN-DEPENDENT DIABETES MELLITUS</synonym>
+    <synonym>DIABETES MELLITUS, NONINSULIN-DEPENDENT</synonym>
+    <synonym>DIABETES, KETOSIS RESISTANT</synonym>
+    <synonym>ketosis resistant diabetes</synonym>
+    <synonym>Maturity-Onset Diabetes Mellitus</synonym>
+    <synonym>Maturity Onset Diabetes Mellitus</synonym>
+    <synonym>Diabetes Mellitus, Maturity Onset</synonym>
+    <synonym>Diabetes Mellitus, Maturity-Onset</synonym>
+    <synonym>MATURITY-ONSET DIABETES</synonym>
+    <synonym>DIABETES, MATURITY ONSET</synonym>
+    <synonym>MOD</synonym>
+    <synonym>MODY</synonym>
+    <synonym>Diabetes Mellitus, Slow-Onset</synonym>
+    <synonym>Diabetes Mellitus, Slow Onset</synonym>
+    <synonym>Slow-Onset Diabetes Mellitus</synonym>
+    <synonym>Type II diabetes</synonym>
+    <synonym>Diabetes, Type 2</synonym>
+    <synonym>type 2 diabetes</synonym>
+    <synonym>Non-Insulin Dependent Diabetes</synonym>
+    <synonym>DIABETES MELLITUS TYPE 02</synonym>
+    <synonym>Diabetes Mellitus, Type 2 [Disease/Finding]</synonym>
+    <synonym>Type 2 Diabetes Mellitus Non-Insulin Dependent</synonym>
+    <synonym>T2D</synonym>
+    <synonym>T2DM - Type 2 Diabetes mellitus</synonym>
+  </synonyms>
+</concept>

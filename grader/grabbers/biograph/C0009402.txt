@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0009402</id>
+  <preferred_synonym>Carcinoma of the Large Intestine</preferred_synonym>
+  <type>Disease</type>
+  <definition>A cancer arising from the epithelial cells that line the lumen of the colon.</definition>
+  <synonyms>
+    <synonym>Carcinoma of the Large Intestine</synonym>
+    <synonym>Large Intestine Carcinoma</synonym>
+    <synonym>Carcinoma of Large Intestine</synonym>
+    <synonym>COLORECTAL CANCER</synonym>
+    <synonym>Colorectal Carcinoma</synonym>
+    <synonym>Carcinomas, Colorectal</synonym>
+    <synonym>Colorectal Carcinomas</synonym>
+    <synonym>Carcinoma, Colorectal</synonym>
+    <synonym>CRC</synonym>
+    <synonym>Cancer of the Large Bowel</synonym>
+    <synonym>Large Bowel Cancer</synonym>
+    <synonym>Cancer of Large Bowel</synonym>
+    <synonym>Cancer of the Large Intestine</synonym>
+    <synonym>Large Intestine Cancer</synonym>
+    <synonym>Cancer of Large Intestine</synonym>
+    <synonym>Carcinoma of the Large Bowel</synonym>
+    <synonym>Large Bowel Carcinoma</synonym>
+    <synonym>Carcinoma of Large Bowel</synonym>
+    <synonym>Colo-rectal cancer</synonym>
+  </synonyms>
+</concept>

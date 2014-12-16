@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0036341</id>
+  <preferred_synonym>Schizophrenia</preferred_synonym>
+  <type>Disease</type>
+  <definition>A major psychotic disorder characterized by abnormalities in the perception or expression of reality. It affects the cognitive and psychomotor functions. Common clinical signs and symptoms include delusions, hallucinations, disorganized thinking, and retr</definition>
+  <synonyms>
+    <synonym>Schizophrenia</synonym>
+    <synonym>Schizophrenias</synonym>
+    <synonym>Schizophrenia NOS</synonym>
+    <synonym>Dementia Praecox</synonym>
+    <synonym>Schizophrenic Disorders</synonym>
+    <synonym>Disorder, Schizophrenic</synonym>
+    <synonym>Schizophrenic Disorder</synonym>
+    <synonym>Disorders, Schizophrenic</synonym>
+    <synonym>unspecified schizophrenia</synonym>
+    <synonym>Schizophrenia, unspecified</synonym>
+    <synonym>Unspecified schizophrenia, unspecified state</synonym>
+    <synonym>Schizophrenia all types</synonym>
+    <synonym>SCHIZOPHRENIC DIS</synonym>
+    <synonym>SCZD</synonym>
+    <synonym>Schizophrenia NOS-unspec</synonym>
+    <synonym>Schizophrenia [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

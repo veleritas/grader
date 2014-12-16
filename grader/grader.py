@@ -1,4 +1,4 @@
-# last updated 2014-12-12 toby
+# last updated 2014-12-15 toby
 
 import os
 
@@ -19,9 +19,8 @@ gmim_to_geneID = get_all_geneIDs()
 
 #-----------------------END GLOBAL VARIABLES------------------------------------
 
-def evaluate(cui, ranking, true_hits):
-	outloc = "/home/toby/grader/data/roc/"
-	with open(outloc + cui + ".txt", "w") as out:
+def evaluate(cui, ranking, true_hits, ofile):
+	with open(ofile, "w") as out:
 		out.write("class,score\n")
 		for geneID, score in ranking:
 			if geneID in true_hits:
@@ -34,10 +33,6 @@ def evaluate(cui, ranking, true_hits):
 #-------------------------------------------------------------------------------
 
 def preprocess():
-	rocloc = "/home/toby/grader/data/roc/"
-	if not os.path.exists(rocloc):
-		os.makedirs(rocloc)
-
 	debug.print_genes(genes)
 	debug.print_IDs(gmim_to_geneID)
 
@@ -49,10 +44,9 @@ def can_grade(cui):
 
 	return []
 
-def get_gene_ranking(cui):
+def get_gene_ranking(ifile):
 	ranking = []
-	place = "/home/toby/grader/data/input/"
-	with open(place + cui + ".txt") as source:
+	with open(ifile) as source:
 		for line in source:
 			line = line.rstrip('\n')
 			gid, score = line.split()
@@ -60,26 +54,42 @@ def get_gene_ranking(cui):
 
 	return ranking
 
-def prepare(cui, dmims):
-	ranking = get_gene_ranking(cui)
+def prepare(cui, dmims, inloc, ofile):
+	ranking = get_gene_ranking(inloc)
 
 	true_hits = []
 	for dmim in dmims:
 		if dmim in genes:
 			true_hits += [gmim_to_geneID[gmim] for gmim in genes[dmim] if gmim in gmim_to_geneID]
 
-	evaluate(cui, ranking, true_hits)
+	evaluate(cui, ranking, true_hits, ofile)
+
 
 def main():
-	place = "/home/toby/grader/data/input/"
-	for filename in os.listdir(place):
-		cui = filename[:-4]
-		dmims = can_grade(cui)
-		if util.is_cui(cui) and dmims:
-			print "Graded", cui
-			prepare(cui, dmims)
-		else:
-			print "ERROR: cannot grade " + cui
+	start = "/home/toby/grader/data/input/"
+	outloc = "/home/toby/grader/data/roc/"
+
+	subdirs = []
+	for root, dirs, files in os.walk(start):
+		if root == start:
+			subdirs += dirs
+			break
+
+	for subdir in subdirs:
+		util.make_dir(os.path.join(outloc, subdir))
+
+		files = os.listdir(start + subdir)
+		for fname in files:
+			inloc = os.path.join(start, subdir, fname)
+			ofile = os.path.join(outloc, subdir, fname)
+
+			cui = fname[:-4]
+			dmims = can_grade(cui)
+			if util.is_cui(cui) and dmims:
+				print "Grading", subdir, cui
+				prepare(cui, dmims, inloc, ofile)
+			else:
+				print "Can't grade", subdir, cui
 
 if __name__ == "__main__":
 	preprocess()

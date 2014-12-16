@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0028754</id>
+  <preferred_synonym>Obesity</preferred_synonym>
+  <type>Disease</type>
+  <definition>A disorder characterized by having a high amount of body fat.</definition>
+  <synonyms>
+    <synonym>Obesity</synonym>
+    <synonym>Obesity NOS</synonym>
+    <synonym>OBESE</synonym>
+    <synonym>Obesity, unspecified</synonym>
+    <synonym>Obesity [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

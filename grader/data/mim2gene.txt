@@ -5979,7 +5979,7 @@
 267300	phenotype	-	-
 267400	predominantly phenotypes	-	-
 267430	phenotype	-	-
-267450	phenotype	-	-
+267450	predominantly phenotypes	-	-
 267480	predominantly phenotypes	-	-
 267500	phenotype	-	-
 267700	phenotype	27259	HPLH1
@@ -23861,4 +23861,8 @@
 616128	gene	23625	FAM89B
 616129	gene	541468	LURAP1
 616130	gene	286343	LURAP1L
+616131	gene	-	-
+616132	gene	-	-
 616133	gene	84769	MPV17L2
+616134	gene	-	-
+616137	gene	-	-

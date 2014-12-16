@@ -1,23 +1,34 @@
-# last updated 2014-12-12 toby
+# last updated 2014-12-16 toby
 
 # draws ROC curves for all CUIs calculated by grader.py
 
 library(ROCR)
-
-getCUI <- function (name)
+get_cui <- function (fname)
 {
-  return(substr(name, 1, 8))
+  return(substr(fname, 1, 8))
 }
 
-drawCurve <- function (name)
+draw_curve <- function (idir, odir, fname)
 {
-	loc <- paste(c(rocloc, name), collapse="")
+	loc <- paste(c(idir, fname), collapse = "")
+	print("location")
 	rawdata <- read.csv(loc)
 
 	scores <- rawdata$score
 	class <- rawdata$class
 
-	print(c("Drawing ROC for", name))
+	if (length(scores) == 0) {
+		print(c("empty file for", idir, fname))
+
+
+		return()
+
+	}
+
+
+
+
+	print(c("Drawing ROC for", idir, fname))
 
 	# all the same
 	if (diff(range(class)) == 0) {
@@ -32,12 +43,13 @@ drawCurve <- function (name)
 	pred <- prediction(scores, class)
 	perf <- performance(pred, measure = "tpr", x.measure = "fpr")
 
-	pngloc <- "/home/toby/grader/curves/"
-	cui <- substr(name, 1, 8)
+	pngloc <- odir
+	cui <- substr(fname, 1, 8)
 
 	pngname <- paste(c(pngloc, cui, ".png"), collapse="")
 
 	png(filename=pngname, height=800, width=800, bg="white")
+
 
 	plot(perf, main=cui, type="o", col="blue")
 	abline(a="0", b="1", lty=2)
@@ -55,13 +67,24 @@ drawCurve <- function (name)
 
 #-------------------------------------------------------------------------------
 
-rocloc <- "/home/toby/grader/data/roc/"
-fnames <- list.files(rocloc)
+inloc <- "/home/toby/grader/data/roc/"
+outloc <- "/home/toby/grader/curves/"
 
-temp <- "/home/toby/grader/curves/"
-dir.create(temp, showWarnings=TRUE)
+dir.create(outloc, showWarnings = FALSE)
 
-work <- lapply(fnames, function (name)
+# for all directories:
+dirs <- list.files(inloc)
+traverse <- lapply(dirs, function (dname)
 {
-	drawCurve(name)
+#	make output directory
+	outdir <- paste(c(outloc, dname, "/"), collapse = "")
+	dir.create(outdir, showWarnings=FALSE)
+
+	subdir <- paste(c(inloc, dname, "/"), collapse = "")
+
+	files <- list.files(subdir)
+	work <- lapply(files, function (fname)
+	{
+		draw_curve(subdir, outdir, fname)
+	})
 })

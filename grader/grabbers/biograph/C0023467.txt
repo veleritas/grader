@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0023467</id>
+  <preferred_synonym>Leukemia, Myelocytic, Acute</preferred_synonym>
+  <type>Disease</type>
+  <definition>A quickly progressing disease in which too many immature blood-forming cells are found in the blood and bone marrow.</definition>
+  <synonyms>
+    <synonym>Leukemia, Myelocytic, Acute</synonym>
+    <synonym>Acute myelocytic leukemia</synonym>
+    <synonym>Acute Myelocytic Leukemias</synonym>
+    <synonym>Leukemias, Acute Myelocytic</synonym>
+    <synonym>Myelocytic Leukemias, Acute</synonym>
+    <synonym>Leukemia, Acute Myelocytic</synonym>
+    <synonym>Myelocytic Leukemia, Acute</synonym>
+    <synonym>LEUKEMIA, GRANULOCYTIC, ACUTE</synonym>
+    <synonym>acute granulocytic leukemia</synonym>
+    <synonym>Leukemia, Myeloid, Acute</synonym>
+    <synonym>Acute myeloid leukemia</synonym>
+    <synonym>Myeloid leukemia, acute</synonym>
+    <synonym>leukemia, acute myeloid</synonym>
+    <synonym>Acute Myeloid Leukemia NOS</synonym>
+    <synonym>Acute Myeloid Leukemia, NOS</synonym>
+    <synonym>Acute Myeloid Leukemias</synonym>
+    <synonym>Leukemias, Acute Myeloid</synonym>
+    <synonym>Myeloid Leukemias, Acute</synonym>
+    <synonym>ANLL</synonym>
+    <synonym>Leukemia, Nonlymphocytic, Acute</synonym>
+    <synonym>acute nonlymphocytic leukemia</synonym>
+    <synonym>leukemia, acute nonlymphocytic</synonym>
+    <synonym>Acute Nonlymphocytic Leukemias</synonym>
+    <synonym>Leukemias, Acute Nonlymphocytic</synonym>
+    <synonym>Nonlymphocytic Leukemias, Acute</synonym>
+    <synonym>Nonlymphocytic Leukemia, Acute</synonym>
+    <synonym>Leukemia, Myeloblastic, Acute</synonym>
+    <synonym>ACUTE MYELOBLASTIC LEUKEMIA</synonym>
+    <synonym>LEUKEMIA ACUTE MYELOBLASTIC</synonym>
+    <synonym>LEUKEMIA MYELOBLASTIC ACUTE</synonym>
+    <synonym>Acute Myeloblastic Leukemias</synonym>
+    <synonym>Leukemias, Acute Myeloblastic</synonym>
+    <synonym>Myeloblastic Leukemias, Acute</synonym>
+    <synonym>Acute myeloblastic leukemia NOS</synonym>
+    <synonym>Leukemia, Acute Myeloblastic</synonym>
+    <synonym>Myeloblastic Leukemia, Acute</synonym>
+    <synonym>Leukemia, Myelogenous, Acute</synonym>
+    <synonym>Acute myelogenous leukemia</synonym>
+    <synonym>LEUKEMIA, ACUTE MYELOGENOUS</synonym>
+    <synonym>Acute Myelogenous Leukemias</synonym>
+    <synonym>Leukemias, Acute Myelogenous</synonym>
+    <synonym>Myelogenous Leukemias, Acute</synonym>
+    <synonym>Myelogenous Leukemia, Acute</synonym>
+    <synonym>Nonlymphoblastic Leukemia, Acute</synonym>
+    <synonym>Acute Nonlymphoblastic Leukemias</synonym>
+    <synonym>Leukemias, Acute Nonlymphoblastic</synonym>
+    <synonym>Nonlymphoblastic Leukemias, Acute</synonym>
+    <synonym>Acute Nonlymphoblastic Leukemia</synonym>
+    <synonym>Leukemia, Acute Nonlymphoblastic</synonym>
+    <synonym>Leukemia, Nonlymphoblastic, Acute</synonym>
+    <synonym>AML</synonym>
+    <synonym>AML, NOS</synonym>
+    <synonym>AML - Acute Myeloid Leukemia</synonym>
+    <synonym>Acute Myeloid Leukemia Not Otherwise Categorized</synonym>
+    <synonym>Acute Myeloid Leukemia Not Otherwise Specified</synonym>
+    <synonym>Hematopoeitic - Acute Myleogenous Leukemia (AML)</synonym>
+    <synonym>Leukemia, Myeloid, Acute [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

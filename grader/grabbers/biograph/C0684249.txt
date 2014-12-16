@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0684249</id>
+  <preferred_synonym>Carcinoma of lung</preferred_synonym>
+  <type>Disease</type>
+  <definition>A carcinoma originating in the lung. Lung carcinomas usually arise from the epithelium that lines the bronchial tree (bronchogenic carcinomas), and are classified as small cell or non-small cell carcinomas. Non-small cell lung carcinomas are usually adeno</definition>
+  <synonyms>
+    <synonym>Carcinoma of lung</synonym>
+    <synonym>LUNG CARCINOMA</synonym>
+    <synonym>CARCINOMA LUNG</synonym>
+    <synonym>Carcinoma of the Lung</synonym>
+    <synonym>PULMONARY CARCINOMA</synonym>
+    <synonym>LUNG CANCER</synonym>
+    <synonym>Cancer of Lung</synonym>
+    <synonym>Cancer of the Lung</synonym>
+    <synonym>Cancer of bronchus; lung</synonym>
+  </synonyms>
+</concept>

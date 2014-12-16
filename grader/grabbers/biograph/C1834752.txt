@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C1834752</id>
+  <preferred_synonym>MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO (finding)</preferred_synonym>
+  <type>Disease</type>
+  <definition></definition>
+  <synonyms>
+    <synonym>MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO (finding)</synonym>
+    <synonym>MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO</synonym>
+  </synonyms>
+</concept>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C2239176</id>
+  <preferred_synonym>Liver carcinoma</preferred_synonym>
+  <type>Disease</type>
+  <definition>(HEP-a-toe-SEL-yoo-ler kar-sin-O-ma) A type of adenocarcinoma, the most common type of liver tumor.</definition>
+  <synonyms>
+    <synonym>Liver carcinoma</synonym>
+    <synonym>CARCINOMA LIVER</synonym>
+    <synonym>CARCINOMA OF LIVER</synonym>
+    <synonym>HEPATOCARCINOMA</synonym>
+    <synonym>Carcinoma, Hepatocellular</synonym>
+    <synonym>HEPATOCELLULAR CARCINOMA</synonym>
+    <synonym>Carcinomas, Hepatocellular</synonym>
+    <synonym>Hepatocellular Carcinomas</synonym>
+    <synonym>Hepatoma</synonym>
+    <synonym>Hepatomas</synonym>
+    <synonym>LIVER CELL CARCINOMA</synonym>
+    <synonym>Carcinoma of liver cell</synonym>
+    <synonym>Carcinoma of Liver Cells</synonym>
+    <synonym>Carcinoma of the Liver Cells</synonym>
+    <synonym>LIVER CANCER, HEPATOCARCINOMA</synonym>
+    <synonym>LIVER, CARCINOMA, PRIMARY</synonym>
+    <synonym>Hepatic Carcinoma</synonym>
+    <synonym>Primary Carcinoma of Liver Cells</synonym>
+    <synonym>Primary Carcinoma of the Liver Cells</synonym>
+    <synonym>Carcinoma of liver, specified as primary</synonym>
+    <synonym>HCC</synonym>
+    <synonym>Hepatocellular Cancer</synonym>
+    <synonym>Cancers, Hepatocellular</synonym>
+    <synonym>Hepatocellular Cancers</synonym>
+    <synonym>Cancer, Hepatocellular</synonym>
+    <synonym>LCC</synonym>
+    <synonym>Carcinoma, Hepatocellular [Disease/Finding]</synonym>
+    <synonym>Liver Cell Cancer (Hepatocellular Carcinoma)</synonym>
+    <synonym>Liver Cancer, Adult</synonym>
+    <synonym>Adult Liver Cancers</synonym>
+    <synonym>Cancers, Adult Liver</synonym>
+    <synonym>Liver Cancers, Adult</synonym>
+    <synonym>Adult Liver Cancer</synonym>
+    <synonym>Cancer, Adult Liver</synonym>
+    <synonym>Liver Cell Carcinoma, Adult</synonym>
+  </synonyms>
+</concept>

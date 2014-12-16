@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0699790</id>
+  <preferred_synonym>Colon Carcinoma</preferred_synonym>
+  <type>Disease</type>
+  <definition>A disease in which malignant (cancer) cells are found in the tissues of the colon.</definition>
+  <synonyms>
+    <synonym>Colon Carcinoma</synonym>
+    <synonym>CARCINOMA COLON</synonym>
+    <synonym>COLON, CARCINOMA</synonym>
+    <synonym>CARCINOMA OF COLON</synonym>
+    <synonym>Carcinoma of the Colon</synonym>
+    <synonym>Colon cancer</synonym>
+    <synonym>COLON CANCER, CARCINOMA</synonym>
+    <synonym>Colonic Carcinoma</synonym>
+  </synonyms>
+</concept>

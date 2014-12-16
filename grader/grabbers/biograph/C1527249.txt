@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C1527249</id>
+  <preferred_synonym>Colorectal Cancer</preferred_synonym>
+  <type>Disease</type>
+  <definition></definition>
+  <synonyms>
+    <synonym>Colorectal Cancer</synonym>
+    <synonym>Cancers, Colorectal</synonym>
+    <synonym>Colorectal Cancers</synonym>
+    <synonym>Cancer, Colorectal</synonym>
+  </synonyms>
+</concept>

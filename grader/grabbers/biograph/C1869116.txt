@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C1869116</id>
+  <preferred_synonym>ASTHMA, SUSCEPTIBILITY TO (finding)</preferred_synonym>
+  <type>Disease</type>
+  <definition></definition>
+  <synonyms>
+    <synonym>ASTHMA, SUSCEPTIBILITY TO (finding)</synonym>
+    <synonym>ASTHMA, BRONCHIAL</synonym>
+    <synonym>ASTHMA, SUSCEPTIBILITY TO</synonym>
+    <synonym>ASTHMA-RELATED TRAITS, SUSCEPTIBILITY TO</synonym>
+  </synonyms>
+</concept>

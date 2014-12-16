@@ -1,1 +1,0 @@
-c1.cui	c1.name	c1.cui	c1.name	c1.diseaseClassName	c1.STY	c1.cui	c1.name	c2.geneId	c2.name	c2.geneId	c2.name	c2.uniprotId	c2.description	c2.pathName	c2.pantherName	c2.geneId	c2.name	c0.score	c0.diseaseId	c0.score	c0.geneId	c0.score	c0.diseaseId	c0.geneId	c0.score	c0.diseaseId	c0.geneId	c0.score	c0.pmids

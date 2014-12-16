@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C1838021</id>
+  <preferred_synonym>MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO, 1</preferred_synonym>
+  <type>Disease</type>
+  <definition></definition>
+  <synonyms>
+    <synonym>MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO, 1</synonym>
+    <synonym>MCI1</synonym>
+    <synonym>MYOCARDIAL INFARCTION, PREMATURE, SUSCEPTIBILITY TO</synonym>
+  </synonyms>
+</concept>

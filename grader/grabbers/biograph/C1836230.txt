@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C1836230</id>
+  <preferred_synonym>HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO</preferred_synonym>
+  <type>Disease</type>
+  <definition></definition>
+  <synonyms>
+    <synonym>HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, SUSCEPTIBILITY TO</synonym>
+    <synonym>HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, RESISTANCE TO</synonym>
+    <synonym>HIV-1, SUSCEPTIBILITY TO</synonym>
+  </synonyms>
+</concept>

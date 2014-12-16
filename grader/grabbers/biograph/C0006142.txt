@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0006142</id>
+  <preferred_synonym>Malignant neoplasm of breast</preferred_synonym>
+  <type>Disease</type>
+  <definition>A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males. -- 2003</definition>
+  <synonyms>
+    <synonym>Malignant neoplasm of breast</synonym>
+    <synonym>Malignant neoplasm breast</synonym>
+    <synonym>Malignant Breast Neoplasm</synonym>
+    <synonym>Malignant Neoplasm of the Breast</synonym>
+    <synonym>Breast Cancer</synonym>
+    <synonym>Cancer of Breast</synonym>
+    <synonym>Cancer of the Breast</synonym>
+    <synonym>Cancer, Breast</synonym>
+    <synonym>Malignant Breast Tumor</synonym>
+    <synonym>Malignant Tumor of Breast</synonym>
+    <synonym>Malignant Tumor of the Breast</synonym>
+    <synonym>Malignant neoplasm of breast, unspecified</synonym>
+  </synonyms>
+</concept>

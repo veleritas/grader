@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# last updated 2014-12-12 toby
+# last updated 2014-12-16 toby
 
 # this puts everything together...
 
@@ -13,12 +13,20 @@ cd ..
 echo "Finished updating OMIM"
 
 echo "Querying disgenet"
-python query_disgenet.py testset.txt
+cd grabbers/disgenet
+python query.py testset.txt
+python sanitize.py
+cd ..
 echo "Finished querying disgenet"
 
-echo "Sanitizing disgenet"
-python disgenet_sanitizer.py
-echo "Done sanitizing disgenet"
+echo "Querying biograph"
+cd biograph
+python query.py testset.txt
+python sanitize.py
+cd ..
+echo "Finished querying biograph"
+
+cd ..
 
 echo "Running grader"
 python grader.py

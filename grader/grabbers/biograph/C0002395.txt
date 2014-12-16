@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0002395</id>
+  <preferred_synonym>Alzheimer's Disease</preferred_synonym>
+  <type>Disease</type>
+  <definition>A progressive, neurodegenerative disease characterized by loss of function and death of nerve cells in several areas of the brain leading to loss of cognitive function such as memory and language.</definition>
+  <synonyms>
+    <synonym>Alzheimer's Disease</synonym>
+    <synonym>Alzheimer Disease</synonym>
+    <synonym>Disease, Alzheimer</synonym>
+    <synonym>Disease, Alzheimer's</synonym>
+    <synonym>Primary Senile Degenerative Dementia</synonym>
+    <synonym>Dementia, Primary Senile Degenerative</synonym>
+    <synonym>Dementia, Senile</synonym>
+    <synonym>Dementias, Senile</synonym>
+    <synonym>Senile Dementias</synonym>
+    <synonym>Senile Dementia</synonym>
+    <synonym>PRIMARY DEGENERATIVE DEMENTIA</synonym>
+    <synonym>primary degenerative dementia NOS</synonym>
+    <synonym>Senile Dementia, Alzheimer Type</synonym>
+    <synonym>SENILE DEMENTIA OF THE ALZHEIMER TYPE</synonym>
+    <synonym>Alzheimer Type Senile Dementia</synonym>
+    <synonym>Dementia, Alzheimer Type</synonym>
+    <synonym>DEMENTIA OF THE ALZHEIMER TYPE</synonym>
+    <synonym>Dementia of the Alzheimer's type</synonym>
+    <synonym>Alzheimer Type Dementia</synonym>
+    <synonym>DAT</synonym>
+    <synonym>SDAT</synonym>
+    <synonym>AD</synonym>
+    <synonym>Alzheimer's disease, unspecified</synonym>
+    <synonym>Alzheimer's Dementia</synonym>
+    <synonym>simple senile dementia</synonym>
+    <synonym>Alzheimers Disease</synonym>
+    <synonym>ALZHEIMER DIS</synonym>
+    <synonym>ALZHEIMERS DIS</synonym>
+    <synonym>Alzheimer Disease [Disease/Finding]</synonym>
+  </synonyms>
+</concept>

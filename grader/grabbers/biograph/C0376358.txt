@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concept>
+  <id>C0376358</id>
+  <preferred_synonym>Malignant neoplasm of prostate</preferred_synonym>
+  <type>Disease</type>
+  <definition>A primary or metastatic malignant tumor involving the prostate gland. The vast majority are carcinomas. -- 2003</definition>
+  <synonyms>
+    <synonym>Malignant neoplasm of prostate</synonym>
+    <synonym>Malignant neoplasm prostate</synonym>
+    <synonym>Malignant Neoplasm of the Prostate</synonym>
+    <synonym>Malignant Prostate Neoplasm</synonym>
+    <synonym>Prostate Cancer</synonym>
+    <synonym>Cancer of prostate</synonym>
+    <synonym>Cancers, Prostate</synonym>
+    <synonym>Prostate Cancers</synonym>
+    <synonym>Cancer of the Prostate</synonym>
+    <synonym>Cancer, Prostate</synonym>
+    <synonym>Prostatic Cancer</synonym>
+    <synonym>Cancers, Prostatic</synonym>
+    <synonym>Prostatic Cancers</synonym>
+    <synonym>Cancer, Prostatic</synonym>
+    <synonym>Malignant Prostate Tumor</synonym>
+    <synonym>Malignant Tumor of Prostate</synonym>
+    <synonym>Malignant Tumor of the Prostate</synonym>
+    <synonym>Malign neopl prostate</synonym>
+  </synonyms>
+</concept>

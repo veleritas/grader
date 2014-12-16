@@ -1,3 +1,4 @@
+# last updated 2014-12-16 toby
 import re
 from convert import query
 
@@ -21,17 +22,29 @@ def uid_to_cui(uids):
 	assert len(res) == len(uids), "different lengths"
 	return [cui[11:-12] for cui in res]
 
+def main():
+	debugdir = "/home/toby/grader/debug/"
+
+	ans = []
+	with open(debugdir + "tograde.txt") as file:
+		for dmim in file:
+			dmim = dmim.rstrip('\n')
+
+			print "dmim", dmim
+			uids = dmim_to_uid(dmim)
+			cuis = uid_to_cui(uids)
+			print "cuis", cuis
+
+			for cui in cuis:
+				if re.match(r'^C\d{7}$', cui):
+					if not (cui in ans):
+						ans.append(cui)
+
+	print "size", len(ans)
+	place = "/home/toby/grader/data/"
+	with open(place + "testset.txt", "w") as out:
+		for cui in ans:
+			out.write(cui + "\n")
+
 if __name__ == "__main__":
-	with open("/home/toby/grader/debug/testset.txt", "w") as out:
-		with open("/home/toby/grader/debug/tograde.txt") as file:
-			for dmim in file:
-				dmim = dmim.rstrip('\n')
-
-				print "dmim", dmim
-				uids = dmim_to_uid(dmim)
-				cuis = uid_to_cui(uids)
-				print "cuis", cuis
-
-				for cui in cuis:
-					if re.match(r'^C\d{7}$', cui):
-						out.write(cui + "\n")
+	main()
