@@ -32,9 +32,6 @@ def evaluate(cui, ranking, true_hits, ofile):
 
 #-------------------------------------------------------------------------------
 
-def preprocess():
-	debug.print_IDs(gmim_to_geneID)
-
 def can_grade(cui):
 	dmims = convert.cui_to_dmim(cui)
 	for dmim in dmims:
@@ -91,5 +88,4 @@ def main():
 				print "Can't grade", subdir, cui
 
 if __name__ == "__main__":
-	preprocess()
 	main()
