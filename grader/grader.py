@@ -1,4 +1,4 @@
-# last updated 2014-12-15 toby
+# last updated 2015-01-09 toby
 
 import os
 
@@ -33,7 +33,6 @@ def evaluate(cui, ranking, true_hits, ofile):
 #-------------------------------------------------------------------------------
 
 def preprocess():
-	debug.print_genes(genes)
 	debug.print_IDs(gmim_to_geneID)
 
 def can_grade(cui):
