@@ -1,13 +1,8 @@
 #!/usr/bin/expect
-# 2014-12-12 toby
-
-# connects to ftp.omim.org and grabs two files
+# last updated 2015-01-13 toby
+# connects to ftp.omim.org and grabs any number of files
 
 set timeout 20
-
-set file1 [lindex $argv 0]
-set file2 [lindex $argv 1]
-
 set email "tongli@scripps.edu"
 
 spawn ftp ftp.omim.org
@@ -18,19 +13,17 @@ expect "Password:"
 send "$email\r"
 
 expect "ftp>"
-send "ls\r"
-
-expect "ftp>"
 send "cd omim\r"
 
 expect "ftp>"
 send "ls\r"
 
-expect "ftp>"
-send "get $file1\r"
-
-expect "ftp>"
-send "get $file2\r"
+# loops over the filenames we passed it, and grabs each
+set total [llength $argv]
+for {set i 0} {$i < $total} {incr i} {
+	expect "ftp>"
+	send "get [lindex $argv $i]\r"
+}
 
 expect "ftp>"
 send "exit\r"

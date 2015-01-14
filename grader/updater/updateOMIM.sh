@@ -1,33 +1,24 @@
 #!/bin/bash
+# last updated 2015-01-13 toby
 
-# last updated 2014-12-12 toby
+files=('morbidmap' 'mim2gene.txt')
 
-# grabs files from OMIM and moves it
+echo "Updating: ${files[@]}"
 
-file1="morbidmap"
-file2="mim2gene.txt"
+./ftpOMIM.exp ${files[@]}
 
-echo "Starting to update $file1 and $file2"
+for fname in "${files[@]}"; do
+	newname=$fname
+	if [[ $fname != *".txt" ]]; then
+		newname+=".txt"
+	fi
 
-./ftpOMIM.exp $file1 $file2
+	if [ -e "$fname" ]; then
+		echo "Successfully got $fname"
+		mv $fname ~/grader/data/$newname
+	else
+		echo "Could not get $fname from OMIM server."
+	fi
+done
 
-if [ -e "$file1" ]; then
-	echo "Successfully got $file1"
-
-	newname=$file1
-	newname+=".txt"
-
-	mv $file1 $newname
-	mv $newname ~/grader/data
-else
-	echo "Could not get $file1 from OMIM server"
-fi
-
-if [ -e "$file2" ]; then
-	echo "Successfully got $file2"
-	mv $file2 ~/grader/data
-else
-	echo "Could not get $file2 from OMIM server"
-fi
-
-echo "Finished"
+echo "Done."
