@@ -20,10 +20,7 @@ def query_ncbi(url):
 
 #-------------------------------------------------------------------------------
 
-def uid_to_cui(uid):
-#	converts one uid to one cui
-#	there is only one cui for each uid
-
+def uid_to_cui(uid): # one uid to one cui
 	req = "esummary.fcgi?db=medgen&id=" + uid
 	xml = query_ncbi(req)
 
@@ -34,8 +31,7 @@ def uid_to_cui(uid):
 	assert len(res) == 1, "More than one CUI for UID {0}".format(uid)
 	return res[0][11:-12]
 
-
-def cui_to_uid(cui):
+def cui_to_uid(cui): # one cui to one uid
 	req = "esearch.fcgi?db=medgen&term=" + cui + "[conceptid]"
 	xml = query_ncbi(req)
 
@@ -43,31 +39,8 @@ def cui_to_uid(cui):
 		raise Exception("No UID exists for {0}".format(cui))
 
 	res = re.findall(r'<Id>\d+</Id>', xml)
-
 	assert len(res) == 1, "More than one UID for {0}".format(cui)
-#	uids = [uid[4:-5] for uid in res]
-
-
 	return res[0][4:-5]
-
-#	return uids[0]
-
-
-
-#	there should only be one UID for each CUI
-	if len(uids) == 1:
-		return uids[0]
-
-#	but, some CUIs return multiple UIDs for some reason...
-#	eg C0745103 gives UIDs of 152875 and 5688
-#	but the CUI of 5688 is C0020445
-
-#	to to get around this we find the UID of each CUI again
-#	and see which gives the correct one to one mapping
-
-	cuis = map(uid_to_cui, uids)
-	assert cuis.count(cui) == 1, "UID to CUI {0} is not unique!".format(cui)
-	return uids[cuis.index(cui)]
 
 #-------------------------------------------------------------------------------
 
@@ -91,7 +64,6 @@ def dmim_to_uid(dmim):
 	if re.search(r'No items found.', xml) is not None:
 		print "DMIM {0} does not exist in MedGen.".format(dmim)
 		return []
-#		raise Exception("DMIM {0} does not exist in MedGen.".format(dmim))
 
 	res = re.findall(r'<Id>\d+</Id>', xml)
 	return [uid[4:-5] for uid in res]
@@ -100,18 +72,14 @@ def dmim_to_uid(dmim):
 
 def dmim_to_cui(dmim):
 #	one dmim to many cui
-
 #	returns CUIs starting with CN...
 
 	uids = dmim_to_uid(dmim)
-
 	if not uids:
 		return []
 
 	cuis = map(uid_to_cui, uids)
-
-	assert len(cuis) == len(set(cuis)), "repeating cuis for dmim {0}".format(dmim)
-	return cuis
+	return list(set(cuis)) # returns unique cuis
 
 def cui_to_dmim(cui):
 #	one cui to many dmim
@@ -122,14 +90,9 @@ def cui_to_dmim(cui):
 
 #-------------------------------------------------------------------------------
 
-#error in gene database:
-#gmim 603072 gives two results using eutils: geneids: 6790 and 8465
-
-#6790 gives the correct mapping, but searching for 8465 in gene gives nothing
-#if you use esummary, then it gives 8465 for id but "currentid" is 6790
-
-#..... stupid database
-
+# some gene ids are deprecated
+# eg gmim 603072 gives 6790 and 8465
+# but the 8465 is deprecated
 
 def gmim_to_geneID(gmim):
 #	converts a gene MIM into a gene ID (should be 1 to 1)
@@ -140,26 +103,15 @@ def gmim_to_geneID(gmim):
 		print "Gene MIM {0} has no gene ID.".format(gmim)
 		return []
 
-#		raise Exception("Gene MIM {0} has no gene ID.".format(gmim))
-
+#	TODO:
+#	get only the current gene id
 	res = re.findall(r'<Id>\d+</Id>', xml)
-#	assert len(res) == 1, "Gene MIM {0} has multiple gene IDs.".format(gmim)
 	return [gene_id[4:-5] for gene_id in res]
 
 #-------------------------------------------------------------------------------
 
 def main():
-
-	print cui_to_uid(sys.argv[1])
-	return
-
-
-
-
-	print "hi"
-#	print gmim_to_geneID('612374')
 	print dmim_to_cui('615962')
-#	print gmim_to_geneID(sys.argv[1])
 
 if __name__ == "__main__":
 	main()
