@@ -1,31 +1,48 @@
-# last updated 2014-12-16 toby
+# last updated 2015-01-26 toby
 import os
 import re
 
+import sys
+sys.path.append("/home/toby/useful_util/")
+import util
+
+from collections import defaultdict
+
 def parse_morbidmap():
-	bad_diseases = [] # diseases without a dmim
-	genes = dict() # all unique gmims assosicated with dmim
-	place = "/home/toby/grader/data/morbidmap.txt"
-	with open(place) as morbidmap:
-		for line in morbidmap:
-			line = line.rstrip('\n')
+#	returns genes[dmim] = set(gmim, gmim, gmim...) to ensure uniqueness
+#	gives the list of gene mim numbers known to cause each disease mim number
 
-			disease, gene, gmim, locus = line.split("|")
+	genes = defaultdict(set) # all unique gmims assosicated with dmim
 
-			result = re.search(r'\d{6}', disease) # disease has MIM?
-			if result is None:
-				bad_diseases.append(disease)
-			else:
-				dmim = result.group()
-				if not (dmim in genes):
-					genes[dmim] = []
+	mm_loc = "/home/toby/grader/data/"
+	for line in util.read_file(mm_loc, "morbidmap.txt"):
+		disease, gene, gmim, locus = line.split("|")
+		result = re.search(r'\d{6}', disease)
 
-				if not (gmim in genes[dmim]):
-					genes[dmim].append(gmim)
+#		some diseases are bad and have no disease mim identifier
+		if result is not None:
+			dmim = result.group()
+			genes[dmim].add(gmim)
 
 	return genes
 
+#-------------------------------------------------------------------------------
+
 def main():
+#	genes = parse_morbidmap()
+#	ans = []
+#	for key, val in genes.items():
+#		if len(val) >= 10:
+#			ans.append((key, len(val)))
+#
+#	ans = sorted(ans, key = lambda x: x[1], reverse = True)
+#	with open("max_morbidmap.txt", "w") as out:
+#		for dmim, num in ans:
+#			out.write(dmim + "\n")
+#
+#	return
+
+
 	debugdir = "/home/toby/grader/debug/"
 	if not os.path.exists(debugdir):
 		os.makedirs(debugdir)
