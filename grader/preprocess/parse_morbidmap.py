@@ -1,5 +1,4 @@
 # last updated 2015-01-26 toby
-import os
 import re
 
 import sys
@@ -29,23 +28,8 @@ def parse_morbidmap():
 #-------------------------------------------------------------------------------
 
 def main():
-#	genes = parse_morbidmap()
-#	ans = []
-#	for key, val in genes.items():
-#		if len(val) >= 10:
-#			ans.append((key, len(val)))
-#
-#	ans = sorted(ans, key = lambda x: x[1], reverse = True)
-#	with open("max_morbidmap.txt", "w") as out:
-#		for dmim, num in ans:
-#			out.write(dmim + "\n")
-#
-#	return
-
-
 	debugdir = "/home/toby/grader/debug/"
-	if not os.path.exists(debugdir):
-		os.makedirs(debugdir)
+	util.make_dir(debugdir)
 
 #	print sorted morbidmap
 	genes = parse_morbidmap()
@@ -58,25 +42,12 @@ def main():
 				out.write("|" + gmim)
 			out.write("\n")
 
-#	generate testset
-	names = [ [] for x in range(30)]
-	for dmim in dmims:
-		names[len(genes[dmim])].append(dmim)
+	names = defaultdict(set)
+	for dmim, gmims in genes.items():
+		names[len(gmims)].add(dmim)
 
-	print "length of names"
-	print [len(val) for val in names]
-
-	min_genes = 9
-	total = 0
-	ans = []
-	for i, val in enumerate(names):
-		print "i", i, "len(val)", len(val)
-		if i >= min_genes:
-			ans += val
-
-	with open(debugdir + "tograde.txt", "w") as out:
-		for dmim in ans:
-			out.write(dmim + "\n")
+	for i, dmims in names.items():
+		print "i {0} len() {1}".format(i, len(dmims))
 
 if __name__ == "__main__":
 	main()
