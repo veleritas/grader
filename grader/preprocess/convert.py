@@ -111,7 +111,7 @@ def gmim_to_geneID(gmim):
 #-------------------------------------------------------------------------------
 
 def main():
-	print dmim_to_cui('615962')
+	print cui_to_dmim(sys.argv[1])
 
 if __name__ == "__main__":
 	main()
