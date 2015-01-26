@@ -22,29 +22,67 @@ def uid_to_cui(uids):
 	assert len(res) == len(uids), "different lengths"
 	return [cui[11:-12] for cui in res]
 
+def read_file(fname):
+	with open(fname) as file:
+		lines = [line.rstrip('\n') for line in file]
+
+	return lines
+
+def uniq_cui_of_dmim(dmim):
+	print "dmim", dmim
+	uids = dmim_to_uid(dmim)
+	cuis = uid_to_cui(uids)
+	return [cui for cui in cuis if re.match(r'^C\d{7}$', cui)]
+
 def main():
-	debugdir = "/home/toby/grader/debug/"
+	fname = "semmed.txt"
+	dmims = read_file(fname)
+	ans = map(uniq_cui_of_dmim, dmims)
 
-	ans = []
-	with open(debugdir + "tograde.txt") as file:
-		for dmim in file:
-			dmim = dmim.rstrip('\n')
+#	uniq = []
+#	for vals in ans:
+#		for val in vals:
+#			if val not in uniq:
+#				uniq.append(val)
+#
+#	print "uniq", len(uniq)
+#	total = 0
+#	for vals in ans:
+#		total += len(vals)
+#	print "total", total
 
-			print "dmim", dmim
-			uids = dmim_to_uid(dmim)
-			cuis = uid_to_cui(uids)
-			print "cuis", cuis
+	print len(ans)
+	print len(dmims)
 
+	with open("out.txt", "w") as out:
+		for dmim, cuis in zip(dmims, ans):
+			out.write(dmim)
 			for cui in cuis:
-				if re.match(r'^C\d{7}$', cui):
-					if not (cui in ans):
-						ans.append(cui)
+				out.write("|" + cui)
+			out.write("\n")
 
-	print "size", len(ans)
-	place = "/home/toby/grader/data/"
-	with open(place + "testset.txt", "w") as out:
-		for cui in ans:
-			out.write(cui + "\n")
+#	debugdir = "/home/toby/grader/debug/"
+#
+#	ans = []
+#	with open(debugdir + "tograde.txt") as file:
+#		for dmim in file:
+#			dmim = dmim.rstrip('\n')
+#
+#			print "dmim", dmim
+#			uids = dmim_to_uid(dmim)
+#			cuis = uid_to_cui(uids)
+#			print "cuis", cuis
+#
+#			for cui in cuis:
+#				if re.match(r'^C\d{7}$', cui):
+#					if not (cui in ans):
+#						ans.append(cui)
+#
+#	print "size", len(ans)
+#	place = "/home/toby/grader/data/"
+#	with open(place + "testset.txt", "w") as out:
+#		for cui in ans:
+#			out.write(cui + "\n")
 
 if __name__ == "__main__":
 	main()
